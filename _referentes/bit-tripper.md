@@ -43,4 +43,4 @@ La relevancia para esta investigación es que el proyecto combina de forma magis
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/between-page-and-screen/">← Anterior<br><small>Between Page and Screen</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/brain-opera/">Siguiente →<br><small>Brain Opera</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/biometric-sans/">← Anterior<br><small>Biometric Sans</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/brain-opera/">Siguiente →<br><small>Brain Opera</small></a></div></div>

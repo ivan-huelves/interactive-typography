@@ -104,6 +104,22 @@ Proyectos catalogados como **Investigación / Experimental**:
       </div>
     </a>
 
+    <a href="/referentes/biometric-sans/" class="project-card">
+      <div class="card-image">
+        <img src="/images/referentes/biometric01.jpg" alt="Imagen de Biometric Sans" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Biometric Sans
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Zong
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
     <a href="/referentes/brain-opera/" class="project-card">
       <div class="card-image">
         <img src="/images/referentes/brain-opera.jpg" alt="Imagen de Brain Opera" loading="lazy">

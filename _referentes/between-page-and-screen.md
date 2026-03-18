@@ -43,4 +43,4 @@ La relevancia para esta investigación es que el proyecto cuestiona la materiali
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/automated-type-design/">← Anterior<br><small>Automated Type Design</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/bit-tripper/">Siguiente →<br><small>Bit Tripper</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/automated-type-design/">← Anterior<br><small>Automated Type Design</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/biometric-sans/">Siguiente →<br><small>Biometric Sans</small></a></div></div>
