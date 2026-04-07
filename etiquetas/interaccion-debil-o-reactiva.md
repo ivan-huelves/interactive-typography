@@ -4,100 +4,1510 @@ title: "Proyectos: Interacción débil o reactiva"
 permalink: /etiquetas/interaccion-debil-o-reactiva/
 ---
 <div class="project-grid">
-<a href="/interactive-typography/referentes/36-days-of-type-embodied-interaction/" class="project-card"><img src="/interactive-typography/images/referentes/36 days of type 01.png" alt="36 Days of Type (Embodied Interaction)"><strong>36 Days of Type (Embodied Interaction)</strong></a>
-<a href="/interactive-typography/referentes/a-font-is-a-percussion-instrument/" class="project-card"><img src="/interactive-typography/images/referentes/A Font is a Percussion Instrument 01.webp" alt="A Font is a Percussion Instrument"><strong>A Font is a Percussion Instrument</strong></a>
-<a href="/interactive-typography/referentes/alphabot/" class="project-card"><img src="/interactive-typography/images/referentes/ALPHABOT 01.webp" alt="Alphabot"><strong>Alphabot</strong></a>
-<a href="/interactive-typography/referentes/amsteldok/" class="project-card"><img src="/interactive-typography/images/referentes/Amsteldok 01.webp" alt="Amsteldok"><strong>Amsteldok</strong></a>
-<a href="/interactive-typography/referentes/between-page-and-screen/" class="project-card"><img src="/interactive-typography/images/referentes/Between Page and Screen 01.jpg" alt="Between Page and Screen"><strong>Between Page and Screen</strong></a>
-<a href="/interactive-typography/referentes/biometric-sans/" class="project-card"><img src="/interactive-typography/images/referentes/biometric01.jpg" alt="Biometric Sans"><strong>Biometric Sans</strong></a>
-<a href="/interactive-typography/referentes/brain-opera/" class="project-card"><img src="/interactive-typography/images/referentes/brain-opera.jpg" alt="Brain Opera"><strong>Brain Opera</strong></a>
-<a href="/interactive-typography/referentes/cheiro/" class="project-card"><img src="/interactive-typography/images/referentes/cheiro 01.jpg" alt="Cheiro"><strong>Cheiro</strong></a>
-<a href="/interactive-typography/referentes/dana-font/" class="project-card"><img src="/interactive-typography/images/referentes/dana 01.jpg" alt="Dana Font"><strong>Dana Font</strong></a>
-<a href="/interactive-typography/referentes/dance-writer/" class="project-card"><img src="/interactive-typography/images/referentes/dancewriter 01.jpg" alt="Dance Writer"><strong>Dance Writer</strong></a>
-<a href="/interactive-typography/referentes/dancing-type/" class="project-card"><img src="/interactive-typography/images/referentes/dancing type 01.png" alt="Dancing Type"><strong>Dancing Type</strong></a>
-<a href="/interactive-typography/referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/" class="project-card"><img src="/interactive-typography/images/referentes/kinetic hangul.png" alt="Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul"><strong>Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul</strong></a>
-<a href="/interactive-typography/referentes/dialogue/" class="project-card"><img src="/interactive-typography/images/referentes/dialogue.png" alt="Dialogue"><strong>Dialogue</strong></a>
-<a href="/interactive-typography/referentes/dmz-life-under-the-shadow-of-a-gun/" class="project-card"><img src="/interactive-typography/images/referentes/dmz 01.jpg" alt="DMZ. Life Under the Shadow of a Gun"><strong>DMZ. Life Under the Shadow of a Gun</strong></a>
-<a href="/interactive-typography/referentes/embodied-type/" class="project-card"><img src="/interactive-typography/images/referentes/embodied 01.gif" alt="Embodied Type"><strong>Embodied Type</strong></a>
-<a href="/interactive-typography/referentes/emotional-type/" class="project-card"><img src="/interactive-typography/images/referentes/emotional type 01.png" alt="Emotional Type"><strong>Emotional Type</strong></a>
-<a href="/interactive-typography/referentes/emotxt/" class="project-card"><img src="/interactive-typography/images/referentes/emotxt 01.jpg" alt="Emotxt"><strong>Emotxt</strong></a>
-<a href="/interactive-typography/referentes/existential-co/" class="project-card"><img src="/interactive-typography/images/referentes/extential 01.png" alt="Existential Co."><strong>Existential Co.</strong></a>
-<a href="/interactive-typography/referentes/experimentos-ar-women-of-type-y-canal/" class="project-card"><img src="/interactive-typography/images/referentes/experimentos ar 01.jpg" alt="Experimentos AR (Women of Type y CANAL)"><strong>Experimentos AR (Women of Type y CANAL)</strong></a>
-<a href="/interactive-typography/referentes/experimentos-de-tipografia-en-ar/" class="project-card"><img src="/interactive-typography/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.gif" alt="Experimentos de Tipografía en AR"><strong>Experimentos de Tipografía en AR</strong></a>
-<a href="/interactive-typography/referentes/expressive-typography/" class="project-card"><img src="/interactive-typography/images/referentes/ishizaki - expressive typography 1.png" alt="Expressive Typography"><strong>Expressive Typography</strong></a>
-<a href="/interactive-typography/referentes/fable-table-ttt-poem/" class="project-card"><img src="/interactive-typography/images/referentes/fable table 01.jpg" alt="Fable Table & TTT Poem"><strong>Fable Table & TTT Poem</strong></a>
-<a href="/interactive-typography/referentes/facetype/" class="project-card"><img src="/interactive-typography/images/referentes/facetype 01.png" alt="Facetype"><strong>Facetype</strong></a>
-<a href="/interactive-typography/referentes/funky-mr-salvador-e-isabel-marant/" class="project-card"><img src="/interactive-typography/images/referentes/interfaces isabel marant.jpg" alt="Funky Mr. Salvador e Isabel Marant"><strong>Funky Mr. Salvador e Isabel Marant</strong></a>
-<a href="/interactive-typography/referentes/generative-typography/" class="project-card"><img src="/interactive-typography/images/referentes/generative typography kenny-zhang.jpg" alt="Generative Typography"><strong>Generative Typography</strong></a>
-<a href="/interactive-typography/referentes/genoma-grotesk/" class="project-card"><img src="/interactive-typography/images/referentes/genoma 01.png" alt="Genoma Grotesk"><strong>Genoma Grotesk</strong></a>
-<a href="/interactive-typography/referentes/gintogx/" class="project-card"><img src="/interactive-typography/images/referentes/gintogx_01.gif" alt="GintoGX"><strong>GintoGX</strong></a>
-<a href="/interactive-typography/referentes/giving-character-to-characters/" class="project-card"><img src="/interactive-typography/images/referentes/Giving Character to Characters.png" alt="Giving Character to Characters"><strong>Giving Character to Characters</strong></a>
-<a href="/interactive-typography/referentes/gnomon/" class="project-card"><img src="/interactive-typography/images/referentes/gnomon.png" alt="Gnomon"><strong>Gnomon</strong></a>
-<a href="/interactive-typography/referentes/goertek-typeface/" class="project-card"><img src="/interactive-typography/images/referentes/goertek 01.png" alt="Goertek Typeface"><strong>Goertek Typeface</strong></a>
-<a href="/interactive-typography/referentes/gravient/" class="project-card"><img src="/interactive-typography/images/referentes/Gravient 01.gif" alt="Gravient"><strong>Gravient</strong></a>
-<a href="/interactive-typography/referentes/handy-type/" class="project-card"><img src="/interactive-typography/images/referentes/handytype 01.png" alt="Handy Type"><strong>Handy Type</strong></a>
-<a href="/interactive-typography/referentes/hard-music-festival/" class="project-card"><img src="/interactive-typography/images/referentes/HARD Music Festival 01.jpg" alt="Hard Music Festival"><strong>Hard Music Festival</strong></a>
-<a href="/interactive-typography/referentes/holopoetry/" class="project-card"><img src="/interactive-typography/images/referentes/holopoetry 01.gif" alt="Holopoetry"><strong>Holopoetry</strong></a>
-<a href="/interactive-typography/referentes/illuminated-manuscript/" class="project-card"><img src="/interactive-typography/images/referentes/illuminated manuscript - small 1.jpg" alt="Illuminated Manuscript"><strong>Illuminated Manuscript</strong></a>
-<a href="/interactive-typography/referentes/in-order-to-control/" class="project-card"><img src="/interactive-typography/images/referentes/in order to control 01.webp" alt="In Order to Control"><strong>In Order to Control</strong></a>
-<a href="/interactive-typography/referentes/inscript-festival-identity/" class="project-card"><img src="/interactive-typography/images/referentes/inscript 01.png" alt="Inscript Festival Identity"><strong>Inscript Festival Identity</strong></a>
-<a href="/interactive-typography/referentes/interactive-book/" class="project-card"><img src="/interactive-typography/images/referentes/interactive book 01.webp" alt="Interactive book"><strong>Interactive book</strong></a>
-<a href="/interactive-typography/referentes/interactive-typography/" class="project-card"><img src="/interactive-typography/images/referentes/interactive typography.jpg" alt="Interactive Typography"><strong>Interactive Typography</strong></a>
-<a href="/interactive-typography/referentes/janemail/" class="project-card"><img src="/interactive-typography/images/referentes/Janemail.png" alt="Janemail"><strong>Janemail</strong></a>
-<a href="/interactive-typography/referentes/kachi-buwa/" class="project-card"><img src="/interactive-typography/images/referentes/KACHI-BUWA 01.jpg" alt="Kachi-Buwa"><strong>Kachi-Buwa</strong></a>
-<a href="/interactive-typography/referentes/keyboard-type-control-y-voice-type-control/" class="project-card"><img src="/interactive-typography/images/referentes/Keyboard Type Control y Voice Type Control 01.png" alt="Keyboard Type Control y Voice Type Control"><strong>Keyboard Type Control y Voice Type Control</strong></a>
-<a href="/interactive-typography/referentes/kinetic-instant-messenger/" class="project-card"><img src="/interactive-typography/images/referentes/kinetic typography.jpg" alt="Kinetic Instant Messenger"><strong>Kinetic Instant Messenger</strong></a>
-<a href="/interactive-typography/referentes/laika/" class="project-card"><img src="/interactive-typography/images/referentes/laika 01.jpg" alt="Laika"><strong>Laika</strong></a>
-<a href="/interactive-typography/referentes/laser-letters/" class="project-card"><img src="/interactive-typography/images/referentes/laser letters 01.gif" alt="Laser Letters"><strong>Laser Letters</strong></a>
-<a href="/interactive-typography/referentes/letter-dance/" class="project-card"><img src="/interactive-typography/images/referentes/letter dance.jpg" alt="Letter Dance"><strong>Letter Dance</strong></a>
-<a href="/interactive-typography/referentes/letterspace/" class="project-card"><img src="/interactive-typography/images/referentes/letterspace 01.jpg" alt="Letterspace"><strong>Letterspace</strong></a>
-<a href="/interactive-typography/referentes/like-beauty-in-flames/" class="project-card"><img src="/interactive-typography/images/referentes/like beauty in flames 1.jpg" alt="Like Beauty in Flames"><strong>Like Beauty in Flames</strong></a>
-<a href="/interactive-typography/referentes/look-hear/" class="project-card"><img src="/interactive-typography/images/referentes/LOOK_HEAR 1.jpg" alt="Look/Hear"><strong>Look/Hear</strong></a>
-<a href="/interactive-typography/referentes/momem/" class="project-card"><img src="/interactive-typography/images/referentes/momem.jpg" alt="Momem"><strong>Momem</strong></a>
-<a href="/interactive-typography/referentes/move-me-mm/" class="project-card"><img src="/interactive-typography/images/referentes/move me mm.jpg" alt="Move Me MM"><strong>Move Me MM</strong></a>
-<a href="/interactive-typography/referentes/maquina-de-ouver/" class="project-card"><img src="/interactive-typography/images/referentes/ouver 01.jpg" alt="Máquina de Ouver"><strong>Máquina de Ouver</strong></a>
-<a href="/interactive-typography/referentes/nomad-typeface/" class="project-card"><img src="/interactive-typography/images/referentes/nomad typeface.jpg" alt="Nomad Typeface"><strong>Nomad Typeface</strong></a>
-<a href="/interactive-typography/referentes/performa/" class="project-card"><img src="/interactive-typography/images/referentes/performa.jpg" alt="Performa"><strong>Performa</strong></a>
-<a href="/interactive-typography/referentes/phonoma/" class="project-card"><img src="/interactive-typography/images/referentes/phonoma.jpg" alt="Phonoma"><strong>Phonoma</strong></a>
-<a href="/interactive-typography/referentes/poemas-no-meio-do-caminho/" class="project-card"><img src="/interactive-typography/images/referentes/poemasnomeiodocaminho_01.jpg" alt="Poemas no meio do caminho"><strong>Poemas no meio do caminho</strong></a>
-<a href="/interactive-typography/referentes/poemm/" class="project-card"><img src="/interactive-typography/images/referentes/poemm 01.jpg" alt="P.o.E.M.M."><strong>P.o.E.M.M.</strong></a>
-<a href="/interactive-typography/referentes/prosodic-font/" class="project-card"><img src="/interactive-typography/images/referentes/prosodic font.png" alt="Prosodic Font"><strong>Prosodic Font</strong></a>
-<a href="/interactive-typography/referentes/quarto/" class="project-card"><img src="/interactive-typography/images/referentes/quarto 1.jpg" alt="Quarto"><strong>Quarto</strong></a>
-<a href="/interactive-typography/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/" class="project-card"><img src="/interactive-typography/images/referentes/reactive books 12 oclock.webp" alt="Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)"><strong>Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)</strong></a>
-<a href="/interactive-typography/referentes/reactive-typography/" class="project-card"><img src="/interactive-typography/images/referentes/Reactive Typography 1.png" alt="Reactive Typography"><strong>Reactive Typography</strong></a>
-<a href="/interactive-typography/referentes/responsive-typography-with-viewing-distance-detection/" class="project-card"><img src="/interactive-typography/images/referentes/Responsive Typography with Viewing Distance Detection 01.jpg" alt="Responsive Typography with Viewing Distance Detection"><strong>Responsive Typography with Viewing Distance Detection</strong></a>
-<a href="/interactive-typography/referentes/rio-carnaval/" class="project-card"><img src="/interactive-typography/images/referentes/rio carnaval 01.jpeg" alt="Rio Carnaval"><strong>Rio Carnaval</strong></a>
-<a href="/interactive-typography/referentes/robotype-sujigen-mojigen-77/" class="project-card"><img src="/interactive-typography/images/referentes/robotype 01.jpg" alt="Robotype (Sujigen, Mojigen, 7×7)"><strong>Robotype (Sujigen, Mojigen, 7×7)</strong></a>
-<a href="/interactive-typography/referentes/seen/" class="project-card"><img src="/interactive-typography/images/referentes/seen 01.png" alt="Seen"><strong>Seen</strong></a>
-<a href="/interactive-typography/referentes/segundo-soneto-meio-barroco/" class="project-card"><img src="/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Segundo Soneto Meio Barroco"><strong>Segundo Soneto Meio Barroco</strong></a>
-<a href="/interactive-typography/referentes/sonictype/" class="project-card"><img src="/interactive-typography/images/referentes/sonyctype 01.jpg" alt="Sonictype"><strong>Sonictype</strong></a>
-<a href="/interactive-typography/referentes/sound-reactive-typeface/" class="project-card"><img src="/interactive-typography/images/referentes/sound-reactive typeface yarza twins.gif" alt="Sound-Reactive Typeface"><strong>Sound-Reactive Typeface</strong></a>
-<a href="/interactive-typography/referentes/sound-type/" class="project-card"><img src="/interactive-typography/images/referentes/sound type 01.jpg" alt="Sound Type"><strong>Sound Type</strong></a>
-<a href="/interactive-typography/referentes/speak-dont-speak/" class="project-card"><img src="/interactive-typography/images/referentes/speak 01.avif" alt="Speak Don't Speak"><strong>Speak Don't Speak</strong></a>
-<a href="/interactive-typography/referentes/still-standing/" class="project-card"><img src="/interactive-typography/images/referentes/still standing 01.jpg" alt="Still Standing"><strong>Still Standing</strong></a>
-<a href="/interactive-typography/referentes/symphony-in-acid/" class="project-card"><img src="/interactive-typography/images/referentes/symphony-in-acid-01.png" alt="Symphony in Acid"><strong>Symphony in Acid</strong></a>
-<a href="/interactive-typography/referentes/symphosizer/" class="project-card"><img src="/interactive-typography/images/referentes/Symphosizer 01.png" alt="Symphosizer"><strong>Symphosizer</strong></a>
-<a href="/interactive-typography/referentes/synestype/" class="project-card"><img src="/interactive-typography/images/referentes/synestype 01.jpg" alt="Synestype"><strong>Synestype</strong></a>
-<a href="/interactive-typography/referentes/takeluma/" class="project-card"><img src="/interactive-typography/images/referentes/takeluma 01.jpg" alt="Takeluma"><strong>Takeluma</strong></a>
-<a href="/interactive-typography/referentes/talmud-project/" class="project-card"><img src="/interactive-typography/images/referentes/talmud.png" alt="Talmud Project"><strong>Talmud Project</strong></a>
-<a href="/interactive-typography/referentes/textension/" class="project-card"><img src="/interactive-typography/images/referentes/textension.jpg" alt="Textension"><strong>Textension</strong></a>
-<a href="/interactive-typography/referentes/the-climate-crisis-font/" class="project-card"><img src="/interactive-typography/images/referentes/climate crisis font 01.gif" alt="The Climate Crisis Font"><strong>The Climate Crisis Font</strong></a>
-<a href="/interactive-typography/referentes/the-guide-to-be-seen/" class="project-card"><img src="/interactive-typography/images/referentes/the guide to be seen 02.png" alt="The Guide To Be Seen"><strong>The Guide To Be Seen</strong></a>
-<a href="/interactive-typography/referentes/timed-type/" class="project-card"><img src="/interactive-typography/images/referentes/timed type.jpg" alt="Timed Type"><strong>Timed Type</strong></a>
-<a href="/interactive-typography/referentes/tomorrows-typography/" class="project-card"><img src="/interactive-typography/images/referentes/tomorrow typography 01.png" alt="Tomorrow's Typography"><strong>Tomorrow's Typography</strong></a>
-<a href="/interactive-typography/referentes/touch-type/" class="project-card"><img src="/interactive-typography/images/referentes/touch type 01.gif" alt="Touch Type"><strong>Touch Type</strong></a>
-<a href="/interactive-typography/referentes/type-as-tone/" class="project-card"><img src="/interactive-typography/images/referentes/type as tone 1.webp" alt="Type as Tone"><strong>Type as Tone</strong></a>
-<a href="/interactive-typography/referentes/typeface-project/" class="project-card"><img src="/interactive-typography/images/referentes/typeface 01.jpg" alt="Typeface Project"><strong>Typeface Project</strong></a>
-<a href="/interactive-typography/referentes/type-machine/" class="project-card"><img src="/interactive-typography/images/referentes/typemachine 02.png" alt="Type Machine"><strong>Type Machine</strong></a>
-<a href="/interactive-typography/referentes/type-me-type-me-not/" class="project-card"><img src="/interactive-typography/images/referentes/type me type not 01.png" alt="Type Me, Type Me Not"><strong>Type Me, Type Me Not</strong></a>
-<a href="/interactive-typography/referentes/typeractive/" class="project-card"><img src="/interactive-typography/images/referentes/typeractive.jpg" alt="Typeractive"><strong>Typeractive</strong></a>
-<a href="/interactive-typography/referentes/typespace/" class="project-card"><img src="/interactive-typography/images/referentes/typespace 01.avif" alt="Typespace"><strong>Typespace</strong></a>
-<a href="/interactive-typography/referentes/typevoice/" class="project-card"><img src="/interactive-typography/images/referentes/type voice 1.jpg" alt="TypeVoice"><strong>TypeVoice</strong></a>
-<a href="/interactive-typography/referentes/typographic-rhythm/" class="project-card"><img src="/interactive-typography/images/referentes/Typographic Rhytm.png" alt="Typographic Rhythm"><strong>Typographic Rhythm</strong></a>
-<a href="/interactive-typography/referentes/typo-talk/" class="project-card"><img src="/interactive-typography/images/referentes/typo talk.jpg" alt="Typo Talk"><strong>Typo Talk</strong></a>
-<a href="/interactive-typography/referentes/variable-fonts-reactive-typography/" class="project-card"><img src="/interactive-typography/images/referentes/variable-fonts-reactive-typo 01.jpg" alt="Variable Fonts – Reactive Typography"><strong>Variable Fonts – Reactive Typography</strong></a>
-<a href="/interactive-typography/referentes/visual-grammar/" class="project-card"><img src="/interactive-typography/images/referentes/visual grammar isabel lee 1.jpg" alt="Visual Grammar"><strong>Visual Grammar</strong></a>
-<a href="/interactive-typography/referentes/your-typeface/" class="project-card"><img src="/interactive-typography/images/referentes/yourtypeface 01.jpg" alt="Your Typeface"><strong>Your Typeface</strong></a>
+
+    <a href="/interactive-typography/referentes/36-days-of-type-embodied-interaction/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/36 days of type 01.png" alt="Imagen de 36 Days of Type (Embodied Interaction)" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            36 Days of Type (Embodied Interaction)
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Nahuel Gerth
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/a-font-is-a-percussion-instrument/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/A Font is a Percussion Instrument 01.webp" alt="Imagen de A Font is a Percussion Instrument" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            A Font is a Percussion Instrument
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rob Stenson
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/alphabot/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/ALPHABOT 01.webp" alt="Imagen de Alphabot" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Alphabot
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Nikita Pashenkov
+          <br>
+          <span style="color: #999;">2000</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/amsteldok/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Amsteldok 01.webp" alt="Imagen de Amsteldok" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Amsteldok
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Vbat y Fontsmith
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/between-page-and-screen/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Between Page and Screen 01.jpg" alt="Imagen de Between Page and Screen" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Between Page and Screen
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Amaranth Borsuk y Brad Bouse
+          <br>
+          <span style="color: #999;">2012</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/biometric-sans/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/biometric01.jpg" alt="Imagen de Biometric Sans" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Biometric Sans
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Zong
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/brain-opera/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/brain-opera.jpg" alt="Imagen de Brain Opera" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Brain Opera
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small y Yin Yin Wong
+          <br>
+          <span style="color: #999;">1996</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/cheiro/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/cheiro 01.jpg" alt="Imagen de Cheiro" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Cheiro
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Francis Lam
+          <br>
+          <span style="color: #999;">2006</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/dana-font/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/dana 01.jpg" alt="Imagen de Dana Font" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Dana Font
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Ana Estrada
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/dance-writer/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/dancewriter 01.jpg" alt="Imagen de Dance Writer" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Dance Writer
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Peter Biľak
+          <br>
+          <span style="color: #999;">2009</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/dancing-type/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/dancing type 01.png" alt="Imagen de Dancing Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Dancing Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Dev Valladares
+          <br>
+          <span style="color: #999;">2021</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/design-of-kinetic-typography-interaction-based-on-the-structural-characteristics-of-hangul/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/kinetic hangul.png" alt="Imagen de Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Design of Kinetic Typography Interaction based on the Structural Characteristics of Hangul
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Sooyeon Lim
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/dialogue/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/dialogue.png" alt="Imagen de Dialogue" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Dialogue
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Yin Yin Wong
+          <br>
+          <span style="color: #999;">1995</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/dmz-life-under-the-shadow-of-a-gun/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/dmz 01.jpg" alt="Imagen de DMZ. Life Under the Shadow of a Gun" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            DMZ. Life Under the Shadow of a Gun
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Annie Kwon
+          <br>
+          <span style="color: #999;">2020</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/embodied-type/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/embodied 01.gif" alt="Imagen de Embodied Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Embodied Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Janny Ji
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/emotional-type/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/emotional type 01.png" alt="Imagen de Emotional Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Emotional Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Promphan Suksumek
+          <br>
+          <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/emotxt/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/emotxt 01.jpg" alt="Imagen de Emotxt" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Emotxt
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Weiying Ma
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/existential-co/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/extential 01.png" alt="Imagen de Existential Co." loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Existential Co.
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Space Type Co. y Studio Pact
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/experimentos-ar-women-of-type-y-canal/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/experimentos ar 01.jpg" alt="Imagen de Experimentos AR (Women of Type y CANAL)" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Experimentos AR (Women of Type y CANAL)
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Beatriz Lozano
+          <br>
+          <span style="color: #999;">2021</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/experimentos-de-tipografia-en-ar/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Experimentos de Tipografía en Realidad Aumentada 01.gif" alt="Imagen de Experimentos de Tipografía en AR" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Experimentos de Tipografía en AR
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Andrew Johnson y Erik van Blokland
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/expressive-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/ishizaki - expressive typography 1.png" alt="Imagen de Expressive Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Expressive Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Suguru Ishizaki
+          <br>
+          <span style="color: #999;">1996</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/fable-table-ttt-poem/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/fable table 01.jpg" alt="Imagen de Fable Table & TTT Poem" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Fable Table & TTT Poem
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Douglas Soo
+          <br>
+          <span style="color: #999;">1997</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/facetype/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/facetype 01.png" alt="Imagen de Facetype" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Facetype
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Adam Lenzinger
+          <br>
+          <span style="color: #999;">2020</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/funky-mr-salvador-e-isabel-marant/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/interfaces isabel marant.jpg" alt="Imagen de Funky Mr. Salvador e Isabel Marant" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Funky Mr. Salvador e Isabel Marant
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Schultzschultz
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/generative-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/generative typography kenny-zhang.jpg" alt="Imagen de Generative Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Generative Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Zeke Wattles y estudiantes
+          <br>
+          <span style="color: #999;">2020</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/genoma-grotesk/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/genoma 01.png" alt="Imagen de Genoma Grotesk" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Genoma Grotesk
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Robin Eberwein
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/gintogx/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/gintogx_01.gif" alt="Imagen de GintoGX" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            GintoGX
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Daniel Wenzel
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/giving-character-to-characters/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Giving Character to Characters.png" alt="Imagen de Giving Character to Characters" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Giving Character to Characters
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Richard The
+          <br>
+          <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/gnomon/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/gnomon.png" alt="Imagen de Gnomon" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Gnomon
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Indestructible Type
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/goertek-typeface/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/goertek 01.png" alt="Imagen de Goertek Typeface" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Goertek Typeface
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Kontrapunkt
+          <br>
+          <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/gravient/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Gravient 01.gif" alt="Imagen de Gravient" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Gravient
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Pràctica
+          <br>
+          <span style="color: #999;">2018</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/handy-type/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/handytype 01.png" alt="Imagen de Handy Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Handy Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rozi Zhu y Haocheng Zhang
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/hard-music-festival/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/HARD Music Festival 01.jpg" alt="Imagen de Hard Music Festival" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Hard Music Festival
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mikiko Yamabayashi
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/holopoetry/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/holopoetry 01.gif" alt="Imagen de Holopoetry" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Holopoetry
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Eduardo Kac
+          <br>
+          <span style="color: #999;">1983</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/illuminated-manuscript/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/illuminated manuscript - small 1.jpg" alt="Imagen de Illuminated Manuscript" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Illuminated Manuscript
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small
+          <br>
+          <span style="color: #999;">2002</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/in-order-to-control/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/in order to control 01.webp" alt="Imagen de In Order to Control" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            In Order to Control
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Nota Bene Visual
+          <br>
+          <span style="color: #999;">2011</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/inscript-festival-identity/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/inscript 01.png" alt="Imagen de Inscript Festival Identity" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Inscript Festival Identity
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Gianpaolo Tucci y Kacper Pietrzykowski
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/interactive-book/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/interactive book 01.webp" alt="Imagen de Interactive book" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Interactive book
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Tamper Studio
+          <br>
+          <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/interactive-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/interactive typography.jpg" alt="Imagen de Interactive Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Interactive Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jaivardhan Singh Channey
+          <br>
+          <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/janemail/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Janemail.png" alt="Imagen de Janemail" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Janemail
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Yin Yin Wong
+          <br>
+          <span style="color: #999;">1995</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/kachi-buwa/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/KACHI-BUWA 01.jpg" alt="Imagen de Kachi-Buwa" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Kachi-Buwa
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Emi Takahashi
+          <br>
+          <span style="color: #999;">2020</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/keyboard-type-control-y-voice-type-control/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Keyboard Type Control y Voice Type Control 01.png" alt="Imagen de Keyboard Type Control y Voice Type Control" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Keyboard Type Control y Voice Type Control
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small
+          <br>
+          <span style="color: #999;">1990</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/kinetic-instant-messenger/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/kinetic typography.jpg" alt="Imagen de Kinetic Instant Messenger" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Kinetic Instant Messenger
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Kerry Bodine y Mathilde Pignol
+          <br>
+          <span style="color: #999;">2003</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/laika/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/laika 01.jpg" alt="Imagen de Laika" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Laika
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Michael Flückiger y Nicolas Kunz
+          <br>
+          <span style="color: #999;">2009</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/laser-letters/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/laser letters 01.gif" alt="Imagen de Laser Letters" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Laser Letters
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Eri Sekiguchi, Fabian Florian y David El-Khouri
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/letter-dance/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/letter dance.jpg" alt="Imagen de Letter Dance" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Letter Dance
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Peter Cho
+          <br>
+          <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/letterspace/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/letterspace 01.jpg" alt="Imagen de Letterspace" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Letterspace
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Peter Cho
+          <br>
+          <span style="color: #999;">1998</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/like-beauty-in-flames/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/like beauty in flames 1.jpg" alt="Imagen de Like Beauty in Flames" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Like Beauty in Flames
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jenny Holzer
+          <br>
+          <span style="color: #999;">2021</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/look-hear/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/LOOK_HEAR 1.jpg" alt="Imagen de Look/Hear" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Look/Hear
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Ran Zheng
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/momem/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/momem.jpg" alt="Imagen de Momem" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Momem
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Schultzschultz
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/move-me-mm/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/move me mm.jpg" alt="Imagen de Move Me MM" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Move Me MM
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Lucas de Groot
+          <br>
+          <span style="color: #999;">1994</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/maquina-de-ouver/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/ouver 01.jpg" alt="Imagen de Máquina de Ouver" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Máquina de Ouver
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          João Couceiro e Castro, Pedro Martins, Penousal Machado y Ana Boavida
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/nomad-typeface/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/nomad typeface.jpg" alt="Imagen de Nomad Typeface" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Nomad Typeface
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Byoung-Il Choi
+          <br>
+          <span style="color: #999;">2001</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/performa/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/performa.jpg" alt="Imagen de Performa" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Performa
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Kyuha Shim
+          <br>
+          <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/phonoma/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/phonoma.jpg" alt="Imagen de Phonoma" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Phonoma
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Sandra Lara Baranera
+          <br>
+          <span style="color: #999;">2017</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/poemas-no-meio-do-caminho/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/poemasnomeiodocaminho_01.jpg" alt="Imagen de Poemas no meio do caminho" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Poemas no meio do caminho
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rui Torres
+          <br>
+          <span style="color: #999;">2008</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/poemm/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/poemm 01.jpg" alt="Imagen de P.o.E.M.M." loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            P.o.E.M.M.
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jason Edward Lewis y Bruno Nadeau
+          <br>
+          <span style="color: #999;">2010</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/prosodic-font/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/prosodic font.png" alt="Imagen de Prosodic Font" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Prosodic Font
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Tara Rosenberger
+          <br>
+          <span style="color: #999;">1998</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/quarto/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/quarto 1.jpg" alt="Imagen de Quarto" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Quarto
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Giacomo Bastianelli
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/reactive books 12 oclock.webp" alt="Imagen de Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Reactive Books (The Reactive Square, Flying Letters, 12 o'clocks, Tap, Type & Write)
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          John Maeda
+          <br>
+          <span style="color: #999;">1994</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/reactive-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Reactive Typography 1.png" alt="Imagen de Reactive Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Reactive Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Victoria Constantine
+          <br>
+          <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/responsive-typography-with-viewing-distance-detection/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Responsive Typography with Viewing Distance Detection 01.jpg" alt="Imagen de Responsive Typography with Viewing Distance Detection" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Responsive Typography with Viewing Distance Detection
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Marko Dugonjić
+          <br>
+          <span style="color: #999;">2013</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/rio-carnaval/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/rio carnaval 01.jpeg" alt="Imagen de Rio Carnaval" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Rio Carnaval
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Tatil Design
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/robotype-sujigen-mojigen-77/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/robotype 01.jpg" alt="Imagen de Robotype (Sujigen, Mojigen, 7×7)" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Robotype (Sujigen, Mojigen, 7×7)
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Yuichiro Katsumoto
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/seen/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/seen 01.png" alt="Imagen de Seen" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Seen
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Emil Kozole
+          <br>
+          <span style="color: #999;">2014</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/segundo-soneto-meio-barroco/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Imagen de Segundo Soneto Meio Barroco" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Segundo Soneto Meio Barroco
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Alckmar Luiz dos Santos y Gilbertto Prado
+          <br>
+          <span style="color: #999;">2000</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/sonictype/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/sonyctype 01.jpg" alt="Imagen de Sonictype" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sonictype
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jake Richardson
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/sound-reactive-typeface/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/sound-reactive typeface yarza twins.gif" alt="Imagen de Sound-Reactive Typeface" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sound-Reactive Typeface
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Yarza Twins
+          <br>
+          <span style="color: #999;">2015</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/sound-type/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/sound type 01.jpg" alt="Imagen de Sound Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Sound Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Mak
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/speak-dont-speak/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/speak 01.avif" alt="Imagen de Speak Don't Speak" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Speak Don't Speak
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Yehwan Song
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/still-standing/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/still standing 01.jpg" alt="Imagen de Still Standing" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Still Standing
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jason Edward Lewis y Bruno Nadeau
+          <br>
+          <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/symphony-in-acid/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/symphony-in-acid-01.png" alt="Imagen de Symphony in Acid" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Symphony in Acid
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Ksawery Komputery y Max Cooper
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/symphosizer/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Symphosizer 01.png" alt="Imagen de Symphosizer" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Symphosizer
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Collins y Dinamo
+          <br>
+          <span style="color: #999;">2021</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/synestype/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/synestype 01.jpg" alt="Imagen de Synestype" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Synestype
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Riccardo Chianella, Sofia Cretaio, Luca Desogus, Ludovica Polo, Lorenzo Serra Bellini
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/takeluma/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/takeluma 01.jpg" alt="Imagen de Takeluma" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Takeluma
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Peter Cho
+          <br>
+          <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/talmud-project/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/talmud.png" alt="Imagen de Talmud Project" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Talmud Project
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          David Small y Tom White
+          <br>
+          <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/textension/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/textension.jpg" alt="Imagen de Textension" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Textension
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          JT Nimoy
+          <br>
+          <span style="color: #999;">2004</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/the-climate-crisis-font/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/climate crisis font 01.gif" alt="Imagen de The Climate Crisis Font" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            The Climate Crisis Font
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Helsingin Sanomat, Eino Korkala y Daniel Coull
+          <br>
+          <span style="color: #999;">2021</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/the-guide-to-be-seen/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/the guide to be seen 02.png" alt="Imagen de The Guide To Be Seen" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            The Guide To Be Seen
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Eager Zhang
+          <br>
+          <span style="color: #999;">2023</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/timed-type/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/timed type.jpg" alt="Imagen de Timed Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Timed Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Stefanie Schwarz
+          <br>
+          <span style="color: #999;">2011</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/tomorrows-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/tomorrow typography 01.png" alt="Imagen de Tomorrow's Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Tomorrow's Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Vera van de Seyp
+          <br>
+          <span style="color: #999;">2024</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/touch-type/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/touch type 01.gif" alt="Imagen de Touch Type" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Touch Type
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Richard Yee
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/type-as-tone/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/type as tone 1.webp" alt="Imagen de Type as Tone" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type as Tone
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Kasper Pyndt
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/typeface-project/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/typeface 01.jpg" alt="Imagen de Typeface Project" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typeface Project
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Mary Huang
+          <br>
+          <span style="color: #999;">2011</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/type-machine/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/typemachine 02.png" alt="Imagen de Type Machine" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Machine
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Heike Neff
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/type-me-type-me-not/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/type me type not 01.png" alt="Imagen de Type Me, Type Me Not" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Type Me, Type Me Not
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Peter Cho
+          <br>
+          <span style="color: #999;">1997</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/typeractive/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/typeractive.jpg" alt="Imagen de Typeractive" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typeractive
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Peter Cho
+          <br>
+          <span style="color: #999;">1999</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/typespace/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/typespace 01.avif" alt="Imagen de Typespace" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typespace
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Rajshree Saraf
+          <br>
+          <span style="color: #999;">2022</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/typevoice/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/type voice 1.jpg" alt="Imagen de TypeVoice" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            TypeVoice
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Ogilvy New York
+          <br>
+          <span style="color: #999;">2016</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/typographic-rhythm/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/Typographic Rhytm.png" alt="Imagen de Typographic Rhythm" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typographic Rhythm
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Jonathan Puckey
+          <br>
+          <span style="color: #999;">2005</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/typo-talk/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/typo talk.jpg" alt="Imagen de Typo Talk" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Typo Talk
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Douglas Soo
+          <br>
+          <span style="color: #999;">1997</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/variable-fonts-reactive-typography/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/variable-fonts-reactive-typo 01.jpg" alt="Imagen de Variable Fonts – Reactive Typography" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Variable Fonts – Reactive Typography
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Lisa Reckeweg
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/visual-grammar/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/visual grammar isabel lee 1.jpg" alt="Imagen de Visual Grammar" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Visual Grammar
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Isabel Lea
+          <br>
+          <span style="color: #999;">2019</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="/interactive-typography/referentes/your-typeface/" class="project-card">
+      <div class="card-image">
+        <img src="/interactive-typography/images/referentes/yourtypeface 01.jpg" alt="Imagen de Your Typeface" loading="lazy">
+      </div>
+      <div class="card-content">
+        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
+            Your Typeface
+        </span>
+        <div class="card-meta" style="font-size: 0.9em; color: #666;">
+          Overtone y Set Snail
+          <br>
+          <span style="color: #999;">2020</span>
+        </div>
+      </div>
+    </a>
 </div>
 
 [← Volver al índice](/interactive-typography/referentes/)
