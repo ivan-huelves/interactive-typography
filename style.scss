@@ -55,7 +55,7 @@ p {
 /* Si el párrafo contiene una imagen, reducimos su margen inferior 
    para que no se sume al de la siguiente imagen */
 p:has(> img) {
-  margin-bottom: 0.5em;
+  margin-bottom: 1.5em;
 }
 
 /* Si después de un párrafo con imagen viene un párrafo de texto, 
@@ -80,7 +80,7 @@ ul, ol {
 }
 
 li {
-  margin-bottom: 1.2em;
+  margin-bottom: 0.4em;
 }
 
 ol ul, ul ol, ul ul, ol ol {
