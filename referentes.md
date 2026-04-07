@@ -4,7 +4,8 @@ title: Marco de referencia
 permalink: /referentes/
 ---
 
-Análisis de referentes clasificados en el marco de la investigación
+Análisis de referentes clasificados en el marco
+de la investigación
 
 ---
 
