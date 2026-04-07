@@ -197,28 +197,45 @@ nav {
   }
 }
 
-/* Esto hace que el correo se lea correctamente aunque esté escrito al revés en el HTML */
-.email-protector {
-  unicode-bidi: bidi-override;
-  direction: rtl;
-  display: inline-block;
+/* Contenedor del footer */
+.wrapper-footer {
+  margin-top: 120px; /* Gran separación para que no agobie al contenido */
+  border-top: 1px solid #ddd; /* Línea sutil de cierre */
+  background-color: transparent;
 }
 
-/* Ajuste para que los enlaces del footer no se peguen demasiado */
+footer {
+  padding: 40px 0;
+  text-align: center;
+  /* Hacemos la fuente pequeña y discreta */
+  font-family: 'Space Mono', monospace;
+  font-size: 12px; 
+  color: #888;
+}
+
 footer p {
   margin: 0;
-  color: #666;
-  font-size: 12px;
+  letter-spacing: 0.5px;
 }
 
 footer a {
-  color: #000;
+  color: #444;
   text-decoration: none;
   border-bottom: 1px solid #ccc;
+  transition: all 0.3s ease;
 }
 
 footer a:hover {
+  color: #000;
   border-bottom: 1px solid #000;
+}
+
+/* El protector del email en el footer */
+footer .email-protector {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  display: inline-block;
+  color: #444;
 }
 
 @import "highlights";
