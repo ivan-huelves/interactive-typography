@@ -1,46 +1,38 @@
 ---
 layout: page
 title: "Sonictype"
-date: 2024-01-01
 author: "Jake Richardson"
 year: "2022"
-thumbnail: "/images/referentes/sonyctype 01.jpg"
+thumbnail: "/interactive-typography/images/referentes/sonyctype 01.jpg"
 permalink: /referentes/sonictype/
 ---
-
 **Jake Richardson, 2022**
 
+![Imagen de Sonictype](/interactive-typography/images/referentes/sonyctype 01.jpg)
 
-![Imagen de Sonictype](/images/referentes/sonyctype 01.jpg)
-
-![Imagen de Sonictype](/images/referentes/sonyctype 02.jpg)
-
+![Imagen de Sonictype](/interactive-typography/images/referentes/sonyctype 02.jpg)
 
 
-### Relevancia en relación a la tipografía interactiva
+
+### Relevancia
 Sonictype se define como un sistema tipográfico interactivo que traduce el sonido en parámetros que generan tipografías. 
 
 Su aportación técnica consiste en el desarrollo de una herramienta web basada en p5.js que permite la manipulación paramétrica de cuatro variables estructurales (escala, anchura, densidad y trazo) para modular la respuesta gráfica al input de audio. 
 
 Para esta investigación, la relevancia del caso radica en validar el uso del sonido como input de la forma tipográfica, demostrando que la programación creativa puede convertir la tipografía en un medio interactivo de visualización.
 
----
-
 ### Clasificación
-* **Década:** [Década de 2020](/etiquetas/decada-de-2020/)
-* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** [No](/etiquetas/multimodal-no/)
-* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)
+* **Función:** [Exploración formal y/o performativa](/interactive-typography/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** No
+* **Tipo de input:** [Sonido](/interactive-typography/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** p5.js
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
-
-<br>
-<a href="https://jakerichardson.uk/SONICTYPE" target="_blank">🔗 Ver fuente 1</a><br>
+* **Mantiene codificación textual:** No
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/segundo-soneto-meio-barroco/">← Anterior<br><small>Segundo Soneto Meio Barroco</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/sound-reactive-typeface/">Siguiente →<br><small>Sound-Reactive Typeface</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/segundo-soneto-meio-barroco/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/sound-reactive-typeface/">Siguiente →</a></div></div>

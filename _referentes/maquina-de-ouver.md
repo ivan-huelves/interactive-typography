@@ -1,46 +1,38 @@
 ---
 layout: page
 title: "Máquina de Ouver"
-date: 2024-01-01
 author: "João Couceiro e Castro, Pedro Martins, Penousal Machado y Ana Boavida"
 year: "2019"
-thumbnail: "/images/referentes/ouver 01.jpg"
+thumbnail: "/interactive-typography/images/referentes/ouver 01.jpg"
 permalink: /referentes/maquina-de-ouver/
 ---
-
 **João Couceiro e Castro, Pedro Martins, Penousal Machado y Ana Boavida, 2019**
 
+![Imagen de Máquina de Ouver](/interactive-typography/images/referentes/ouver 01.jpg)
 
-![Imagen de Máquina de Ouver](/images/referentes/ouver 01.jpg)
-
-![Imagen de Máquina de Ouver](/images/referentes/ouver 02.jpg)
-
+![Imagen de Máquina de Ouver](/interactive-typography/images/referentes/ouver 02.jpg)
 
 
-### Relevancia en relación a la tipografía interactiva
+
+### Relevancia
 Máquina de Ouver es un sistema que analiza grabaciones de voz para generar representaciones visuales. A diferencia de otros sistemas interactivos, no funciona en tiempo real, sino que procesa un archivo de audio para crear composiciones tipográficas estáticas o animadas. Para ello, utiliza software de análisis sonoro como Praat y scripts que automatizan el diseño en Adobe InDesign y After Effects.
 
 Su principal aportación es la creación de un método sistemático y repetible que traduce las características del habla en variables tipográficas. El proceso mide parámetros acústicos de una grabación, como el tono, la intensidad y la duración, y los utiliza para modular automáticamente el aspecto de las letras; por ejemplo, haciendo que una palabra dicha con más fuerza aparezca con un peso mayor.
 
 La relevancia para esta investigación es que establece un modelo riguroso para visualizar la prosodia (el ritmo y la entonación) del habla. El proyecto es un ejemplo claro de la función de *Expresión paralingüística*, convirtiendo el texto final en un reflejo visual de la voz grabada.
 
----
-
 ### Clasificación
-* **Década:** [Década de 2010](/etiquetas/decada-de-2010/)
-* **Función:** [Expresión paralingüística](/etiquetas/expresion-paralinguistica/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
-* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** [No](/etiquetas/multimodal-no/)
-* **Tipo de input:** [Sonido](/etiquetas/sonido/)
+* **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)
+* **Función:** [Expresión paralingüística](/interactive-typography/etiquetas/expresion-paralinguistica/)
+* **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** No
+* **Tipo de input:** [Sonido](/interactive-typography/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Praat, ExtendScript, BasilJS
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
-
-<br>
-Castro, João Couceiro e, Pedro Martins, Ana Boavida, y Penousal Machado. «“Máquina de Ouver” - From Sound to Type: Finding the Visual Representation of Speech by Mapping Sound Features to Typographic Variables». Proceedings of the 9th International Conference on Digital and Interactive Arts (New York, NY, USA), ARTECH 2019, Association for Computing Machinery, 13 de febrero de 2020, 1-8. <a href='https://doi.org/10.1145/3359852.3359892' target='_blank'>[Ver enlace]</a><br>
+* **Mantiene codificación textual:** No
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/move-me-mm/">← Anterior<br><small>Move Me MM</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/munken-creator/">Siguiente →<br><small>Munken Creator</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/move-me-mm/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/munken-creator/">Siguiente →</a></div></div>

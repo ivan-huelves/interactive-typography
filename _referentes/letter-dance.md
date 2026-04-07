@@ -1,45 +1,37 @@
 ---
 layout: page
 title: "Letter Dance"
-date: 2024-01-01
 author: "Peter Cho"
 year: "1999"
-thumbnail: "/images/referentes/letter dance.jpg"
+thumbnail: "/interactive-typography/images/referentes/letter dance.jpg"
 permalink: /referentes/letter-dance/
 ---
-
 **Peter Cho, 1999**
 
-
-![Imagen de Letter Dance](/images/referentes/letter dance.jpg)
-
+![Imagen de Letter Dance](/interactive-typography/images/referentes/letter dance.jpg)
 
 
-### Relevancia en relación a la tipografía interactiva
+
+### Relevancia
 Letter Dance es un experimento de la serie Pliant type que presenta un único carácter, la letra *A*, como un elemento lúdico e interactivo en un espacio tridimensional simple. Al mover el dispositivo de puntero, el usuario hace que la letra se mueva y cambie de forma, aparentando que baila y sonríe. El proyecto aprovecha la apariencia humana de la letra *A*, con sus *dos piernas*, para que el espectador le atribuya características de un ser vivo. 
 
 Su principal aportación es el método utilizado para lograr la fluidez del movimiento, la cual no se basa en una simulación física compleja, sino en una diferencia temporal programada entre el movimiento del puntero y la actualización de los nodos del glifo.
 
 La relevancia de este proyecto es que investiga la capacidad de la tipografía para transmitir emoción a través del movimiento y la transformación. Es un experimento temprano y fundamental que demuestra cómo un modelo computacional simple, basado en el retardo (lag), puede dotar a un carácter de expresividad.
 
----
-
 ### Clasificación
-* **Década:** [Década de 1990](/etiquetas/decada-de-1990/)
-* **Función:** [Exploración formal y/o performativa](/etiquetas/exploracion-formal-y-o-performativa/)
-* **Contexto:** [Investigación / Experimental](/etiquetas/investigacion-experimental/)
+* **Década:** [Década de 1990](/interactive-typography/etiquetas/decada-de-1990/)
+* **Función:** [Exploración formal y/o performativa](/interactive-typography/etiquetas/exploracion-formal-y-o-performativa/)
+* **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
-* **Grado de interactividad:** [Interacción débil o reactiva](/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** [No](/etiquetas/multimodal-no/)
-* **Tipo de input:** [Periféricos convencionales](/etiquetas/perifericos-convencionales/)
+* **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
+* **Input multimodal:** No
+* **Tipo de input:** [Periféricos convencionales](/interactive-typography/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** N. C. (Probablemente desarrollo a medida)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** [No](/etiquetas/codificacion-textual-no/)
-
-<br>
-Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography». Master’s thesis, Massachusetts Institute of Technology, 1999. <a href='http://hdl.handle.net/1721.1/61105' target='_blank'>[Ver enlace]</a><br>
+* **Mantiene codificación textual:** No
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/referentes/leon-sans/">← Anterior<br><small>Leon Sans</small></a></div><div style="text-align: center;"><a href="/referentes/">Catálogo Completo</a></div><div style="text-align: right; max-width: 30%;"><a href="/referentes/letterspace/">Siguiente →<br><small>Letterspace</small></a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/leon-sans/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/letterspace/">Siguiente →</a></div></div>
