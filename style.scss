@@ -49,7 +49,7 @@ h4 { font-size: 18px; color: #666; }
 
 /* --- OPTIMIZACIÓN DE PÁRRAFOS --- */
 p {
-  margin: 0 0 1.8em; 
+  margin: 0 0 1.2em; 
 }
 
 /* Si el párrafo contiene una imagen, reducimos su margen inferior 
@@ -61,7 +61,7 @@ p:has(> img) {
 /* Si después de un párrafo con imagen viene un párrafo de texto, 
    añadimos margen superior para que el texto no quede pegado a la imagen */
 p:has(> img) + p:not(:has(img)) {
-  margin-top: 1.2em;
+  margin-top: 1.8em;
 }
 
 a {
