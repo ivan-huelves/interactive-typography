@@ -18,13 +18,13 @@ html {
 
 body {
   background: #EDEDED;
-  font: 18px/1.6 'Space Mono', monospace; /* Interlineado 1.6 para que respire */
+  font: 18px/1.6 'Space Mono', monospace;
   color: #000000;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 800px; /* Ancho aumentado para que luzca la tipografía */
+  max-width: 800px;
   padding: 0 20px;
   width: 100%;
 }
@@ -47,9 +47,21 @@ h2 { font-size: 24px; }
 h3 { font-size: 20px; }
 h4 { font-size: 18px; color: #666; }
 
-/* Espaciado entre párrafos aumentado */
+/* --- OPTIMIZACIÓN DE PÁRRAFOS --- */
 p {
-  margin: 0 0 1.8em; 
+  margin: 0 0 1.2em; 
+}
+
+/* Si el párrafo contiene una imagen, reducimos su margen inferior 
+   para que no se sume al de la siguiente imagen */
+p:has(> img) {
+  margin-bottom: 0.5em;
+}
+
+/* Si después de un párrafo con imagen viene un párrafo de texto, 
+   añadimos margen superior para que el texto no quede pegado a la imagen */
+p:has(> img) + p:not(:has(img)) {
+  margin-top: 1.8em;
 }
 
 a {
@@ -61,14 +73,14 @@ a {
   }
 }
 
-/* Espaciado en listas aumentado */
+/* --- OPTIMIZACIÓN DE LISTAS --- */
 ul, ol {
   margin: 15px 0 2em;
   padding-left: 30px;
 }
 
 li {
-  margin-bottom: 1.2em; /* Separación clara entre elementos de la lista */
+  margin-bottom: 1.2em;
 }
 
 ol ul, ul ol, ul ul, ol ol {
@@ -85,9 +97,13 @@ ul ul, ol ul { list-style-type: circle; }
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
 
+/* --- OPTIMIZACIÓN DE IMÁGENES --- */
 img {
   max-width: 100%;
-  margin-bottom: 1.5em;
+  display: block; /* Para evitar espacios fantasma debajo */
+  margin: 0 auto; /* Centradas */
+  /* Quitamos el margin-bottom de la imagen para que mande el del párrafo */
+  margin-bottom: 0; 
 }
 
 .date {
@@ -156,7 +172,7 @@ img {
 }
 
 nav {
-  float: left; /* Alineado a la izquierda como pediste */
+  float: left;
   margin-top: 30px;
   font-family: 'Space Mono', monospace;
   font-size: 16px;
@@ -169,7 +185,7 @@ nav {
   }
 
   a {
-    margin-right: 20px; /* Margen a la derecha para separar los links */
+    margin-right: 20px;
     color: #000;
     font-weight: 400;
     letter-spacing: 1px;
@@ -198,14 +214,41 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 120px;
   border-top: 1px solid #ddd;
-  background-color: #eee;
+  background-color: transparent;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 40px 0;
   text-align: center;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px; 
+  color: #888;
+}
+
+footer p {
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+
+footer a {
+  color: #444;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+  transition: all 0.3s ease;
+}
+
+footer a:hover {
+  color: #000;
+  border-bottom: 1px solid #000;
+}
+
+footer .email-protector {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  display: inline-block;
+  color: #444;
 }
 
 @import "highlights";
