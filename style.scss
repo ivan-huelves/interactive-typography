@@ -197,15 +197,27 @@ nav {
   }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  background-color: #eee;
+/* Esto hace que el correo se lea correctamente aunque esté escrito al revés en el HTML */
+.email-protector {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  display: inline-block;
 }
 
-footer {
-  padding: 20px 0;
-  text-align: center;
+/* Ajuste para que los enlaces del footer no se peguen demasiado */
+footer p {
+  margin: 0;
+  color: #666;
+}
+
+footer a {
+  color: #000;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+footer a:hover {
+  border-bottom: 1px solid #000;
 }
 
 @import "highlights";
