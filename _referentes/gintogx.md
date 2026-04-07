@@ -28,13 +28,13 @@ La relevancia de este proyecto es que establece un modelo de cómo un espécimen
 * **Función:** [Exploración formal y/o performativa](/interactive-typography/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Producto digital](/interactive-typography/etiquetas/producto-digital/)
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** Sí
+* **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Periféricos convencionales](/interactive-typography/etiquetas/perifericos-convencionales/), [Gestual](/interactive-typography/etiquetas/gestual/), [Sonido](/interactive-typography/etiquetas/sonido/), [Algoritmo](/interactive-typography/etiquetas/algoritmo/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Tipografía variable
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/genoma-grotesk/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/giving-character-to-characters/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/genoma-grotesk/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/giving-character-to-characters/">Siguiente →</a></div></div>

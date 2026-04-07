@@ -48,13 +48,13 @@ La relevancia de este proyecto es que demuestra cómo la tipografía interactiva
 * **Función:** [Identidad visual](/interactive-typography/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/interactive-typography/etiquetas/branding/)
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** Sí
+* **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Gestual](/interactive-typography/etiquetas/gestual/), [Datos externos](/interactive-typography/etiquetas/datos-externos/)
 * **Tipo de output:** Transformación morfológica, Transformación cromática
 * **Tecnología empleada:** Tipografía variable
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/alphabot/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/archiv-des-wirrwarrs/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/alphabot/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/archiv-des-wirrwarrs/">Siguiente →</a></div></div>

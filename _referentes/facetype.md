@@ -29,13 +29,13 @@ La relevancia de este proyecto para la investigación reside en que explora el p
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Institución:** The Royal Danish Academy of Fine Arts
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** No
+* **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Gestual](/interactive-typography/etiquetas/gestual/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** JavaScript (opentype.js)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/fable-table-ttt-poem/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/ff-beowolf/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/fable-table-ttt-poem/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/ff-beowolf/">Siguiente →</a></div></div>

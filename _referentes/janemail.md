@@ -25,13 +25,13 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** No
+* **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Periféricos convencionales](/interactive-typography/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida, RSVP (Rapid Serial Visual Presentation)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/iso-type-generator/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/kachi-buwa/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/iso-type-generator/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/kachi-buwa/">Siguiente →</a></div></div>

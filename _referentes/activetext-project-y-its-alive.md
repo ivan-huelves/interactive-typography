@@ -26,13 +26,13 @@ Para esta investigación su relevancia es fundacional al establecer la base tecn
 * **Función:** [Exploración formal y/o performativa](/interactive-typography/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interacción fuerte o mutua](/interactive-typography/etiquetas/interaccion-fuerte-o-mutua/)
-* **Input multimodal:** Sí
+* **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Periféricos convencionales](/interactive-typography/etiquetas/perifericos-convencionales/), [Controlador físico](/interactive-typography/etiquetas/controlador-fisico/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial, Generación tipográfica
 * **Tecnología empleada:** C++
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/abcdefghijklmnopqrstuvwxyz/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/aerial-bold/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/abcdefghijklmnopqrstuvwxyz/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/aerial-bold/">Siguiente →</a></div></div>

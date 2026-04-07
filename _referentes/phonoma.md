@@ -24,13 +24,13 @@ La relevancia para esta investigación es que representa un caso de estudio clar
 * **Función:** [Expresión paralingüística](/interactive-typography/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** No
+* **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/interactive-typography/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica, Materialización física
 * **Tecnología empleada:** Diseño conceptual
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/phase/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/physarum-type-tool/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/phase/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/physarum-type-tool/">Siguiente →</a></div></div>

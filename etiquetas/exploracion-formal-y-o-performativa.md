@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exploración formal y/o performativa
+title: "Proyectos: Exploración formal y/o performativa"
 permalink: /etiquetas/exploracion-formal-y-o-performativa/
 ---
 <div class="project-grid">
@@ -81,4 +81,4 @@ permalink: /etiquetas/exploracion-formal-y-o-performativa/
 <a href="/interactive-typography/referentes/wet-fonts/" class="project-card"><img src="/interactive-typography/images/referentes/wet fonts.jpg" alt="Wet Fonts"><strong>Wet Fonts</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

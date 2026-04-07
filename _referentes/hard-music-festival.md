@@ -38,13 +38,13 @@ La relevancia de este proyecto para la investigación es que aplica la tipograf�
 * **Función:** [Identidad visual](/interactive-typography/etiquetas/identidad-visual/)
 * **Contexto:** [Branding](/interactive-typography/etiquetas/branding/)
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** No
+* **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/interactive-typography/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica
 * **Tecnología empleada:** Processing
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/handy-type/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/holopoetry/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/handy-type/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/holopoetry/">Siguiente →</a></div></div>

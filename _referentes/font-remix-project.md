@@ -37,13 +37,13 @@ La relevancia de este proyecto es que demuestra el potencial del código para ex
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/), [Producto digital](/interactive-typography/etiquetas/producto-digital/)
 * **Institución:** Central Saint Martins
 * **Grado de interactividad:** [Interacción generativa](/interactive-typography/etiquetas/interaccion-generativa/)
-* **Input multimodal:** No
+* **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Periféricos convencionales](/interactive-typography/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Generación tipográfica
 * **Tecnología empleada:** JavaScript (Three.js), p5.js, GLSL (Shaders)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/flefixx/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/funky-mr-salvador-e-isabel-marant/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/flefixx/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/funky-mr-salvador-e-isabel-marant/">Siguiente →</a></div></div>

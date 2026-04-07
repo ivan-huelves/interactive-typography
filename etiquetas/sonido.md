@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sonido
+title: "Proyectos: Sonido"
 permalink: /etiquetas/sonido/
 ---
 <div class="project-grid">
@@ -39,4 +39,4 @@ permalink: /etiquetas/sonido/
 <a href="/interactive-typography/referentes/visual-grammar/" class="project-card"><img src="/interactive-typography/images/referentes/visual grammar isabel lee 1.jpg" alt="Visual Grammar"><strong>Visual Grammar</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

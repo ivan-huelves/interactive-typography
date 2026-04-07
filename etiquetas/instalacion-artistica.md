@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instalación artística
+title: "Proyectos: Instalación artística"
 permalink: /etiquetas/instalacion-artistica/
 ---
 <div class="project-grid">
@@ -35,4 +35,4 @@ permalink: /etiquetas/instalacion-artistica/
 <a href="/interactive-typography/referentes/type-machine/" class="project-card"><img src="/interactive-typography/images/referentes/typemachine 02.png" alt="Type Machine"><strong>Type Machine</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

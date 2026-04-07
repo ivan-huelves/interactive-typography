@@ -37,13 +37,13 @@ La relevancia para esta investigación reside en su sistematización de los mét
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Institución:** HTWG Konstanz
 * **Grado de interactividad:** [Interacción generativa](/interactive-typography/etiquetas/interaccion-generativa/)
-* **Input multimodal:** No
+* **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Datos externos](/interactive-typography/etiquetas/datos-externos/), [Algoritmo](/interactive-typography/etiquetas/algoritmo/)
 * **Tipo de output:** Generación tipográfica
 * **Tecnología empleada:** Inteligencia artificial
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** Sí
+* **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/aterytool/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/between-page-and-screen/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/aterytool/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/between-page-and-screen/">Siguiente →</a></div></div>

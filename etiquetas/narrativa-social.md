@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Narrativa social
+title: "Proyectos: Narrativa social"
 permalink: /etiquetas/narrativa-social/
 ---
 <div class="project-grid">
@@ -10,4 +10,4 @@ permalink: /etiquetas/narrativa-social/
 <a href="/interactive-typography/referentes/speak-dont-speak/" class="project-card"><img src="/interactive-typography/images/referentes/speak 01.avif" alt="Speak Don't Speak"><strong>Speak Don't Speak</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

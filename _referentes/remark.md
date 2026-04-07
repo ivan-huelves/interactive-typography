@@ -26,13 +26,13 @@ La relevancia para esta investigación radica en su condición de hito fundacion
 * **Función:** [Exploración formal y/o performativa](/interactive-typography/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interacción fuerte o mutua](/interactive-typography/etiquetas/interaccion-fuerte-o-mutua/), [Interacción generativa](/interactive-typography/etiquetas/interaccion-generativa/)
-* **Input multimodal:** Sí
+* **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Gestual](/interactive-typography/etiquetas/gestual/), [Sonido](/interactive-typography/etiquetas/sonido/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial, Generación tipográfica
 * **Tecnología empleada:** Desarrollo a medida, Realidad Aumentada (Sony I-Glasses y proyectores), Rastreo espacial (Ascension Flock of Birds), Visión por ordenador, Análisis de voz (MFCC)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/reactive-typography/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/responsive-typography-with-viewing-distance-detection/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/reactive-typography/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/responsive-typography-with-viewing-distance-detection/">Siguiente →</a></div></div>

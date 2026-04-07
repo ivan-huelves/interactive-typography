@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Década de 1980
+title: "Proyectos: Década de 1980"
 permalink: /etiquetas/decada-de-1980/
 ---
 <div class="project-grid">
@@ -8,4 +8,4 @@ permalink: /etiquetas/decada-de-1980/
 <a href="/interactive-typography/referentes/holopoetry/" class="project-card"><img src="/interactive-typography/images/referentes/holopoetry 01.gif" alt="Holopoetry"><strong>Holopoetry</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

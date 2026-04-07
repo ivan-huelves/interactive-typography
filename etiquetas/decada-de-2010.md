@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Década de 2010
+title: "Proyectos: Década de 2010"
 permalink: /etiquetas/decada-de-2010/
 ---
 <div class="project-grid">
@@ -60,4 +60,4 @@ permalink: /etiquetas/decada-de-2010/
 <a href="/interactive-typography/referentes/visual-grammar/" class="project-card"><img src="/interactive-typography/images/referentes/visual grammar isabel lee 1.jpg" alt="Visual Grammar"><strong>Visual Grammar</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

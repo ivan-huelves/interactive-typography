@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Década de 2000
+title: "Proyectos: Década de 2000"
 permalink: /etiquetas/decada-de-2000/
 ---
 <div class="project-grid">
@@ -24,4 +24,4 @@ permalink: /etiquetas/decada-de-2000/
 <a href="/interactive-typography/referentes/visual-chronicles-of-abya-yala/" class="project-card"><img src="/interactive-typography/images/referentes/Visual Chronicles of Abya Yala 01.jpg" alt="Visual Chronicles of Abya Yala"><strong>Visual Chronicles of Abya Yala</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

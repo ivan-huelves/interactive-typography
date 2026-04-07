@@ -29,13 +29,13 @@ La relevancia de este proyecto es fundamental al constituir un referente metodol
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interacción generativa](/interactive-typography/etiquetas/interaccion-generativa/), [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** Sí
+* **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Gestual](/interactive-typography/etiquetas/gestual/), [Sonido](/interactive-typography/etiquetas/sonido/), [Datos externos](/interactive-typography/etiquetas/datos-externos/), [Periféricos convencionales](/interactive-typography/etiquetas/perifericos-convencionales/)
 * **Tipo de output:** Transformación morfológica, Transformación espacial, Generación tipográfica
 * **Tecnología empleada:** Python, Inteligencia artificial, JavaScript, p5.js
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/tipografia-generativa-talleres/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/touch-type/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/tipografia-generativa-talleres/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/touch-type/">Siguiente →</a></div></div>

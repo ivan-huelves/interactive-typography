@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Producto digital
+title: "Proyectos: Producto digital"
 permalink: /etiquetas/producto-digital/
 ---
 <div class="project-grid">
@@ -25,4 +25,4 @@ permalink: /etiquetas/producto-digital/
 <a href="/interactive-typography/referentes/your-typeface/" class="project-card"><img src="/interactive-typography/images/referentes/yourtypeface 01.jpg" alt="Your Typeface"><strong>Your Typeface</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

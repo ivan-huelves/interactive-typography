@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algoritmo
+title: "Proyectos: Algoritmo"
 permalink: /etiquetas/algoritmo/
 ---
 <div class="project-grid">
@@ -18,4 +18,4 @@ permalink: /etiquetas/algoritmo/
 <a href="/interactive-typography/referentes/wet-fonts/" class="project-card"><img src="/interactive-typography/images/referentes/wet fonts.jpg" alt="Wet Fonts"><strong>Wet Fonts</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

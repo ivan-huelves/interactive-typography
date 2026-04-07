@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Controlador físico
+title: "Proyectos: Controlador físico"
 permalink: /etiquetas/controlador-fisico/
 ---
 <div class="project-grid">
@@ -15,4 +15,4 @@ permalink: /etiquetas/controlador-fisico/
 <a href="/interactive-typography/referentes/type-machine/" class="project-card"><img src="/interactive-typography/images/referentes/typemachine 02.png" alt="Type Machine"><strong>Type Machine</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

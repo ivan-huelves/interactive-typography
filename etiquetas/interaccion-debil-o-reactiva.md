@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interacción débil o reactiva
+title: "Proyectos: Interacción débil o reactiva"
 permalink: /etiquetas/interaccion-debil-o-reactiva/
 ---
 <div class="project-grid">
@@ -100,4 +100,4 @@ permalink: /etiquetas/interaccion-debil-o-reactiva/
 <a href="/interactive-typography/referentes/your-typeface/" class="project-card"><img src="/interactive-typography/images/referentes/yourtypeface 01.jpg" alt="Your Typeface"><strong>Your Typeface</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

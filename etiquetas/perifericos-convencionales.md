@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Periféricos convencionales
+title: "Proyectos: Periféricos convencionales"
 permalink: /etiquetas/perifericos-convencionales/
 ---
 <div class="project-grid">
@@ -63,4 +63,4 @@ permalink: /etiquetas/perifericos-convencionales/
 <a href="/interactive-typography/referentes/visual-chronicles-of-abya-yala/" class="project-card"><img src="/interactive-typography/images/referentes/Visual Chronicles of Abya Yala 01.jpg" alt="Visual Chronicles of Abya Yala"><strong>Visual Chronicles of Abya Yala</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

@@ -32,13 +32,13 @@ La relevancia de este proyecto es que convierte el flujo de datos informativos e
 * **Función:** [Visualización de datos](/interactive-typography/etiquetas/visualizacion-de-datos/)
 * **Contexto:** [Instalación artística](/interactive-typography/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interacción fuerte o mutua](/interactive-typography/etiquetas/interaccion-fuerte-o-mutua/)
-* **Input multimodal:** Sí
+* **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Datos externos](/interactive-typography/etiquetas/datos-externos/), [Gestual](/interactive-typography/etiquetas/gestual/)
 * **Tipo de output:** Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida, En Java sobre el framework RNDR. El sistema utiliza la API de Google Street View, sensores Kinect para el rastreo de visitantes.
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/type-code/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/typeface-project/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/type-code/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/typeface-project/">Siguiente →</a></div></div>

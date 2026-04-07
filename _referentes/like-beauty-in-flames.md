@@ -34,13 +34,13 @@ La relevancia para esta investigación radica en que explora la interacción del
 * **Función:** [Exploración formal y/o performativa](/interactive-typography/etiquetas/exploracion-formal-y-o-performativa/)
 * **Contexto:** [Instalación artística](/interactive-typography/etiquetas/instalacion-artistica/)
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** Sí
+* **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Gestual](/interactive-typography/etiquetas/gestual/), [Datos externos](/interactive-typography/etiquetas/datos-externos/)
 * **Tipo de output:** Transformación espacial
 * **Tecnología empleada:** Realidad Aumentada (aplicación móvil Like Beauty in Flames)
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/letterspace/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/live-letters/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/letterspace/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/live-letters/">Siguiente →</a></div></div>

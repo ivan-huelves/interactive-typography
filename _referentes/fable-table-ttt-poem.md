@@ -27,13 +27,13 @@ La relevancia de estos experimentos reside en su investigación pionera del uso 
 * **Contexto:** [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/), [Instalación artística](/interactive-typography/etiquetas/instalacion-artistica/)
 * **Institución:** MIT Media Lab
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** No
+* **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Gestual](/interactive-typography/etiquetas/gestual/)
 * **Tipo de output:** Transformación espacial, Sonido
 * **Tecnología empleada:** Desarrollo a medida, Sistemas de computación física. Fable Table utiliza una mesa de madera con sensores infrarrojos y un proyector. TTT Poem emplea sensores de proximidad bajo una mesa que rastrean un transmisor de mano.
 * **Alfanumérica:** Sí
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/expressive-typography/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/facetype/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/expressive-typography/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/facetype/">Siguiente →</a></div></div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Branding
+title: "Proyectos: Branding"
 permalink: /etiquetas/branding/
 ---
 <div class="project-grid">
@@ -28,4 +28,4 @@ permalink: /etiquetas/branding/
 <a href="/interactive-typography/referentes/vave/" class="project-card"><img src="/interactive-typography/images/referentes/vave 01.png" alt="Vave"><strong>Vave</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

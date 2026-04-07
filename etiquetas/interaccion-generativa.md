@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interacción generativa
+title: "Proyectos: Interacción generativa"
 permalink: /etiquetas/interaccion-generativa/
 ---
 <div class="project-grid">
@@ -46,4 +46,4 @@ permalink: /etiquetas/interaccion-generativa/
 <a href="/interactive-typography/referentes/wet-fonts/" class="project-card"><img src="/interactive-typography/images/referentes/wet fonts.jpg" alt="Wet Fonts"><strong>Wet Fonts</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

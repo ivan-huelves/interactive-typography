@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accesibilidad
+title: "Proyectos: Accesibilidad"
 permalink: /etiquetas/accesibilidad/
 ---
 <div class="project-grid">
@@ -12,4 +12,4 @@ permalink: /etiquetas/accesibilidad/
 <a href="/interactive-typography/referentes/synestype/" class="project-card"><img src="/interactive-typography/images/referentes/synestype 01.jpg" alt="Synestype"><strong>Synestype</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

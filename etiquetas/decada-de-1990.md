@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Década de 1990
+title: "Proyectos: Década de 1990"
 permalink: /etiquetas/decada-de-1990/
 ---
 <div class="project-grid">
@@ -25,4 +25,4 @@ permalink: /etiquetas/decada-de-1990/
 <a href="/interactive-typography/referentes/wet-fonts/" class="project-card"><img src="/interactive-typography/images/referentes/wet fonts.jpg" alt="Wet Fonts"><strong>Wet Fonts</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualización de datos
+title: "Proyectos: Visualización de datos"
 permalink: /etiquetas/visualizacion-de-datos/
 ---
 <div class="project-grid">
@@ -10,4 +10,4 @@ permalink: /etiquetas/visualizacion-de-datos/
 <a href="/interactive-typography/referentes/type-dynamics/" class="project-card"><img src="/interactive-typography/images/referentes/Type dynamics 01.avif" alt="Type/dynamics"><strong>Type/dynamics</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interacción fuerte o mutua
+title: "Proyectos: Interacción fuerte o mutua"
 permalink: /etiquetas/interaccion-fuerte-o-mutua/
 ---
 <div class="project-grid">
@@ -17,4 +17,4 @@ permalink: /etiquetas/interaccion-fuerte-o-mutua/
 <a href="/interactive-typography/referentes/type-dynamics/" class="project-card"><img src="/interactive-typography/images/referentes/Type dynamics 01.avif" alt="Type/dynamics"><strong>Type/dynamics</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

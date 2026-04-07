@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Expresión paralingüística
+title: "Proyectos: Expresión paralingüística"
 permalink: /etiquetas/expresion-paralinguistica/
 ---
 <div class="project-grid">
@@ -24,4 +24,4 @@ permalink: /etiquetas/expresion-paralinguistica/
 <a href="/interactive-typography/referentes/typo-talk/" class="project-card"><img src="/interactive-typography/images/referentes/typo talk.jpg" alt="Typo Talk"><strong>Typo Talk</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

@@ -28,13 +28,13 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 * **Función:** [Expresión paralingüística](/interactive-typography/etiquetas/expresion-paralinguistica/)
 * **Contexto:** [Instalación artística](/interactive-typography/etiquetas/instalacion-artistica/), [Investigación / Experimental](/interactive-typography/etiquetas/investigacion-experimental/)
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
-* **Input multimodal:** No
+* **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Sonido](/interactive-typography/etiquetas/sonido/)
 * **Tipo de output:** Generación tipográfica, Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** No
-* **Mantiene codificación textual:** No
+* **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/synestype/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Catálogo</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/talmud-project/">Siguiente →</a></div></div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/synestype/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/talmud-project/">Siguiente →</a></div></div>

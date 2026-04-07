@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sistema de diseño tipográfico
+title: "Proyectos: Sistema de diseño tipográfico"
 permalink: /etiquetas/sistema-de-diseno-tipografico/
 ---
 <div class="project-grid">
@@ -19,4 +19,4 @@ permalink: /etiquetas/sistema-de-diseno-tipografico/
 <a href="/interactive-typography/referentes/your-typeface/" class="project-card"><img src="/interactive-typography/images/referentes/yourtypeface 01.jpg" alt="Your Typeface"><strong>Your Typeface</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)

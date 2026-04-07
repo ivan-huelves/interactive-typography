@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Década de 2020
+title: "Proyectos: Década de 2020"
 permalink: /etiquetas/decada-de-2020/
 ---
 <div class="project-grid">
@@ -53,4 +53,4 @@ permalink: /etiquetas/decada-de-2020/
 <a href="/interactive-typography/referentes/your-typeface/" class="project-card"><img src="/interactive-typography/images/referentes/yourtypeface 01.jpg" alt="Your Typeface"><strong>Your Typeface</strong></a>
 </div>
 
-[← Volver](/interactive-typography/referentes/)
+[← Volver al índice](/interactive-typography/referentes/)
