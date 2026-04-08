@@ -32,6 +32,9 @@ La relevancia para esta investigación es que se trata de un referente temprano 
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+Small, David. «Expressive Typography. High Quality Dynamic and Responsive Typography in the Electronic Environment». Master’s thesis, Massachusetts Institute of Technology, 1990. <a href='http://hdl.handle.net/1721.1/14011' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/visual-grammar/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/your-typeface/">Siguiente →</a></div></div>

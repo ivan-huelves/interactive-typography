@@ -31,6 +31,9 @@ La relevancia de este proyecto para la investigación radica en que establece un
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+<a href="https://jtnimoy.cc/item.php%3Fhandle=14882287-textension-word-processor-variations.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/talmud-project/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/text-rain/">Siguiente →</a></div></div>

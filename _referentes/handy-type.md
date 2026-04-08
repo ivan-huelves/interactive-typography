@@ -33,6 +33,9 @@ La relevancia para esta investigación reside en que es un ejemplo claro de cóm
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+<a href="https://haochengstudio.com/selected-works-1" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/guilty-by-association/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/hard-music-festival/">Siguiente →</a></div></div>

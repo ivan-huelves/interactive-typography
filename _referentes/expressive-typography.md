@@ -33,6 +33,9 @@ La relevancia de esta investigación es fundamental, ya que sienta las bases te�
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
+<br>
+Ishizaki, Suguru. «Typographic Performance. Continuous Design Solutions as Emergent Behaviors of Active Agents». Doctoral dissertation, Massachusetts Institute of Technology, 1996. <a href='http://hdl.handle.net/1721.1/29105' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/experimentos-de-tipografia-en-ar/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/fable-table-ttt-poem/">Siguiente →</a></div></div>

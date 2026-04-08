@@ -31,6 +31,9 @@ La relevancia de este proyecto es que consolida la investigación de Small sobre
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+White, Tom, y David Small. «An Interactive Poetic Garden». CHI 98 Conference Summary on Human Factors in Computing Systems  - CHI ’98, ACM Press, 1998, 335-36. <a href='https://doi.org/10.1145/286498.286804' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/still-standing/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/symphony-in-acid/">Siguiente →</a></div></div>

@@ -33,6 +33,9 @@ La relevancia del proyecto para la investigación radica en el uso de la tipogra
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+<a href="https://raco.cat/index.php/Artnodes/article/view/428543" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/nomad-typeface/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/performa/">Siguiente →</a></div></div>

@@ -35,6 +35,9 @@ La relevancia para esta investigación es que demuestra cómo se pueden crear he
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
+<br>
+<a href="https://www.eliashanzer.com/phase/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/performa/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/phonoma/">Siguiente →</a></div></div>

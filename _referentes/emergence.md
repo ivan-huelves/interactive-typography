@@ -31,6 +31,9 @@ La relevancia de este proyecto para la investigación estriba en que prefigura e
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+<a href="http://www.stefanieschwarz-graphicdesign.de/INTERACTIVE-TYPE-APP-emergence.html" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/embodied-type/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/emotional-type/">Siguiente →</a></div></div>

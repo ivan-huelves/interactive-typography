@@ -32,6 +32,9 @@ La relevancia de este proyecto es que investiga la capacidad de la tipografía p
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+Cho, Peter Sungil. «Computational Models for Expressive Dimensional Typography». Master’s thesis, Massachusetts Institute of Technology, 1999. <a href='http://hdl.handle.net/1721.1/61105' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/leon-sans/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/letterspace/">Siguiente →</a></div></div>

@@ -32,6 +32,9 @@ La relevancia para esta investigación es que el proyecto demuestra cómo se pue
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
+<br>
+The, Richard. «Subjectified : personification as a design strategy in visual communication». Massachusetts Institute of Technology. Dept. of Architecture. Program in Media Arts and Sciences., 2010. <a href='http://hdl.handle.net/1721.1/62083' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/gintogx/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/glitch-type-generator-tool/">Siguiente →</a></div></div>

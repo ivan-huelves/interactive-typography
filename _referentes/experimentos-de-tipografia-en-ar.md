@@ -33,6 +33,9 @@ La relevancia de esta investigación es fundamental porque establece las bases s
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+<a href="https://medium.com/@aetherpoint/reading-distance-and-variable-fonts-1f6e1ffd1879" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/experimentos-ar-women-of-type-y-canal/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/expressive-typography/">Siguiente →</a></div></div>

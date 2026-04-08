@@ -31,6 +31,9 @@ La relevancia para esta investigación es que traslada la tipografía interactiv
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+Katsumoto, Yuichiro. «Robotype: Studies of Kinetic Typography by Robot Display for Expressing Letters, Time and Movement». Leonardo 51, n.º 4 (2018): 386-93. <a href='https://doi.org/10.1162/leon_a_01648' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/rio-carnaval/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/screen-profile/">Siguiente →</a></div></div>

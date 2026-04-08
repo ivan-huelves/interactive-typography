@@ -34,6 +34,9 @@ La relevancia del proyecto radica en la aplicación funcional de la tecnología 
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
+<br>
+<a href="https://www.asp-poli.it/wp-content/uploads/2022/03/Variable-Fonts_ASP_Poster.pdf" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/symphosizer/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/takeluma/">Siguiente →</a></div></div>

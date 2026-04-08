@@ -40,6 +40,9 @@ La relevancia para esta investigación reside en la conexión directa que establ
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
+<br>
+<a href="http://projectseen.com/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/screen-profile/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/segundo-soneto-meio-barroco/">Siguiente →</a></div></div>

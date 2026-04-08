@@ -31,6 +31,9 @@ La relevancia para esta investigación es que el proyecto anticipa los sistemas 
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
+<br>
+Soo, Douglas. «Implementation of a temporal typography system». Master’s thesis, Massachusetts Institute of Technology, 1997. <a href='http://hdl.handle.net/1721.1/10274' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/typographic-rhythm/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/uglyph/">Siguiente →</a></div></div>

@@ -36,6 +36,9 @@ La relevancia de esta investigación es que establece un precedente clave al dem
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+Lam, Francis. «Cheiro. Creating Expressive Textual Communication and Anthropomorphic Typography». Master’s thesis, Massachusetts Institute of Technology, 2006. <a href='http://hdl.handle.net/1721.1/36156' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/brain-opera/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/cumulus-park/">Siguiente →</a></div></div>

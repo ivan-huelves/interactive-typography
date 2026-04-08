@@ -34,6 +34,9 @@ La relevancia para esta investigación es que demuestra cómo la tipografía int
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
+<br>
+<a href="https://ecal.ch/en/feed/projects/7099/quarto/" target="_blank">🔗 Ver fuente 1</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/prosodic-font/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/reactive-books-the-reactive-square-flying-letters-12-oclocks-tap-type-write/">Siguiente →</a></div></div>

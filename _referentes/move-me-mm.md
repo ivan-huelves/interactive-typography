@@ -31,6 +31,10 @@ La relevancia para esta investigación es que el proyecto sentó un precedente f
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.
 
+<br>
+Brody, Neville, y Jon Wozencroft, eds. Fuse 1 - 20: From Invention to Antimatter<br>
+Twenty Years of Fuse. Taschen, 2012.<br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/morisawa-fontpark-20/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/maquina-de-ouver/">Siguiente →</a></div></div>

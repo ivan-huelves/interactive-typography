@@ -31,6 +31,9 @@ La relevancia para esta investigación es que se trata de un ejemplo fundacional
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+Rosenberger, Tara. «Prosodic Font. The Space between the Spoken and the Written». Master’s thesis, Massachusetts Institute of Technology, 1998. <a href='http://hdl.handle.net/1721.1/62340' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/poemm/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/quarto/">Siguiente →</a></div></div>

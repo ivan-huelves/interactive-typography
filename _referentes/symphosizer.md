@@ -39,6 +39,10 @@ La relevancia de este proyecto reside en su aplicación de la tipografía intera
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)
 
+<br>
+<a href="https://www.wearecollins.com/work/sf-symphony/" target="_blank">🔗 Ver fuente 1</a><br>
+<a href="https://symphosizer.wearecollins.com/" target="_blank">🔗 Ver fuente 2</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/symphony-in-acid/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/synestype/">Siguiente →</a></div></div>

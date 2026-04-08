@@ -32,6 +32,9 @@ La relevancia de este proyecto es que materializa la idea de la tipografía como
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+Small, David L. «Rethinking the Book». Massachusetts Institute of Technology, 1999. <a href='https://acg.media.mit.edu/projects/thesis/DSThesis.pdf' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/bit-tripper/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/cheiro/">Siguiente →</a></div></div>

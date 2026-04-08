@@ -32,6 +32,9 @@ La relevancia de esta investigación es que sienta las bases para entender la di
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+Wong, Yin Yin. «Temporal Typography. Characterization of Time-Varying Typographic Forms». Master’s thesis, Massachusetts Institute of Technology, 1995. <a href='http://hdl.handle.net/1721.1/29102' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/iso-type-generator/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/kachi-buwa/">Siguiente →</a></div></div>

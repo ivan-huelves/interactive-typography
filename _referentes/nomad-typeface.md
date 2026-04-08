@@ -31,6 +31,9 @@ La relevancia para esta investigación es que demuestra cómo el input del usuar
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+Yee, Joyce. «Developing A Practice-Led Framework To Promote The Practise And Understanding Of Typography Across Different Media». University of Northumbria, 2006. <a href='http://rgdoi.net/10.13140/2.1.1044.3041' target='_blank'>[Ver enlace]</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/no-design-foundry-tools/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/orfeo/">Siguiente →</a></div></div>

@@ -33,6 +33,10 @@ Aunque se trata de una serie de talleres, su relevancia reside en la figura de A
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
 
+<br>
+<a href="https://www.annacarreras.com/generative-typography/" target="_blank">🔗 Ver fuente 1</a><br>
+<a href="https://www.annacarreras.com/alphabet/" target="_blank">🔗 Ver fuente 2</a><br>
+
 
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;"><div style="text-align: left; max-width: 30%;"><a href="/interactive-typography/referentes/timed-type/">← Anterior</a></div><div style="text-align: center;"><a href="/interactive-typography/referentes/">Volver al índice</a></div><div style="text-align: right; max-width: 30%;"><a href="/interactive-typography/referentes/tomorrows-typography/">Siguiente →</a></div></div>
