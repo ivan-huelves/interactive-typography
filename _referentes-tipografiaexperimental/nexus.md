@@ -14,6 +14,12 @@ permalink: /referentes-tipografiaexperimental/nexus/
 
 
 
+<div style="padding:56.25% 0 0 0;position:relative;margin-bottom:2rem;">
+    <iframe src="https://player.vimeo.com/video/1182275551?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+
 ### Descripción
 Este proyecto, formalizado como Trabajo de Fin de Grado y tutorizado por María Jesús Calleja de Castro, constituye la evolución del proyecto *Connect*, iniciado previamente en la asignatura de Tipografía y edición experimental. Nexus emplea la tipografía para simbolizar las dinámicas de las relaciones interpersonales mediante un sistema de glifos abstractos construidos sobre una cuadrícula de 10x10. Su conceptualización integra el modelo de desarrollo relacional con la Teoría de la Proxémica de Edward T. Hall, asociando los anillos concéntricos de la retícula a las distintas categorías de espacio (público, social, personal e íntimo). Cada glifo está diseñado para representar una de las diez etapas del vínculo afectivo, utilizando la tecnología variable a través de un eje de peso que modula la densidad de la forma, lo que da lugar a un lenguaje visual propio donde la abstracción geométrica sustituye al carácter alfanumérico para narrar la complejidad de los vínculos humanos. El proyecto hunde sus raíces conceptuales en *Cumulus Park*, referente fundamental para la propuesta inicial del alumno (*Connect*), del que toma la idea de representar la comunidad mediante la agrupación de partículas independientes que se unen para construir la forma. A nivel estético y constructivo, la evolución hacia Nexus establece un diálogo directo con *Bit Tripper* en la adopción del módulo cuadrado como unidad mínima de significado y construcción visual. Asimismo, el sistema se vincula estrechamente con *Type Me, Type Me Not* en la metodología de generación de glifos a partir de una cuadrícula estricta, aunque Nexus trasciende la estática de estos referentes al dotar a los módulos de movimiento variable dentro de la retícula para narrar visualmente la distancia interpersonal. La arquitectura de Nexus articula el modelo mediante una relación basada en datos categóricos, donde las diez etapas del desarrollo relacional (como iniciación, integración o finalización) actúan como valores de entrada discretos. El sistema emplea una función normalizadora que traduce estos estados cualitativos a coordenadas específicas dentro de una matriz de 10x10 fundamentada en los anillos de la teoría proxémica. A partir de estos datos, la función significativa ejecuta una lógica de codificación simbólica, asignando a cada fase una configuración abstracta en la retícula y modulando el eje de variación de peso para dotar de dinamismo a la composición. Este mecanismo genera valores transformados que configuran un nuevo lenguaje visual, validando la capacidad del modelo para expandir los procesos de significación al permitir una introspección sobre los vínculos personales, abstrayendo la tipografía de su dimensión textual tradicional para convertirla en una huella gráfica emocional.
 
@@ -29,8 +35,6 @@ Este proyecto, formalizado como Trabajo de Fin de Grado y tutorizado por María 
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas-tipografiaexperimental/codificacion-textual-si/)
 
-<br>
-<a href="https://vimeo.com/1182275551" target="_blank">🔗 Ver enlace 1</a><br>
 
 
 <hr>

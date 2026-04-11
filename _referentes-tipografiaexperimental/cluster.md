@@ -14,6 +14,12 @@ permalink: /referentes-tipografiaexperimental/cluster/
 
 
 
+<div style="padding:56.25% 0 0 0;position:relative;margin-bottom:2rem;">
+    <iframe src="https://player.vimeo.com/video/1182269492?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+
 ### Descripción
 Este proyecto propone una investigación basada en la práctica que conceptualiza la tipografía interactiva como un sistema sensible capaz de vincular el cuerpo y el espacio físico con el mensaje textual. La propuesta se distingue por su implementación técnica en TouchDesigner, un entorno de programación visual que permite procesar mapas de profundidad en tiempo real para transformar la estructura de los glifos. El sistema abandona la animación predefinida para generar un comportamiento performativo donde la tipografía responde a la presencia física y al movimiento del usuario mediante interfaces naturales. Los caracteres responden a la presencia en el espacio, transformando su estructura en función de la distancia y el movimiento del usuario. Para garantizar la función comunicativa se preserva una base formal reconocible del carácter que se altera mediante desplazamientos controlados, permitiendo que la tipografía se comporte como una materia viva que se comprime, expande o distorsiona según la proximidad y la gestualidad del espectador. El autor toma como referencias antecedentes fundacionales de la tipografía interactiva como *Text Rain* de Utterback y Achituv en la interacción directa entre silueta humana y texto, aunque evoluciona hacia una tridimensionalidad más cercana a las instalaciones de Rafael Lozano-Hemmer como *1984x1984* donde la presencia del público genera volúmenes digitales. Asimismo, la propuesta resuena con la obra reciente *Continuum Resonance* de Daito Manabe en la integración de datos físicos y visuales para enriquecer la mediación sensorial. Finalmente, en el contexto de la asignatura de Tipografía y edición experimental, esta propuesta plantea una evolución en la interfaz gestual al integrar la totalidad del cuerpo como *input* del sistema, ampliando aquellas propuestas limitadas a algunas partes del cuerpo. La arquitectura del sistema articula el modelo mediante una relación directa y espacial donde los mapas de profundidad actúan como valores de entrada. El flujo de trabajo en TouchDesigner emplea una función normalizadora que procesa la señal de vídeo para extraer coordenadas espaciales (X, Y, Z) y datos de rotación de las manos. Debido a que este entorno de programación visual no soporta la interacción nativa con los ejes de variación, el proyecto prescinde de la tipografía variable y sustituye su arquitectura algorítmica por una malla de partículas que conforman los caracteres. A partir de los datos extraídos la función significativa ejecuta una lógica de extrusión sobre dicha malla. La distancia física del usuario modula la compresión o expansión volumétrica de la retícula mientras que la rotación de la mano controla la intensidad de los mapas de ruido que distorsionan la geometría. Este mecanismo genera valores transformados que alteran la morfología del glifo en tiempo real validando la capacidad del modelo para expandir los procesos de significación al convertir el movimiento corporal en una experiencia visual tangible y performativa.
 
@@ -29,8 +35,6 @@ Este proyecto propone una investigación basada en la práctica que conceptualiz
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas-tipografiaexperimental/codificacion-textual-no/)
 
-<br>
-<a href="https://vimeo.com/1182269492" target="_blank">🔗 Ver enlace 1</a><br>
 
 
 <hr>
