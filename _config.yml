@@ -90,4 +90,5 @@ exclude:
 collections:
   referentes:
     output: true
-    permalink: /referentes/:path/
+  referentes-tipografiaexperimental:
+    output: true
