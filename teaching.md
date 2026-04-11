@@ -1,23 +1,12 @@
 ---
 layout: page
-title: Marco de referencia
+title: Proyectos Tipografía y edición experimental
 permalink: /teaching/
 ---
 
-Análisis de referentes clasificados en el marco <br>de la investigación
+Análisis de los proyectos realizados por los estudiantes
 
 ---
-
-### Explorar por Década
-<div class="nav-links">
-<p>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/decada-de-1980/">Años 80</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/decada-de-1990/">Años 90</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/decada-de-2000/">Años 2000</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/decada-de-2010/">Años 2010</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/decada-de-2020/">Años 2020</a>
-</p>
-</div>
 
 ### Explorar por Función
 <div class="nav-links">
@@ -29,16 +18,6 @@ Análisis de referentes clasificados en el marco <br>de la investigación
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/narrativa-social/">Narrativa social</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/sistema-de-diseno-tipografico/">Sistemas de diseño</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/visualizacion-de-datos/">Visualización de datos</a>
-</p>
-</div>
-
-### Explorar por Contexto
-<div class="nav-links">
-<p>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/branding/">Branding</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/instalacion-artistica/">Instalación artística</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/investigacion-experimental/">Investigación / Experimental</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/producto-digital/">Producto digital</a>
 </p>
 </div>
 
@@ -74,7 +53,7 @@ Análisis de referentes clasificados en el marco <br>de la investigación
 
 ---
 
-### Referentes analizados
+### Proyectos analizados
 
 <div class="project-grid">
   {% for proyecto in site["referentes-tipografiaexperimental"] %}
