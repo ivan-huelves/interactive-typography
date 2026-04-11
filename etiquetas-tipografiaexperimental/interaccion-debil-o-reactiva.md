@@ -357,22 +357,6 @@ permalink: /etiquetas-tipografiaexperimental/interaccion-debil-o-reactiva/
       </div>
     </a>
 
-    <a href="/interactive-typography/referentes-tipografiaexperimental/shawaz/" class="project-card">
-      <div class="card-image">
-        <img src="/interactive-typography/images/referentes-tipografiaexperimental/cap06_10_cecilia de diego 01.jpg" alt="Imagen de Shawaz" loading="lazy">
-      </div>
-      <div class="card-content">
-        <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Shawaz
-        </span>
-        <div class="card-meta" style="font-size: 0.9em; color: #666;">
-          Cecilia de Diego Sanz
-          <br>
-          <span style="color: #999;">2021</span>
-        </div>
-      </div>
-    </a>
-
     <a href="/interactive-typography/referentes-tipografiaexperimental/stellae/" class="project-card">
       <div class="card-image">
         <img src="/interactive-typography/images/referentes-tipografiaexperimental/cap06_25_ivan ibañez 01.jpg" alt="Imagen de Stellae" loading="lazy">
