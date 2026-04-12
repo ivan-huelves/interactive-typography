@@ -1,10 +1,33 @@
 ---
 layout: default
 ---
-<div class="home-intro" style="text-align: left; padding: 2rem 0;">
-    <h2>Interactive Typography. Expansion of the Processes of Signification</h2>
-    <p style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 2rem;">
-        This blog arises from a research framework on the interaction between variable typography and data collected by sensors. It serves as a journal and communication channel for the results obtained in the exploration of semantic uses of variable fonts in graphical interfaces.
-    </p>
-    
-    </div>
+
+<div class="home-intro">
+  <p class="home-description">
+    Esta investigación explora cómo la tipografía interactiva y el formato variable expanden los procesos de significación en las interfaces gráficas digitales. A través del desarrollo de un modelo conceptual y la creación de prototipos, el texto abandona su estatismo tradicional para transformarse en un sistema vivo capaz de reaccionar en tiempo real a datos de sensores, algoritmos y acciones del usuario.
+  </p>
+
+  <div class="home-nav-links">
+    <a href="{{ site.baseurl }}/prototypes/">Mis Prototipos</a>
+    <a href="{{ site.baseurl }}/referentes/">Marco de Referencia</a>
+    <a href="{{ site.baseurl }}/teaching/">Proyectos de Estudiantes</a>
+  </div>
+  
+  <hr class="home-divider">
+</div>
+
+<div class="posts">
+  <h2 class="blog-section-title">Cuaderno de bitácora</h2>
+  
+  {% for post in site.posts %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer artículo completo</a>
+    </article>
+  {% endfor %}
+</div>
