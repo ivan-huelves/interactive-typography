@@ -331,31 +331,3 @@ footer .email-protector {
   background: #000;
   color: #fff;
 }
-
-/* --- GESTIÓN AUTOMÁTICA DE RESÚMENES EN PROTOTIPOS Y BLOG --- */
-
-/* 1. Si el resumen tiene un vídeo (iframe), ocultamos absolutamente TODAS las imágenes */
-.posts .entry:has(iframe) img {
-  display: none !important;
-}
-
-/* 2. Si las imágenes están en distintos párrafos: 
-      Ocultamos cualquier párrafo con imagen que vaya DESPUÉS del primer párrafo con imagen */
-.posts .entry p:has(img) ~ p:has(img) {
-  display: none !important;
-}
-
-/* 3. Si las imágenes están dentro del mismo párrafo: 
-      Ocultamos las imágenes que vayan detrás de la primera imagen */
-.posts .entry p img ~ img {
-  display: none !important;
-}
-
-/* 4. Limpieza: eliminamos los <br> y scripts sobrantes para que no dejen huecos en blanco gigantes */
-.posts .entry br,
-.posts .entry script {
-  display: none !important;
-}
-.posts .entry br {
-  display: none !important;
-}
