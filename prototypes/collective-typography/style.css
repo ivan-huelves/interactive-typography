@@ -15,15 +15,61 @@ body {
 /* PANTALLA DE INICIO */
 #overlay-inicio {
     position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-    background: rgba(0,0,0,0.9); z-index: 9999;
+    background: rgba(0,0,0,0.95); z-index: 9999;
     display: flex; justify-content: center; align-items: center;
 }
-#btn-conectar {
-    padding: 20px 40px; font-size: 1.2rem; background: rgb(255, 204, 0); color: #000;
-     font-family: monospace; font-weight: bold;
-    transition: 0.3s;
+
+.opciones-inicio {
+    text-align: center;
+    color: white;
 }
-#btn-conectar:hover { background: #000; color: rgb(255, 204, 0); box-shadow: 0 0 10px rgb(255, 204, 0); }
+
+.opciones-inicio h2 {
+    margin-bottom: 3rem;
+    font-family: monospace;
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+}
+
+.botones-container {
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+}
+
+.opcion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 300px;
+}
+
+#btn-conectar, #btn-manual {
+    padding: 20px 40px; 
+    font-size: 1.2rem; 
+    background: rgb(255, 204, 0); 
+    color: #000;
+    font-family: monospace; 
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    transition: 0.3s;
+    width: 100%;
+}
+
+#btn-conectar:hover, #btn-manual:hover { 
+    background: #fff; 
+    color: #000; 
+    box-shadow: 0 0 15px rgb(255, 204, 0); 
+}
+
+.instruccion {
+    font-family: monospace;
+    font-size: 0.85rem;
+    color: #aaa;
+    margin-top: 15px;
+    line-height: 1.4;
+}
 
 /* PROTOTIPO */
 .escena-contenedor { position: relative; width: 100%; height: 100%; perspective: 1000px; }
@@ -39,34 +85,22 @@ body {
     z-index: 3; pointer-events: none;
 }
 
-
-/* --- SILUETAS --- */
 .silueta {
     position: absolute;
     height: 55vh; 
-    
-    /* Configuración de la imagen de fondo */
     background-size: contain; 
     background-repeat: no-repeat; 
     background-position: bottom center;
-    
-    /* Filtros para que se integre con el fondo oscuro */
     filter: contrast(1.1) brightness(0.8);
-
-    /* Estado Inicial: Escondido abajo */
     transform: translateY(150%); 
     opacity: 1;
-    
     transition: transform 0.8s cubic-bezier(0.2, 0.6, 0.35, 1);
     will-change: transform;
 }
 
-/* Estado Final: Visible */
 .silueta.ha-entrado {
-    /* El !important asegura que suba sí o sí */
     transform: translateY(0) !important; 
 }
-
 
 /* TEXTO */
 .pantalla-proyeccion {
@@ -92,7 +126,6 @@ body {
     z-index: 100;
 }
 
-/* Header alineado a la derecha con el LED integrado */
 .sensor-header {
     font-size: 0.8rem;
     color: #aaa;
@@ -104,7 +137,6 @@ body {
     text-transform: uppercase;
 }
 
-/* El número de personas alineado a la derecha */
 .sensor-data { 
     font-size: 2rem; 
     font-weight: bold; 
@@ -112,7 +144,6 @@ body {
     justify-content: flex-end;
 }
 
-/* La luz (LED) */
 .led-actividad { 
     width: 8px; 
     height: 8px; 
@@ -121,12 +152,10 @@ body {
     transition: background-color 0.1s, box-shadow 0.1s; 
 }
 
-/* Cuando se enciende al detectar persona */
 .led-actividad.on { 
     background-color: #f00; 
     box-shadow: 0 0 8px #f00; 
 }
-
 
 .barra-progreso { width: 100%; height: 4px; background: #222; margin-top: 10px; }
 .barra-relleno { height: 100%; background: rgb(255, 204, 0); width: 0%; transition: width 0.1s; }

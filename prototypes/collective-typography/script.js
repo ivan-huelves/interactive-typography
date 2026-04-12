@@ -20,14 +20,16 @@ const elContador = document.getElementById('contador');
 const elBarra = document.getElementById('barra');
 const elLed = document.getElementById('led');
 const elDebug = document.getElementById('val-eje');
-const elEstado = document.getElementById('estado-conexion');
 const overlay = document.getElementById('overlay-inicio');
 const contenedorSiluetas = document.getElementById('contenedor-siluetas');
 
 document.addEventListener('DOMContentLoaded', () => {
     generarSiluetas();
     loopVisual();
+    
+    // Listeners para los dos modos de inicio
     document.getElementById('btn-conectar').addEventListener('click', conectarArduino);
+    document.getElementById('btn-manual').addEventListener('click', iniciarModoManual);
     
     window.addEventListener('keydown', (e) => {
         if (!sistemaDesbloqueado) return;
@@ -42,12 +44,10 @@ function generarSiluetas() {
     const anchoBase = 12;
     let listaTemp = [];
 
-    // --- Distribución por Sectores ---
     let carriles = Array.from({length: TOTAL_SILUETAS}, (_, i) => i);
     carriles.sort(() => Math.random() - 0.5);
 
     for (let i = 0; i < TOTAL_SILUETAS; i++) {
-        // Cada silueta ocupa un sector del ~3.3% del ancho (100/30)
         const sectorAncho = 90 / TOTAL_SILUETAS; 
         const baseLeft = carriles[i] * sectorAncho;
         const variacionAleatoria = Math.random() * (sectorAncho * 0.5);
@@ -127,17 +127,16 @@ async function conectarArduino() {
         port = await navigator.serial.requestPort();
         await port.open({ baudRate: 9600 });
         overlay.style.display = 'none';
-        
-        if(elEstado) {
-            elEstado.innerText = "ON";
-            elEstado.style.color = "#fff";
-        }
-        
         sistemaDesbloqueado = true;
         leerSerial();
     } catch (err) {
         console.error("Error al conectar:", err);
     }
+}
+
+function iniciarModoManual() {
+    overlay.style.display = 'none';
+    sistemaDesbloqueado = true;
 }
 
 async function leerSerial() {

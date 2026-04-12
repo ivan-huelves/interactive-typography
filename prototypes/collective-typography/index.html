@@ -9,7 +9,19 @@
 <body>
 
     <div id="overlay-inicio">
-        <button id="btn-conectar">CONNECT SENSOR</button>
+        <div class="opciones-inicio">
+            <h2>SELECCIONA EL MODO DE PARTICIPACIÓN</h2>
+            <div class="botones-container">
+                <div class="opcion">
+                    <button id="btn-conectar">CON SENSOR</button>
+                    <p class="instruccion">(Requiere conectar la placa Arduino por USB)</p>
+                </div>
+                <div class="opcion">
+                    <button id="btn-manual">SIN SENSOR</button>
+                    <p class="instruccion">(Pulsa la tecla de la flecha derecha para añadir personas)</p>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="escena-contenedor">
@@ -43,7 +55,7 @@ No home, no life. No people, no place!!!</p>
         <div id="barra" class="barra-relleno"></div>
     </div>
     
-    <div class="debug-eje">VARIATION AXIS: <span id="val-eje">0.00</span></div>
+    <div class="debug-eje">VARIATION AXIS <span id="val-eje">0.00</span></div>
 </div>
 
     <script src="script.js"></script>
