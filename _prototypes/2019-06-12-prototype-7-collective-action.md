@@ -24,6 +24,7 @@ El séptimo prototipo profundiza en la aplicación de la tipografía interactiva
 
 El sistema utiliza la tipografía de código libre *Inter* como base para articular su comportamiento visual. Con el objetivo de alcanzar el efecto de ocultación y generar un diseño maestro intermedio conservando la compatibilidad técnica de los trazados, la programación de un *script* de Python sustituye a la edición manual de los glifos. Esta automatización resulta fundamental para la edición tipográfica avanzada al resolver cálculos geométricos inasumibles mediante métodos manuales. El algoritmo accede a la estructura interna de la fuente para recorrer secuencialmente los nodos de cada carácter aplicando una fórmula de interpolación lineal. Este procedimiento calcula la posición exacta de cada punto en el nuevo diseño maestro, garantizando una interpolación libre de errores de compatibilidad y demostrando que el uso de código expande las capacidades del diseñador para generar tipografías variables complejas. El eje de variación resultante se estructura a través de tres diseños maestros denominados Ilegible (valor 0), Ilegible medio (valor 7) y Legible (valor 10).
 
+![Acción colectiva 07]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-07.png)<br>
 ![Acción colectiva 08]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-08.png)<br>
 ![Acción colectiva 09]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-09.png)
 
@@ -37,7 +38,7 @@ Para el desarrollo técnico de este prototipo y las correspondientes pruebas emp
 ![Acción colectiva 04]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-04.png)<br>
 ![Acción colectiva 05]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-05.png)<br>
 ![Acción colectiva 06]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-06.png)<br>
-![Acción colectiva 07]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-07.png)<br>
+
 
 ### Apuntes para el desarrollo del modelo
 El análisis de este séptimo prototipo aporta una dimensión esencial para la construcción del futuro modelo al introducir la variable de la interacción acumulativa. A diferencia de los casos orientados a la reactividad individual o ambiental, este experimento demuestra que la transformación morfológica posee la capacidad de vincularse a la suma secuencial de acciones de múltiples usuarios. Este hallazgo establece que la arquitectura del sistema requerirá contar con la capacidad de guardar el registro continuo de los datos de entrada para generar interacciones basadas en la acumulación secuencial de valores.
