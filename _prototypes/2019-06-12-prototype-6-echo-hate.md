@@ -6,11 +6,11 @@ categories: prototypes
 author: "Iván Huelves Illas"
 ---
 
-![Cámaras de eco 01]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-01.png)
-![Cámaras de eco 02]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-02.png)
-![Cámaras de eco 03]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-03.png)
-![Cámaras de eco 04]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-04.png)
-![Cámaras de eco 05]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-05.png)
+![Cámaras de eco 01]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-01.png)<br>
+![Cámaras de eco 02]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-02.png)<br>
+![Cámaras de eco 03]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-03.png)<br>
+![Cámaras de eco 04]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-04.png)<br>
+![Cámaras de eco 05]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-05.png)<br>
 ![Cámaras de eco 06]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-06.png)
 
 ### Clasificación

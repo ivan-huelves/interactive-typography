@@ -6,15 +6,15 @@ categories: prototypes
 author: "Iván Huelves Illas"
 ---
 
-![Acción colectiva 00]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-00.png)
-![Acción colectiva 01]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-01.png)
-![Acción colectiva 02]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-02.png)
-![Acción colectiva 03]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-03.png)
-![Acción colectiva 04]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-04.png)
-![Acción colectiva 05]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-05.png)
-![Acción colectiva 06]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-06.png)
-![Acción colectiva 07]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-07.png)
-![Acción colectiva 08]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-08.png)
+![Acción colectiva 00]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-00.png)<br>
+![Acción colectiva 01]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-01.png)<br>
+![Acción colectiva 02]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-02.png)<br>
+![Acción colectiva 03]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-03.png)<br>
+![Acción colectiva 04]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-04.png)<br>
+![Acción colectiva 05]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-05.png)<br>
+![Acción colectiva 06]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-06.png)<br>
+![Acción colectiva 07]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-07.png)<br>
+![Acción colectiva 08]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-08.png)<br>
 ![Acción colectiva 09]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-09.png)
 
 ### Clasificación

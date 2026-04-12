@@ -6,11 +6,11 @@ categories: prototypes
 author: "Iván Huelves Illas"
 ---
 
-![Calidad del aire 01]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-00.png)
-![Calidad del aire 02]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-01.png)
-![Calidad del aire 03]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-02.png)
-![Calidad del aire 04]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-03.png)
-![Calidad del aire 05]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-04.png)
+![Calidad del aire 01]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-00.png)<br>
+![Calidad del aire 02]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-01.png)<br>
+![Calidad del aire 03]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-02.png)<br>
+![Calidad del aire 04]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-03.png)<br>
+![Calidad del aire 05]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-04.png)<br>
 ![Calidad del aire 06]({{ site.baseurl }}/images/prototypes/cap04_05_logo-air-05.png)
 
 ### Clasificación
