@@ -331,3 +331,62 @@ footer .email-protector {
   background: #000;
   color: #fff;
 }
+/* --- ESTILOS PARA LA PORTADA (INDEX) --- */
+
+/* Reducimos el margen de la cabecera para que la portada quede más compacta */
+.wrapper-masthead {
+  margin-bottom: 1.5rem;
+}
+
+.home-intro {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 0 20px;
+}
+
+.home-description {
+  font-size: 1.1em;
+  color: #555;
+  max-width: 800px;
+  margin: 0 auto 2rem;
+  line-height: 1.6;
+}
+
+.home-nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 2.5rem;
+}
+
+.home-nav-links a {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #000;
+  text-decoration: none;
+  font-size: 0.9em;
+  font-weight: bold;
+  background: #fff;
+  transition: all 0.2s ease;
+}
+
+.home-nav-links a:hover {
+  background: #000;
+  color: #fff;
+  border-color: #000;
+}
+
+.home-divider {
+  border: 0;
+  border-bottom: 1px solid #ddd;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.blog-section-title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
