@@ -31,7 +31,7 @@ La arquitectura del proyecto integra dos *inputs* y dos *outputs* donde las entr
 
 El propósito comunicativo consiste en reflejar de manera directa y progresiva los fenómenos meteorológicos. Para ello, el diseño establece una correspondencia directa donde el aumento de la temperatura o del nivel de agua incrementa el peso de los glifos correspondientes. De este modo, el sistema representa una temperatura más alta mediante un mayor grosor de la tipografía *Roman*, mientras visualiza una lluvia más intensa aumentando el peso de los caracteres en su versión *Italic*.
 
-![Datos meteorológicos 01]({{ site.baseurl }}/images/prototypes/cap04_03_sensor-meteo-02.jpg)
+![Datos meteorológicos 01]({{ site.baseurl }}/images/prototypes/cap04_03_sensor-meteo-02.jpg)<br>
 ![Datos meteorológicos 02]({{ site.baseurl }}/images/prototypes/cap04_03_sensor-meteo-03.jpg)
 
 ### Apuntes para el desarrollo del modelo

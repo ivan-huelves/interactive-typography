@@ -34,7 +34,7 @@ El propósito comunicativo radica en mejorar la percepción del texto en pantall
 
 Las pruebas empíricas revelaron la necesidad de ajustar la respuesta de la tipografía al tipo de pantalla. Mientras una correspondencia lineal entre la luz y el tamaño óptico resulta suficiente en dispositivos de tinta electrónica, las pantallas de los teléfonos móviles, caracterizadas por su menor tamaño y el uso de retroiluminación, requieren una progresión exponencial para generar una adaptación visual verdaderamente efectiva.
 
-![Adaptación lumínica 01]({{ site.baseurl }}/images/prototypes/cap04_02_sensor-iluminacion 01.jpg)
+![Adaptación lumínica 01]({{ site.baseurl }}/images/prototypes/cap04_02_sensor-iluminacion 01.jpg)<br>
 ![Adaptación lumínica 02]({{ site.baseurl }}/images/prototypes/cap04_02_sensor-iluminacion 02.jpg)
 
 ### Apuntes para el desarrollo del modelo

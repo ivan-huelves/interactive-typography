@@ -6,7 +6,7 @@ categories: prototypes
 author: "Iván Huelves Illas"
 ---
 
-![Acción colectiva 00]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-00.png)<br>
+![Acción colectiva 01]({{ site.baseurl }}/images/prototypes/cap04_07_participativa-01.png)
 
 ### Clasificación
 * Función Narrativa social

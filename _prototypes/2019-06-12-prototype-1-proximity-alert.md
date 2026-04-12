@@ -31,7 +31,7 @@ El sistema consta de dos componentes principales donde, por un lado, integra un 
 
 Durante las pruebas se comprobó que una progresión lineal en la variación del peso carecía de la visibilidad necesaria. Para lograr que el cambio resultase evidente en distancias cortas y críticas se implementó un incremento exponencial, intensificando la alerta visual a medida que el peligro de colisión se vuelve inminente. El sistema transfiere este valor resultante directamente al eje de variación de peso de los caracteres numéricos encargados de representar la distancia.
 
-![Alerta por proximidad 01]({{ site.baseurl }}/images/prototypes/cap04_01_sensor-distancia-02.jpg)
+![Alerta por proximidad 01]({{ site.baseurl }}/images/prototypes/cap04_01_sensor-distancia-02.jpg)<br>
 ![Alerta por proximidad 02]({{ site.baseurl }}/images/prototypes/cap04_01_sensor-distancia-03.jpg)
 
 ### Apuntes para el desarrollo del modelo

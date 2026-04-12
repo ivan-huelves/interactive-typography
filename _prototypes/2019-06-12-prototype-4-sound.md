@@ -31,8 +31,8 @@ El sistema integra dos componentes principales donde, por un lado, cuenta con un
 
 La amplitud del sonido captada por el sensor determina directamente el valor transferido a los ejes, generando una transformación morfológica de los glifos mayor ante una amplitud más elevada. Para controlar el efecto visual y evitar una aleatoriedad excesiva el diseño incorpora dos restricciones paramétricas. En primer lugar, los ejes horizontal y vertical limitan su rango a valores positivos para generar un movimiento predominante hacia arriba y hacia la derecha. En segundo lugar, el valor del eje de rotación sigue el ritmo de la música, pero el sistema asigna el sentido del giro de forma aleatoria en cada cambio. Esta combinación de control y azar produce un comportamiento rítmico impredecible pero coherente.
 
-![Sensor de sonido 01]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-02.jpg)
-![Sensor de sonido 02]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-03.jpg)
+![Sensor de sonido 01]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-02.jpg)<br>
+![Sensor de sonido 02]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-03.jpg)<br>
 ![Sensor de sonido 03]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-04.jpg)
 
 ### Apuntes para el desarrollo del modelo
