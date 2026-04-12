@@ -92,3 +92,5 @@ collections:
     output: true
   referentes-tipografiaexperimental:
     output: true
+  prototypes:
+    output: true
