@@ -15,3 +15,30 @@ layout: default
 
   {% include disqus.html %}
 </article>
+
+<hr>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;">
+  {% if page.previous %}
+    <div style="text-align: left; max-width: 30%;">
+      <a href="{{ site.baseurl }}{{ page.previous.url }}">← Anterior</a>
+    </div>
+  {% else %}
+    <div style="width: 30%;"></div>
+  {% endif %}
+
+<div style="text-align: center;">
+  {% if page.categories contains 'prototype' or page.categories contains 'prototypes' %}
+    <a href="{{ site.baseurl }}/prototypes/">Volver a Prototipos</a>
+  {% else %}
+    <a href="{{ site.baseurl }}/blog/">Volver al Blog</a>
+  {% endif %}
+</div>
+
+  {% if page.next %}
+    <div style="text-align: right; max-width: 30%;">
+      <a href="{{ site.baseurl }}{{ page.next.url }}">Siguiente →</a>
+    </div>
+  {% else %}
+    <div style="width: 30%;"></div>
+  {% endif %}
+</div>
