@@ -7,11 +7,6 @@ author: "Iván Huelves Illas"
 ---
 
 ![Cámaras de eco 01]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-01.png)<br>
-![Cámaras de eco 02]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-02.png)<br>
-![Cámaras de eco 03]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-03.png)<br>
-![Cámaras de eco 04]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-04.png)<br>
-![Cámaras de eco 05]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-05.png)<br>
-![Cámaras de eco 06]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-06.png)
 
 ### Clasificación
 * Función Narrativa social
@@ -32,6 +27,12 @@ El eje Echo representa el concepto de cámara de eco o cierre epistémico. Cuand
 La consecución de este efecto de inestabilidad visual requirió la programación de un *script* de Python. El algoritmo actúa directamente sobre la estructura de los glifos para generar un temblor morfológico aleatorio mediante una función denominada *jitter*. Al recorrer cada trazado de los glifos, el código reasigna la posición de los nodos aplicando un desplazamiento impredecible en sus coordenadas horizontales y verticales. Esta automatización técnica sustituye a la edición manual de miles de puntos, cuya manipulación individual resultaría inasumible en términos de tiempo y precisión para el diseño del prototipo. Asimismo, el procesamiento mediante código garantiza que los diseños maestros conserven la compatibilidad de contornos necesaria para la interpolación, asegurando que el orden y la cantidad de nodos permanezcan idénticos a pesar de la transformación generada. Este procedimiento permite que la tipografía adquiera una apariencia vibrante y agresiva, reforzando la metáfora del discurso de odio mediante una alteración orgánica que escapa al control del dibujo tipográfico tradicional.
 
 Para la implementación técnica, el diseño plantea su arquitectura conceptual como una extensión del navegador web capaz de leer el contenido en tiempo real. Sin embargo, para aislar y validar exclusivamente el comportamiento tipográfico interactivo, el presente caso de estudio se ha desarrollado en fase *alpha* a modo de demostración técnica. En su estado actual el sistema no captura datos en vivo, sino que utiliza un *dataset* estático preconfigurado que simula los mensajes del muro de una red social para actuar como *input* dinámico. Para procesar estos datos el sistema emplea un motor de análisis léxico cerrado basado en diccionarios de términos predefinidos y listas de palabras tóxicas. Este enfoque permite calcular matemáticamente la homogeneidad del sentimiento y el nivel de toxicidad, transfiriendo esos valores mediante CSS a los ejes HATE y ECHO de la tipografía variable. No obstante, el desarrollo empírico establece la necesidad tecnológica futura donde para que el sistema sea viable en un entorno real será indispensable sustituir este análisis léxico por técnicas de Procesamiento del Lenguaje Natural mediante librerías de aprendizaje automático que ejecuten modelos de *stance detection* y análisis de sentimiento.
+
+![Cámaras de eco 02]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-02.png)<br>
+![Cámaras de eco 03]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-03.png)<br>
+![Cámaras de eco 04]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-04.png)<br>
+![Cámaras de eco 05]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-05.png)<br>
+![Cámaras de eco 06]({{ site.baseurl }}/images/prototypes/cap04_06_discourse-06.png)
 
 ### Apuntes para el desarrollo del modelo
 El análisis de este sexto prototipo supone una expansión conceptual para el futuro modelo al demostrar que la fuente de datos no requiere limitarse a mediciones físicas externas. Por el contrario, el proyecto evidencia la viabilidad de capturar información cualitativa mediante la integración de técnicas de procesamiento de lenguaje. Este hallazgo establece que el modelo conceptual debe estar preparado para asimilar conceptos abstractos (como el odio o el sesgo ideológico) y transformarlos mediante procesos de cuantificación en parámetros numéricos directamente vinculados con los ejes de variación tipográfica.

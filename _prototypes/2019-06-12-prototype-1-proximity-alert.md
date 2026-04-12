@@ -11,10 +11,6 @@ author: "Iván Huelves Illas"
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
-![Alerta por proximidad 01]({{ site.baseurl }}/images/prototypes/cap04_01_sensor-distancia-02.jpg)
-
-![Alerta por proximidad 02]({{ site.baseurl }}/images/prototypes/cap04_01_sensor-distancia-03.jpg)
-
 ### Clasificación
 * Función Visualización de datos
 * Contexto Investigación / Experimental
@@ -34,6 +30,9 @@ Para simular el comportamiento del sensor y llevar a cabo las pruebas empíricas
 El sistema consta de dos componentes principales donde, por un lado, integra un *input* de datos proveniente de un sensor de ultrasonidos encargado de registrar la distancia y, por otro lado, presenta un *output* visual mediante la tipografía variable *Kairos Sans* a través de su eje de variación de peso. Para esta simulación se acotó el rango del sensor a una detección entre 2 y 40 centímetros con una frecuencia de actualización de 100 milisegundos. El eje de peso de la tipografía abarca un rango de valores de 250 (*light*) a 900 (*black*).
 
 Durante las pruebas se comprobó que una progresión lineal en la variación del peso carecía de la visibilidad necesaria. Para lograr que el cambio resultase evidente en distancias cortas y críticas se implementó un incremento exponencial, intensificando la alerta visual a medida que el peligro de colisión se vuelve inminente. El sistema transfiere este valor resultante directamente al eje de variación de peso de los caracteres numéricos encargados de representar la distancia.
+
+![Alerta por proximidad 01]({{ site.baseurl }}/images/prototypes/cap04_01_sensor-distancia-02.jpg)
+![Alerta por proximidad 02]({{ site.baseurl }}/images/prototypes/cap04_01_sensor-distancia-03.jpg)
 
 ### Apuntes para el desarrollo del modelo
 El diseño de este prototipo aporta un principio metodológico clave para el futuro modelo al demostrar que la intención comunicativa debe prevalecer sobre la correspondencia técnica de los datos. En este caso particular, donde se busca una relación inversa entre el *input* y el *output* (a menor distancia corresponde mayor peso), resulta preciso definir la relación conceptual antes de vincular los datos con la tipografía. Este hallazgo demuestra que en ocasiones los datos carecen de valor semántico por sí mismos y requieren que el diseñador determine la correspondencia de valores desde la fase de ideación. Dicha decisión simplifica la lógica de implementación técnica al alinear la escala de normalización con el objetivo visual, lo cual confirma que el modelo debe integrar una etapa de definición significativa donde la intención comunicativa ordene el resto de decisiones.

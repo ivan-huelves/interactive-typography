@@ -11,12 +11,6 @@ author: "Iván Huelves Illas"
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
-![Sensor de sonido 01]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-02.jpg)
-
-![Sensor de sonido 02]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-03.jpg)
-
-![Sensor de sonido 03]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-04.jpg)
-
 ### Clasificación
 * Función Exploración formal y performativa
 * Contexto Investigación / Experimental
@@ -36,6 +30,10 @@ Para simular la captura de datos y llevar a cabo las pruebas empíricas, el desa
 El sistema integra dos componentes principales donde, por un lado, cuenta con un sensor SparkFun Sound Detector actuando como *input* para registrar la amplitud de la música. Los valores emitidos exigen una calibración previa en función del volumen y el ruido ambiental circundante. Para este experimento se estableció un rango de 7 a 50 con una actualización de datos cada 10 milisegundos. Por otro lado, el *output* visual opera mediante la tipografía variable *WHOA Spine*, seleccionada por su carácter expresivo, a través de sus tres ejes de variación espacial que corresponden al eje horizontal (valores de 0 a 1.000), el eje vertical (0 a 1.000) y el eje de rotación (de -45 a 45).
 
 La amplitud del sonido captada por el sensor determina directamente el valor transferido a los ejes, generando una transformación morfológica de los glifos mayor ante una amplitud más elevada. Para controlar el efecto visual y evitar una aleatoriedad excesiva el diseño incorpora dos restricciones paramétricas. En primer lugar, los ejes horizontal y vertical limitan su rango a valores positivos para generar un movimiento predominante hacia arriba y hacia la derecha. En segundo lugar, el valor del eje de rotación sigue el ritmo de la música, pero el sistema asigna el sentido del giro de forma aleatoria en cada cambio. Esta combinación de control y azar produce un comportamiento rítmico impredecible pero coherente.
+
+![Sensor de sonido 01]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-02.jpg)
+![Sensor de sonido 02]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-03.jpg)
+![Sensor de sonido 03]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-04.jpg)
 
 ### Apuntes para el desarrollo del modelo
 El análisis de este cuarto prototipo establece una base práctica para el futuro modelo al evidenciar el potencial expresivo de la tipografía interactiva. A diferencia de los casos anteriores orientados a cuestiones funcionales, este proyecto demuestra que el sistema posee la capacidad de generar comportamientos performativos. Para alcanzar este nivel de expresividad, se puede integrar a la lógica de transformación variables aleatorias capaces de dotar a los caracteres de un movimiento más orgánico. Sin embargo, para evitar que esta imprevisibilidad derive en ruido visual resulta imprescindible aplicar restricciones. Al limitar los ejes espaciales a valores positivos y acotar el sentido de giro de la rotación mediante un azar controlado, el sistema reduce el caos y garantiza un movimiento rítmico armónico. Este hallazgo establece que el mecanismo encargado de traducir los datos debe incluir operadores matemáticos y límites de rango para que el diseñador logre crear comportamientos visuales complejos manteniendo el control sobre la forma de los glifos.

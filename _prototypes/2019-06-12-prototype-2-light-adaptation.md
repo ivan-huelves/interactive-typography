@@ -11,9 +11,6 @@ author: "Iván Huelves Illas"
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
-![Adaptación lumínica 01]({{ site.baseurl }}/images/prototypes/cap04_02_sensor-iluminacion 01.jpg)
-
-![Adaptación lumínica 02]({{ site.baseurl }}/images/prototypes/cap04_02_sensor-iluminacion 02.jpg)
 
 ### Clasificación
 * Función Accesibilidad
@@ -36,6 +33,9 @@ El sistema consta de dos componentes principales donde, por un lado, integra una
 El propósito comunicativo radica en mejorar la percepción del texto en pantalla bajo distintas condiciones lumínicas. El eje de tamaño óptico resulta idóneo para este fin al permitir el aumento del contraste y la robustez de los glifos sin alterar sus dimensiones principales. Para lograr este objetivo el sistema establece una relación inversa donde una menor iluminación ambiental corresponde a un mayor valor del eje de tamaño óptico, logrando que la tipografía resulte más perceptible en condiciones de escasez lumínica. Esta capacidad de ajuste automático mejora la experiencia general y representa un avance significativo en accesibilidad al ofrecer un apoyo visual dinámico a personas con baja visión o dificultades de lectura prescindiendo de cualquier intervención manual.
 
 Las pruebas empíricas revelaron la necesidad de ajustar la respuesta de la tipografía al tipo de pantalla. Mientras una correspondencia lineal entre la luz y el tamaño óptico resulta suficiente en dispositivos de tinta electrónica, las pantallas de los teléfonos móviles, caracterizadas por su menor tamaño y el uso de retroiluminación, requieren una progresión exponencial para generar una adaptación visual verdaderamente efectiva.
+
+![Adaptación lumínica 01]({{ site.baseurl }}/images/prototypes/cap04_02_sensor-iluminacion 01.jpg)
+![Adaptación lumínica 02]({{ site.baseurl }}/images/prototypes/cap04_02_sensor-iluminacion 02.jpg)
 
 ### Apuntes para el desarrollo del modelo
 La experimentación con este segundo prototipo establece una conclusión determinante sobre la lógica de transformación del futuro modelo en relación con la usabilidad y la experiencia de lectura. A diferencia de las interacciones orientadas a la expresividad, este caso de estudio demuestra que la tipografía interactiva posee la capacidad de operar de forma silenciosa y automática para asistir al usuario sin distraerle. Al vincular los datos lumínicos al eje de tamaño óptico, el sistema modifica el tono de los glifos para compensar la escasez de luz ambiental manteniendo intactas las dimensiones espaciales de los caracteres, lo cual garantiza la ausencia de saltos de línea indeseados. Este hallazgo confirma que el mecanismo encargado de traducir los datos debe ser lo suficientemente flexible para dar soporte a todo tipo de proyectos, abarcando con el mismo rigor desde soluciones estrictamente funcionales hasta propuestas formales o artísticas.

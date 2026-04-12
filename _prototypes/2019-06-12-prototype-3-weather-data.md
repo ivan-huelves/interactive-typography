@@ -11,10 +11,6 @@ author: "Iván Huelves Illas"
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
-![Datos meteorológicos 01]({{ site.baseurl }}/images/prototypes/cap04_03_sensor-meteo-02.jpg)
-
-![Datos meteorológicos 02]({{ site.baseurl }}/images/prototypes/cap04_03_sensor-meteo-03.jpg)
-
 ### Clasificación
 * Función Visualización de datos
 * Contexto Investigación / Experimental
@@ -34,6 +30,9 @@ Para simular la captura de datos y llevar a cabo las pruebas empíricas, el desa
 La arquitectura del proyecto integra dos *inputs* y dos *outputs* donde las entradas provienen de un sensor de temperatura cuyo rango para el experimento queda acotado entre 20°C y 45°C con una actualización cada segundo, junto a un sensor de nivel de agua destinado a simular la intensidad de la lluvia capaz de registrar valores entre 2 y 265. El *output* visual opera mediante la tipografía variable *Source Sans Variable*. El sistema emplea el estilo *Roman* para mostrar los datos de temperatura y el estilo *Italic* para representar la lluvia. En ambos casos la interacción modifica directamente el eje de variación de peso, el cual abarca un rango de 200 a 900.
 
 El propósito comunicativo consiste en reflejar de manera directa y progresiva los fenómenos meteorológicos. Para ello, el diseño establece una correspondencia directa donde el aumento de la temperatura o del nivel de agua incrementa el peso de los glifos correspondientes. De este modo, el sistema representa una temperatura más alta mediante un mayor grosor de la tipografía *Roman*, mientras visualiza una lluvia más intensa aumentando el peso de los caracteres en su versión *Italic*.
+
+![Datos meteorológicos 01]({{ site.baseurl }}/images/prototypes/cap04_03_sensor-meteo-02.jpg)
+![Datos meteorológicos 02]({{ site.baseurl }}/images/prototypes/cap04_03_sensor-meteo-03.jpg)
 
 ### Apuntes para el desarrollo del modelo
 Este prototipo introduce el uso de múltiples *inputs* operando de forma simultánea e independiente sobre diferentes estilos de una misma familia tipográfica. Cada variable de entrada se asocia a un *output* distinto mediante el estilo *Roman* y el estilo *Italic* respectivamente. Este hallazgo resulta de gran importancia para garantizar la escalabilidad del sistema propuesto. La experimentación confirma la viabilidad de añadir complejidad al aumentar el número de variables de entrada y salida prescindiendo de alteraciones en la estructura lógica fundamental del proceso. Esta constatación aporta un requisito estructural clave para el desarrollo del modelo conceptual al confirmar que la arquitectura deberá soportar flujos de información complejos donde la tipografía variable funcione como un recurso gráfico capaz de representar canales de datos paralelos e independientes.
