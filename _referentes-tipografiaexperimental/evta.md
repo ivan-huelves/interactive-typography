@@ -40,7 +40,7 @@ Este proyecto articula el modelo estableciendo una relación múltiple en la que
 * **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas-tipografiaexperimental/codificacion-textual-si/)
 
 <br>
-<a href="https://adg-fad.org/laus/proyecto/evta-emotional-variable-accessibility-0/" target="_blank">🔗 Ver enlace externo 1</a><br>
+<a href="[https://adg-fad.org/laus/proyecto/evta-emotional-variable-accessibility-0/](https://adg-fad.org/laus/proyecto/evta-emotional-variable-typeface-accessibility-0/)" target="_blank">🔗 Ver enlace externo 1</a><br>
 
 
 <hr>
