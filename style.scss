@@ -332,28 +332,30 @@ footer .email-protector {
   color: #fff;
 }
 
-/* --- GESTIÓN AUTOMÁTICA DE RESÚMENES EN PROTOTIPOS --- */
+/* --- GESTIÓN AUTOMÁTICA DE RESÚMENES EN PROTOTIPOS Y BLOG --- */
 
-/* Esta regla actúa únicamente en los listados de la página principal de prototipos */
-.posts .entry img {
-  display: none !important;
-}
-
-/* En el caso de que no exista un vídeo, rescatamos el primer glifo o imagen para que actúe como portada */
-.posts .entry:not(:has(iframe)) img:first-of-type {
-  display: block !important;
-  margin: 0 auto 1.5rem;
-  max-width: 100%;
-  height: auto;
-}
-
-/* Si el sistema detecta un vídeo de Vimeo, nos aseguramos de que las imágenes permanezcan ocultas */
+/* 1. Si el resumen tiene un vídeo (iframe), ocultamos absolutamente TODAS las imágenes */
 .posts .entry:has(iframe) img {
   display: none !important;
 }
 
-/* Eliminamos los scripts y saltos de línea adicionales que puedan generar espacios en blanco indeseados */
-.posts .entry script, 
+/* 2. Si las imágenes están en distintos párrafos: 
+      Ocultamos cualquier párrafo con imagen que vaya DESPUÉS del primer párrafo con imagen */
+.posts .entry p:has(img) ~ p:has(img) {
+  display: none !important;
+}
+
+/* 3. Si las imágenes están dentro del mismo párrafo: 
+      Ocultamos las imágenes que vayan detrás de la primera imagen */
+.posts .entry p img ~ img {
+  display: none !important;
+}
+
+/* 4. Limpieza: eliminamos los <br> y scripts sobrantes para que no dejen huecos en blanco gigantes */
+.posts .entry br,
+.posts .entry script {
+  display: none !important;
+}
 .posts .entry br {
   display: none !important;
 }
