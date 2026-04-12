@@ -11,11 +11,11 @@ author: "Iván Huelves Illas"
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
-![Sensor de sonido 01]({{ site.baseurl }}/images/prototypes/sensor-sonido-01.jpg)
+![Sensor de sonido 01]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-02.jpg)
 
-![Sensor de sonido 02]({{ site.baseurl }}/images/prototypes/sensor-sonido-02.jpg)
+![Sensor de sonido 02]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-03.jpg)
 
-![Sensor de sonido 03]({{ site.baseurl }}/images/prototypes/sensor-sonido-03.jpg)
+![Sensor de sonido 03]({{ site.baseurl }}/images/prototypes/cap04_04_sensor-sonido-04.jpg)
 
 ### Clasificación
 * Función Exploración formal y performativa
