@@ -7,27 +7,7 @@ layout: default
     Esta investigación explora cómo la tipografía interactiva y el formato variable expanden los procesos de significación en las interfaces gráficas digitales. A través del desarrollo de un modelo conceptual y la creación de prototipos, el texto abandona su estatismo tradicional para transformarse en un sistema vivo capaz de reaccionar en tiempo real a datos de sensores, algoritmos y acciones del usuario.
   </p>
 
-  <div class="home-nav-links">
-    <a href="{{ site.baseurl }}/prototypes/">Mis Prototipos</a>
-    <a href="{{ site.baseurl }}/referentes/">Marco de Referencia</a>
-    <a href="{{ site.baseurl }}/teaching/">Proyectos de Estudiantes</a>
-  </div>
-  
-  <hr class="home-divider">
-</div>
-
-<div class="posts">
-  <h2 class="blog-section-title">Cuaderno de bitácora</h2>
-  
-  {% for post in site.posts %}
-    <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer artículo completo</a>
-    </article>
-  {% endfor %}
+  <p class="home-description">
+    Este sitio web documenta los resultados prácticos y teóricos de la tesis doctoral. La plataforma se estructura en un <a href="{{ site.baseurl }}/blog/">cuaderno de bitácora</a> con las últimas novedades de la investigación, una colección de <a href="{{ site.baseurl }}/prototypes/">prototipos experimentales</a> de elaboración propia, una base de datos interactiva con los <a href="{{ site.baseurl }}/referentes/">casos de estudio</a> que conforman el marco de referencia, y una selección de <a href="{{ site.baseurl }}/teaching/">proyectos de estudiantes</a> que evidencian la transferencia de este conocimiento al aula.
+  </p>
 </div>
