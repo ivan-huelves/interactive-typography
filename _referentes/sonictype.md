@@ -17,9 +17,9 @@ permalink: /referentes/sonictype/
 ### Relevancia
 Sonictype se define como un sistema tipográfico interactivo que traduce el sonido en parámetros que generan tipografías. 
 
-Su aportación técnica consiste en el desarrollo de una herramienta web basada en p5.js que permite la manipulación paramétrica de cuatro variables estructurales (escala, anchura, densidad y trazo) para modular la respuesta gráfica al input de audio. 
+Su aportación técnica consiste en el desarrollo de una herramienta web basada en p5.js que permite la manipulación paramétrica de cuatro variables (escala, anchura, densidad y trazo) para modular la respuesta gráfica al *input* de audio. 
 
-Para esta investigación, la relevancia del caso radica en validar el uso del sonido como input de la forma tipográfica, demostrando que la programación creativa puede convertir la tipografía en un medio interactivo de visualización.
+Para esta investigación, la relevancia del caso radica en validar el uso del sonido como *input* de la forma tipográfica, demostrando que la programación creativa puede convertir la tipografía en un medio interactivo de visualización.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

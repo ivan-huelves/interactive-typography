@@ -15,11 +15,11 @@ permalink: /referentes/lattice/
 
 
 ### Relevancia
-Lattice es una herramienta web desarrollada en p5.js que aplica técnicas de deformación basadas en una retícula a la tipografía. La plataforma permite al usuario definir puntos de control sobre una malla para estirar y curvar la estructura del texto, generando animaciones interpoladas mediante keyframes. 
+Lattice es una herramienta web desarrollada en p5.js que transforma el glifo a partir de una retícula. La plataforma permite al usuario definir puntos de control sobre una malla para estirar y curvar la estructura del glifo, generando animaciones interpoladas. 
 
-Su aportación consiste en trasladar un método de deformación propio del modelado 3D al entorno del navegador. El sistema instrumentaliza la elasticidad tipográfica, permitiendo la creación de comportamientos cinéticos sin depender de software de motion graphics. 
+Su aportación consiste en trasladar un método de deformación propio del modelado 3D al entorno del navegador. El sistema genera comportamientos cinéticos prescindiendo de programas externos de *motion graphics*. 
 
-La relevancia de este proyecto para la investigación radica en que ejemplifica la manipulación estructural de la letra mediante sistemas de mallas interactivas. Ilustra cómo la programación permite disociar el contorno del glifo de su geometría fija, otorgando al usuario la capacidad de alterar la anatomía tipográfica preservando su coherencia estructural.
+La relevancia de este proyecto para la investigación radica en que ejemplifica la manipulación del glifo mediante sistemas de mallas interactivas disociándolo de su estrcutura de nodos.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

@@ -21,11 +21,11 @@ permalink: /referentes/cumulus-park/
 
 
 ### Relevancia
-La identidad de Cumulus Park articula conceptos de diversidad, adaptación e innovación a través de un sistema tipográfico. Las letras, formadas por partículas móviles, se transforman continuamente, evocando la idea del intercambio constante que define a esta comunidad.
+La identidad de Cumulus Park articula conceptos de diversidad, adaptación e innovación a través de un sistema tipográfico. Los glifos, formados por partículas móviles, se transforman continuamente, evocando la idea del intercambio constante que define a esta comunidad.
 
-Su principal aportación es el desarrollo de un sistema generativo a medida que funciona como el eje central de un proyecto de branding. Aunque la tipografía no responde a inputs externos en tiempo real, su naturaleza dinámica y en constante cambio la sitúa en la frontera de la interactiva. Su impacto ha sido reconocido con prestigiosos premios como el iF Design Award 2021 y el TDC Award 2021.
+Su principal aportación es el desarrollo de un sistema dinámico a medida que funciona como el eje central de un proyecto de identidad visual. Aunque el tipo no responde a *inputs* externos en tiempo real, su naturaleza dinámica y en constante cambio la sitúa en la frontera de la interactivad. Su impacto ha sido reconocido con premios como el iF Design Award 2021 y el TDC Award 2021.
 
-La relevancia de este proyecto para la investigación es que demuestra cómo una identidad visual puede ser un sistema vivo y no un artefacto estático. Además es un ejemplo de cómo la tipografía se puede emplear en el branding para comunicar conceptos complejos como la colaboración y la innovación.
+La relevancia de este proyecto para la investigación es que demuestra cómo una identidad visual puede ser un sistema vivo y no un artefacto estático. Además es un ejemplo de cómo la tipografía se puede emplear en el *branding* para comunicar conceptos complejos como la colaboración y la innovación.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

@@ -13,11 +13,11 @@ permalink: /referentes/momem/
 
 
 ### Relevancia
-El sistema desarrollado para una exhibición en el MOMEM se articula como una identidad dinámica reactiva al sonido. El proyecto trasciende la función estática de la comunicación para establecer un modelo interactivo, donde la morfología del texto se modifica en tiempo real en sincronía con la música.
+El sistema desarrollado para una exhibición en el Momem se articula como una identidad dinámica reactiva al sonido. El proyecto trasciende la morfología estática del glifo para establecer un modelo interactivo donde se modifica en tiempo real en sincronía con la música.
 
 Su aportación técnica más destacada es la traducción directa de parámetros de audio a variables tipográficas.
 
-Para esta investigación, la relevancia del caso radica en demostrar cómo la tipografía interactiva puede vertebrar una identidad mediante la interacción con sonido. Asimismo, demuestra que la investigación experimental con herramientas propias desarrollada por Schultzschultz no se limita al ámbito teórico, sino que encuentra una aplicación práctica y efectiva en proyectos profesionales.
+Para esta investigación, la relevancia del caso radica en demostrar cómo la tipografía interactiva puede vertebrar una identidad mediante la interacción con sonido. Asimismo, demuestra el potencial de la investigación experimental con herramientas propias.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

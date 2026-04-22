@@ -15,11 +15,11 @@ permalink: /referentes/uncanny-values-ai-font/
 
 
 ### Relevancia
-Aifont es un sistema de identidad visual generativa desarrollado para la exposición UNCANNY VALUES en la Bienal de Viena. El proyecto utiliza redes generativas antagónicas (GAN) para procesar un conjunto masivo de fuentes tipográficas y emojis, generando nuevos glifos que oscilan continuamente entre diferentes pesos y estilos. 
+Aifont es un sistema de identidad visual generativa desarrollado para la exposición Uncanny Values en la Bienal de Viena. El proyecto utiliza redes generativas antagónicas (GAN) para procesar un conjunto masivo de fuentes y emojis, generando nuevos glifos que oscilan continuamente entre diferentes pesos y estilos. 
 
-Su principal aportación es la materialización del *aprendizaje no supervisado* como proceso de diseño. En lugar de definir reglas geométricas fijas, el sistema imita el proceso cognitivo de aprender a escribir, produciendo formas que resultan familiares pero inquietantes, visualizando estéticamente la incertidumbre de la inteligencia artificial. 
+Su principal aportación es la materialización del aprendizaje no supervisado como proceso de diseño. En lugar de definir reglas fijas, el sistema imita el proceso cognitivo de aprender a escribir, produciendo formas que resultan familiares pero inquietantes, visualizando estéticamente la incertidumbre de la inteligencia artificial. 
 
-La relevancia de este proyecto para la investigación reside en que ejemplifica el uso de algoritmos generativos (GAN) para la creación de tipografías. Aporta un referente clave sobre cómo la inteligencia artificial puede actuar como co-creadora de una identidad visual dinámica a través de la tipografía generativa.
+La relevancia de este proyecto es que aporta un referente clave sobre cómo la inteligencia artificial puede actuar como cocreadora de una identidad visual dinámica a través de la tipografía generativa.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

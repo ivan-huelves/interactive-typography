@@ -15,7 +15,7 @@ permalink: /referentes/between-page-and-screen/
 
 
 ### Relevancia
-Between Page and Screen es una obra que hibrida un libro tradicional con una experiencia digital. El libro no contiene texto impreso, sino únicamente marcadores gráficos que, al ser enfocados con una cámara web, activan poemas animados en la pantalla, creando una especie de *pop-up digital*.
+Between Page and Screen es una obra que hibrida un libro tradicional con una experiencia digital. El libro no contiene texto impreso, sino únicamente marcadores gráficos que, al ser enfocados con una cámara web, activan poemas animados en la pantalla, creando una especie de pop-up digital.
 
 Su principal aportación reside en que el texto no existe ni en la página ni en la pantalla, sino en el espacio intermedio de la realidad aumentada. Esto obliga al lector a participar activamente con su cuerpo y con el libro para construir el acto de lectura.
 

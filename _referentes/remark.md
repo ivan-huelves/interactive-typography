@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Re:MARK"
+title: "Re:Mark"
 author: "Golan Levin, Zachary Lieberman y Ars Electronica Futurelab"
 year: "2002"
 thumbnail: "/interactive-typography/images/referentes/remark 01.jpg"
@@ -8,18 +8,18 @@ permalink: /referentes/remark/
 ---
 **Golan Levin, Zachary Lieberman y Ars Electronica Futurelab, 2002**
 
-![Imagen de Re:MARK](/interactive-typography/images/referentes/remark 01.jpg)
+![Imagen de Re:Mark](/interactive-typography/images/referentes/remark 01.jpg)
 
-![Imagen de Re:MARK](/interactive-typography/images/referentes/remark 02.jpg)
+![Imagen de Re:Mark](/interactive-typography/images/referentes/remark 02.jpg)
 
 
 
 ### Relevancia
-El proyecto Re:MARK es una instalación interactiva de realidad aumentada diseñada para visualizar el habla humana en tiempo real. El sistema requiere que los participantes utilicen gafas de visualización estereoscópica y micrófonos para analizar su voz mediante algoritmos de clasificación de fonemas. A partir de este análisis acústico el software genera caracteres tridimensionales dinámicos que emergen aparentemente de la boca de los usuarios proyectándose sobre el espacio físico compartido.
+El proyecto Re:Mark es una instalación interactiva de realidad aumentada diseñada para visualizar el habla humana en tiempo real. El sistema requiere que los participantes utilicen gafas de visualización estereoscópica y micrófonos para analizar su voz mediante algoritmos de clasificación de fonemas. A partir de este análisis acústico el *software* genera glifos tridimensionales dinámicos que emergen aparentemente de la boca de los usuarios proyectándose sobre el espacio físico.
 
-Su principal aportación reside en la materialización visual del sonido estableciendo una relación espaciotemporal entre el cuerpo humano y la tipografía. Los autores estructuran este planteamiento bajo el concepto de visualización del habla in situ donde los glifos responden a comportamientos físicos. Mediante esta técnica se logra transformar la voz en un flujo tipográfico sensible a los movimientos espaciales del emisor.
+Su principal aportación reside en la materialización visual del sonido estableciendo una relación espaciotemporal entre el cuerpo humano y la tipografía. Los autores estructuran este planteamiento bajo el concepto de visualización del habla *in situ* donde los tipos responden a comportamientos físicos.
 
-La relevancia para esta investigación radica en su condición de hito fundacional al proponer la realidad aumentada y el análisis fonético como interfaces operativas para el diseño tipográfico generativo.
+La relevancia para esta investigación radica en su condición de hito fundacional al proponer la realidad aumentada y el análisis fonético como interfaces para el diseño tipográfico generativo.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

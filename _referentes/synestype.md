@@ -15,11 +15,11 @@ permalink: /referentes/synestype/
 
 
 ### Relevancia
-Synestype es una tipografía variable responsiva diseñada para actuar como un soporte sinestésico en el subtitulado, traduciendo las cualidades emocionales del habla en modificaciones morfológicas de la letra. El sistema utiliza algoritmos de Inteligencia Artificial para analizar la voz y mapear 6 emociones básicas (felicidad, tristeza, ira, ansiedad, sorpresa, aburrimiento) a los ejes de variación de la fuente en tiempo real. 
+Synestype es una tipografía variable diseñada para actuar como un soporte sinestésico en el subtitulado, traduciendo las cualidades emocionales del habla en transformaciones morfológicas del glifo. El sistema utiliza algoritmos de inteligencia artificial para analizar la voz y mapear 6 emociones básicas (felicidad, tristeza, ira, ansiedad, sorpresa, aburrimiento) a los ejes de variación de la fuente en tiempo real. 
 
 Su aportación consiste en dotar al texto de un segundo nivel de legibilidad. Más allá del significado semántico, la tipografía visualiza el tono y el sentimiento, supliendo la falta de información sonora para personas con discapacidad auditiva o en entornos sin sonido.
 
-La relevancia del proyecto radica en la aplicación funcional de la tecnología variable. Demuestra que la modificación paramétrica de la letra puede utilizarse para recuperar la carga expresiva de la oralidad que se pierde en la transcripción textual tradicional.
+La relevancia del proyecto radica en la aplicación funcional de las fuentes variables. Demuestra que la modificación paramétrica del glifo puede utilizarse para recuperar la carga expresiva de la oralidad que se pierde en la transcripción textual tradicional.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

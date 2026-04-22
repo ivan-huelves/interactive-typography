@@ -15,11 +15,11 @@ permalink: /referentes/existential-co/
 
 
 ### Relevancia
-Existential Co. es una plataforma web desarrollada para el lanzamiento de la marca de producción homónima, definida por una identidad visual cinética. El proyecto articula una *landing page* de la campaña *Why are we here?* caracterizada por el uso central de una tipografía interactiva cuyo movimiento se dispara mediante la navegación, donde los visitantes introducen respuestas textuales sobre la existencia humana.
+Existential Co. es una plataforma web desarrollada para el lanzamiento de la marca de producción homónima, definida por una identidad visual cinética. El proyecto articula una *landing page* de la campaña Why are we here? caracterizada por el uso central de una tipografía interactiva donde los visitantes introducen respuestas textuales sobre la existencia humana.
 
-Su principal aportación es la integración de la participación del usuario en la construcción de la narrativa de marca. El sistema transforma los inputs textuales de los visitantes en gráficos visuales que pueden descargarse y compartirse en redes sociales, convirtiendo el sitio web en un espacio de participación comunitaria.
+Su principal aportación es la integración de la participación del usuario en la construcción de la narrativa de marca. El sistema transforma los *inputs* textuales de los visitantes en gráficos visuales que pueden descargarse y compartirse en redes sociales, convirtiendo el sitio web en un espacio de participación comunitaria.
 
-La relevancia de este proyecto para la investigación reside en que ilustra el uso de la tipografía interactiva como vehículo para la vinculación social en estrategias de branding. Demuestra cómo una identidad visual digital puede trascender lo estético para convertirse en un sistema funcional de diálogo, donde el texto generado por el usuario se integra como parte activa del sistema gráfico.
+La relevancia de este proyecto para la investigación reside en que ilustra el uso de la tipografía interactiva como vehículo para la vinculación social en estrategias de *branding*. Demuestra cómo una identidad visual puede trascender lo estético para convertirse en un sistema funcional de diálogo, donde el contenido generado por el usuario se integra como parte activa del sistema gráfico.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

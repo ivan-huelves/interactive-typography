@@ -13,7 +13,7 @@ permalink: /referentes/giving-character-to-characters/
 
 
 ### Relevancia
-Giving Character to Characters es un sistema de software para crear y animar tipografía, investigando la relación entre la escritura manual y el texto digital. Un usuario escribe texto y lo anima mediante una interfaz gestual basada en un lápiz óptico. Para ello, se desarrolló un nuevo formato de fuente paramétrica y basada en trazos, que permite la animación computacional de los segmentos individuales de cada letra.
+Giving Character to Characters es un sistema de *software* para crear y animar tipografía, investigando la relación entre la escritura manual y el texto digital. Un usuario escribe texto y lo anima mediante una interfaz gestual basada en un lápiz óptico. Para ello, se desarrolló un nuevo formato de fuente paramétrica basada en trazos, que permite la animación de los segmentos individuales de cada glifo.
 
 Su principal aportación es la personificación del texto digital a través de un mecanismo que graba y reproduce los gestos del usuario, generando animaciones con un movimiento natural y fluido. A través de este input gestual, el usuario transmite su intención a la palabra escrita. El sistema está diseñado con una estructura interna similar a un esqueleto, lo que permite que las letras se comporten de forma antropomórfica.
 

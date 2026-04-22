@@ -19,9 +19,9 @@ permalink: /referentes/kachi-buwa/
 ### Relevancia
 Kachi-Buwa es una tipografía variable experimental basada en el sistema de escritura Katakana que explora la representación gráfica de las onomatopeyas japonesas. El diseño se fundamenta en el efecto Kiki-Bouba (un mecanismo cognitivo que asocia sonidos agudos con formas puntiagudas y sonidos graves con formas redondas) para definir sus ejes de variación. 
 
-Su aportación consiste en la creación de un eje semántico de interpolación. En lugar de variar por peso, la fuente transita entre lo Kachi (rígido, puntiagudo, nervioso) y lo Buwa (esponjoso, redondo, suave). 
+Su aportación consiste en la creación de un eje semántico de interpolación. En lugar de variar por peso, la fuente transita entre lo kachi (rígido, puntiagudo, nervioso) y lo buwa (esponjoso, redondo, suave). 
 
-La relevancia del proyecto para la investigación radica en cómo sistematizar la sinestesia mediante tipografía variable. Demuestra que esta puede actuar como herramientas de traducción intersemiótica, dotando al texto de cualidades sensoriales (táctiles y sonoras) que son intrínsecas a la cultura japonesa pero habitualmente invisibles en la tipografía estática.
+La relevancia del proyecto para la investigación radica en cómo sistematizar la sinestesia mediante tipografía variable. Demuestra que esta puede actuar como herramientas de traducción intersemiótica, dotando al texto de cualidades sensoriales que son intrínsecas a la cultura japonesa pero habitualmente invisibles a los tipos estáticos.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

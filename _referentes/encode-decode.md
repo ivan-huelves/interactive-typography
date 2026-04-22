@@ -17,7 +17,7 @@ permalink: /referentes/encode-decode/
 ### Relevancia
 Encode/Decode se presenta como una instalación tipográfica generativa que visualiza el ensayo crítico del sociólogo Stuart Hall sobre los modelos de comunicación.
 
-Su aportación técnica reside en el uso de un sistema de partículas fluidas desarrollado en TouchDesigner donde las letras flotan libremente y se auto-organizan por atracción mutua para hacer legibles las frases del texto.
+Su aportación reside en el uso de un sistema de partículas fluidas desarrollado en TouchDesigner donde los tipos flotan libremente y se autoorganizan por atracción mutua para hacer legibles las frases del texto.
 
 Para esta investigación su relevancia reside en el uso de interfaces naturales para incidir en el mensaje. Al permitir que la posición del espectador altere la dirección del flujo tipográfico, la obra valida la tesis de Hall demostrando que la audiencia no es un receptor pasivo, sino un agente activo cuya presencia y contexto social modifican la decodificación y el significado del mensaje.
 

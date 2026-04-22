@@ -17,11 +17,11 @@ permalink: /referentes/dana-font/
 
 
 ### Relevancia
-Danafont es una tipografía modular y adaptativa (responsive) diseñada para entornos web. El sistema está construido con SVG, HTML, CSS y JavaScript, lo que permite que los caracteres ajusten su morfología en tiempo real para adaptarse al ancho del navegador.
+Danafont es una tipografía modular interactiva diseñada para entornos web. El sistema está construido con SVG, HTML, CSS y JavaScript, lo que permite que los glifos ajusten su morfología en tiempo real para adaptarse al ancho del navegador.
 
-Su principal aportación es haber resuelto la necesidad de adaptabilidad tipográfica en la web mediante una solución de programación a medida. Es una aproximación pionera a la tipografía adaptativa, desarrollada antes de que la tecnología de tipografía variable se estandarizara. Esta innovación fue reconocida con un premio Laus de Oro en la categoría Digital en 2018.
+Su principal aportación es haber resuelto la necesidad de adaptabilidad tipográfica en la web mediante una solución de programación a medida. Es una aproximación pionera a la tipografía interactiva, desarrollada antes de que la tecnología de fuente variable se estandarizara. Esta innovación fue reconocida con un premio Laus de Oro en la categoría Digital en 2018.
 
-La relevancia para esta investigación es que establece un precedente claro para los sistemas que posteriormente se desarrollarían con la tipografía variable. Es un ejemplo de cómo la necesidad de adaptabilidad en el diseño web impulsó soluciones técnicas específicas, incluso antes de que existieran estándares para ello.
+La relevancia para esta investigación es que establece un precedente claro para los sistemas que posteriormente se desarrollan con fuentes variables. Es un ejemplo de cómo la necesidad de adaptabilidad en el diseño web impulsó soluciones técnicas específicas, incluso antes de que existieran estándares para ello.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

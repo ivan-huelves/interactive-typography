@@ -17,7 +17,7 @@ permalink: /referentes/poemm/
 ### Relevancia
 El proyecto se constituye como un ciclo de obras de texto táctiles diseñadas para interactuar con tabletas y dispositivos móviles. La serie explora temáticas sobre la identidad Cherokee a través de una tipografía que posee comportamientos físicos programados. 
 
-Su aportación técnica incluye la creación de cinco versiones evolutivas del software donde los caracteres no son estáticos, sino entidades interactivas que el usuario puede manipular físicamente para construir el sentido del poema.
+Su aportación técnica incluye la creación de cinco versiones iterativas del *software* donde los tipos no son estáticos, sino entidades interactivas que el usuario puede manipular para construir el sentido del poema.
 
 Para esta investigación, la relevancia del proyecto es fundamental al ser uno de los trabajos pioneros en profundizar en la relación entre la interacción táctil y la tipografía. Lewis demuestra que el gesto del dedo sobre la pantalla transforma la lectura en un acto performativo donde el comportamiento físico de la tipografía comunica tanto como el contenido semántico del texto.
 

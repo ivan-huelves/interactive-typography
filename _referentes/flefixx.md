@@ -19,9 +19,9 @@ permalink: /referentes/flefixx/
 ### Relevancia
 Flefix es un proyecto que explora la creación de un lenguaje visual generativo a partir de la deconstrucción del lenguaje textual. El sistema traduce prefijos lingüísticos en componentes visuales combinatorios que forman una ilustración.
 
-Su principal aportación es que la tipografía no representa caracteres, sino que funciona como un sistema que genera narrativas visuales a partir de la escritura. Esto convierte el acto de teclear en una experiencia lúdica y exploratoria.
+Su principal aportación es que el glifo no representa caracteres. alfanuméricos, sino que funciona como un sistema de ilustración que genera narrativas visuales a partir de la escritura. Esto convierte el acto de teclear en una experiencia lúdica y exploratoria.
 
-La relevancia de este proyecto para la investigación es que establece un precedente para sistemas donde la tipografía es el motor generativo del significado, en lugar de ser el contenedor de información.
+La relevancia de este proyecto para la investigación es que establece un precedente para sistemas donde la tipografía es el motor generativo del significado, en lugar de ser el contenedor de información. Además de ser un ejemplo de tipografía no alfanumérica.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

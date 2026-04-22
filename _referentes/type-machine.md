@@ -15,11 +15,11 @@ permalink: /referentes/type-machine/
 
 
 ### Relevancia
-TypeMachine presenta una interfaz física para la experimentación tipográfica. El proyecto integra un hardware artesanal con un software generativo, permitiendo al usuario una manipulación tangible de las formas tipográficas.
+TypeMachine presenta una interfaz física para la experimentación tipográfica. El proyecto integra un *hardware* artesanal con un *software* generativo, permitiendo al usuario una manipulación tangible de los glifos.
 
-Su principal aportación es la exploración de la conexión entre el control manual y el comportamiento dinámico de los glifos. Al ofrecer una interfaz física, el proyecto traslada la interacción a un control más directo y gestual. Esta innovación fue reconocida con un premio de plata (Silver) en los DDC Awards.
+Su principal aportación es la exploración de la conexión entre el control manual y el comportamiento dinámico de los tipos. Al ofrecer una interfaz física, el proyecto traslada la interacción a un control más directo y gestual. Esta innovación fue reconocida con un premio de plata en los DDC Awards.
 
-La relevancia para esta investigación es que ejemplifica cómo un dispositivo físico a medida puede convertirse en una interfaz para la creación tipográfica.
+La relevancia para esta investigación es que ejemplifica cómo un dispositivo físico a medida puede convertirse en una interfaz para el diseño tipográfico.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

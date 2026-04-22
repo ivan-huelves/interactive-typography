@@ -13,9 +13,9 @@ permalink: /referentes/robotype-sujigen-mojigen-77/
 
 
 ### Relevancia
-Robotype es un proyecto de investigación que explora la tipografía cinética a través de una serie de dispositivos robóticos que generan letras en el espacio físico. El proyecto consta de tres prototipos distintos: Sujigen, un brazo robótico colgante de 10 segmentos que forma números arábigos; Mojigen, un conjunto de ocho brazos robóticos que estiran muelles para dibujar el alfabeto latino en el aire ; y 7x7, una matriz de 49 cubos de luz que representa caracteres japoneses mediante iluminación. 
+Robotype es un proyecto de investigación que explora la tipografía cinética a través de una serie de dispositivos robóticos que generan glifos en el espacio físico. El proyecto consta de tres prototipos distintos: Sujigen, un brazo robótico colgante de diez segmentos que forma números arábigos; Mojigen, un conjunto de ocho brazos robóticos que estiran muelles para dibujar el alfabeto latino en el aire ; y 7x7, una matriz de cuarenta y nueve cubos de luz que representa caracteres japoneses mediante iluminación. 
 
-Su principal aportación es la materialización del concepto de que una letra no es solo un símbolo estático, sino la trayectoria del tiempo y el movimiento necesarios para escribirla. Los dispositivos robóticos están diseñados para que el carácter sea legible desde una vista frontal.
+Su principal aportación es la materialización del concepto de que un glifo no es solo un símbolo estático, sino la trayectoria del tiempo y el movimiento necesarios para escribirla.
 
 La relevancia para esta investigación es que traslada la tipografía interactiva al ámbito físico, ampliando su campo hacia experiencias tridimensionales, tangibles y performativas.
 

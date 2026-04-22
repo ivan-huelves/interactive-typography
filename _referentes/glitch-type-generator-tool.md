@@ -13,11 +13,11 @@ permalink: /referentes/glitch-type-generator-tool/
 
 
 ### Relevancia
-Glitch Type Generator es una herramienta web experimental desarrollada en p5.js que permite aplicar efectos de *glitch* a composiciones tipográficas. La aplicación habilita al usuario para introducir texto personalizado, subir sus propias tipografías y manipular parámetros gráficos como color, trazo o posicionamiento para generar transformaciones visuales.
+Glitch Type Generator es una herramienta web experimental desarrollada en p5.js que permite aplicar efectos de *glitch* a composiciones tipográficas. La aplicación habilita al usuario para introducir texto personalizado, subir sus propias fuentes y manipular parámetros gráficos como color, trazo o posicionamiento para generar transformaciones visuales.
 
 Su aportación consiste en la sistematización del error digital como recurso estético. 
 
-La relevancia de este proyecto para la investigación radica en que ejemplifica la creación de micro-herramientas de manipulación tipográfica. Muestra cómo el código permite intervenir la morfología de la letra mediante algoritmos de distorsión personalizados, transformando el texto en una textura gráfica variable y ofreciendo una alternativa al diseñador de los efectos tipográficos predefinidos en el software comercial.
+La relevancia de este proyecto para la investigación radica en que ejemplifica la creación de herramientas de manipulación tipográfica. Muestra cómo el código permite intervenir la morfología del glifo mediante algoritmos de distorsión personalizados, transformando el texto en una textura gráfica variable y ofreciendo una alternativa al diseñador de los efectos tipográficos predefinidos en el *software* comercial.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

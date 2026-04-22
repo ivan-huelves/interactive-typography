@@ -17,11 +17,11 @@ permalink: /referentes/munken-creator/
 
 
 ### Relevancia
-Munken Creator es una herramienta de diseño generativo desarrollada para la marca de papel Munken. El sistema se articula como un entorno de experimentación tipográfica donde los usuarios pueden generar composiciones visuales animadas mediante la fuente Munken Sans, fusionando la automatización algorítmica con la manipulación directa de parámetros en tiempo real.
+Munken Creator es una herramienta de diseño generativo desarrollada para la marca de papel Munken. El sistema se articula como un entorno de experimentación tipográfica donde los usuarios pueden generar composiciones visuales animadas mediante la tipografía Munken Sans, fusionando la automatización algorítmica con la manipulación directa de parámetros en tiempo real.
 
-Su principal aportación es la democratización de la tipografía generativa en un contexto corporativo, integrando la intención deliberada del usuario con la capacidad combinatoria del algoritmo. El sistema no genera un artefacto final estático, sino que sistematiza variables de diseño que permiten explorar la forma, el espacio y la dimensión temporal, ofreciendo salidas que abarcan desde la animación digital hasta la materialización impresa y la realidad aumentada.
+Su principal aportación es el uso de la tipografía generativa en un contexto corporativo, integrando la intención deliberada del usuario con la capacidad combinatoria del algoritmo. El sistema no genera un artefacto final estático, sino que sistematiza variables de diseño que permiten explorar la forma, el espacio y la dimensión temporal, ofreciendo salidas que abarcan desde la animación digital hasta la materialización impresa y la realidad aumentada.
 
-La relevancia de este proyecto para la investigación reside en que demuestra cómo una identidad de marca puede expandirse mediante herramientas participativas. Ejemplifica el uso de la tipografía generativa como un sistema híbrido que preserva la herencia del diseño mientras reinventa sus herramientas para permitir la co-creación.
+La relevancia de este proyecto para la investigación reside en la demostración de cómo una identidad visual puede expandirse mediante herramientas participativas. Ejemplifica el uso de la tipografía generativa como un sistema híbrido que preserva la herencia del diseño mientras reinventa sus herramientas para permitir la cocreación.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

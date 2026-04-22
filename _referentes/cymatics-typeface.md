@@ -13,11 +13,11 @@ permalink: /referentes/cymatics-typeface/
 
 
 ### Relevancia
-Cymatics Typeface es un proyecto experimental que explora la relación entre el sonido y la forma tipográfica. El sistema traduce primero cada letra del alfabeto a una frecuencia sonora específica (dentro de un rango de 750 a 2000 Hz) y, posteriormente, utiliza estas frecuencias para generar patrones visuales de Chladni a partir de vibraciones físicas sobre un medio.
+Cymatics Typeface es un proyecto experimental que explora la relación entre el sonido y el glifo. El sistema traduce primero cada carácter a una frecuencia sonora específica (dentro de un rango de 750 a 2000 Hz) y, posteriormente, utiliza estas frecuencias para generar patrones visuales de chladni a partir de vibraciones físicas sobre un medio.
 
-Su principal aportación es la materialización de un modelo experimental donde la forma tipográfica se genera a partir de un fenómeno acústico. Aunque el resultado no mantiene la codificación textual convencional, el proyecto establece un proceso claro de traducción del sonido en una forma gráfica, visualizando las vibraciones.
+Su principal aportación es la materialización de un modelo experimental donde el glifo se genera a partir de un fenómeno acústico. Aunque el resultado no mantiene la codificación textual, el proyecto establece un proceso de traducción del sonido en una forma gráfica, visualizando las vibraciones.
 
-La relevancia para esta investigación es que demuestra cómo un input físico, como es el sonido, puede convertirse directamente en el generador de formas gráficas. Aporta un modelo en el que la tipografía no representa un carácter, sino que es el resultado visible de un fenómeno físico.
+La relevancia para esta investigación es que demuestra cómo un *input* físico, como es el sonido, puede convertirse en el generador de glifos. Además aporta un modelo en el que la tipografía no representa un carácter alfanumérico, sino el resultado visible de un fenómeno físico.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

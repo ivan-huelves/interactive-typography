@@ -13,11 +13,11 @@ permalink: /referentes/dialogue/
 
 
 ### Relevancia
-Este proyecto es un experimento que representa un diálogo de la historia de *Caperucita Roja* para explorar cómo se pueden transmitir diferentes cualidades de voz y personalidad. El sistema presenta a los dos personajes en dos posiciones fijas en la pantalla, y su diálogo se muestra secuencialmente, palabra por palabra. 
+Este proyecto es un experimento que representa un diálogo de la historia de Caperucita Roja para explorar cómo se pueden transmitir diferentes cualidades de voz y personalidad. El sistema presenta a los dos personajes en dos posiciones fijas en la pantalla, y su diálogo se muestra secuencialmente, palabra por palabra.
 
-Su principal aportación es el uso sistemático del ritmo temporal para crear dos *voces* tipográficas contrastadas. La voz de Caperucita Roja se representa con un ritmo rápido y cortes entre palabras para transmitir sencillez, mientras que la del Lobo utiliza un ritmo lento y fundidos para generar una cualidad siniestra.
+Su principal aportación es el uso sistemático del ritmo temporal para crear dos voces tipográficas contrastadas. La voz de caperucita roja se representa con un ritmo rápido y cortes entre palabras para transmitir sencillez, mientras que la del lobo utiliza un ritmo lento y fundidos para generar una cualidad siniestra.
 
-La relevancia de este proyecto reside en su tratamiento pionero de la pantalla como un escenario teatral para la tipografía. Su aportación es el uso de la tipografía para construir una narrativa, explorando cómo el ritmo, la posición y la transparencia de las palabras pueden generar tensión dramática y definir a los personajes.
+La relevancia de este proyecto reside en el uso de la tipografía para construir una narrativa, explorando cómo el ritmo, la posición y la transparencia de las glifos pueden generar tensión dramática y representar a los personajes.
 
 ### Clasificación
 * **Década:** [Década de 1990](/interactive-typography/etiquetas/decada-de-1990/)

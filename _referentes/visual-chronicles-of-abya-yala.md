@@ -29,7 +29,7 @@ permalink: /referentes/visual-chronicles-of-abya-yala/
 ### Relevancia
 Visual Chronicles of Abya Yala es un laboratorio de investigación que explora la cultura indígena de Abya Yala a través de la tipografía modular y generativa. El proyecto combina archivo visual, diseño tipográfico y programación creativa para reinterpretar símbolos y patrones de las culturas originarias latinoamericanas.
 
-Su principal aportación es la creación de sistemas tipográficos, como la tipografía Warp, que materializan estas exploraciones. Estos sistemas son capaces de transformar la morfología de los glifos en tiempo real, demostrando el potencial de la tipografía interactiva como herramienta expresiva.
+Su principal aportación es la creación de sistemas tipográficos, como la tipografía Warp, que materializan estas exploraciones. Estos sistemas son capaces de transformar la morfología de los tipos en tiempo real, demostrando el potencial de la tipografía interactiva como herramienta expresiva.
 
 La relevancia de este proyecto para la investigación es que utiliza la tipografía no solo como un recurso estético, sino también como una herramienta crítica y metodológica para la investigación cultural. Demuestra cómo el diseño tipográfico puede servir para reinterpretar y dialogar con archivos visuales históricos.
 

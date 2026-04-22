@@ -503,11 +503,11 @@ permalink: /etiquetas/decada-de-2010/
 
     <a href="/interactive-typography/referentes/no-design-foundry-tools/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/no design foundry 01.png" alt="Imagen de no design foundry Tools" loading="lazy">
+        <img src="/interactive-typography/images/referentes/no design foundry 01.png" alt="Imagen de No Design Foundry Tools" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            no design foundry Tools
+            No Design Foundry Tools
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           no design foundry

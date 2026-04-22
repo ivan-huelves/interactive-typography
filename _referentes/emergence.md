@@ -13,11 +13,11 @@ permalink: /referentes/emergence/
 
 
 ### Relevancia
-Emergence es una aplicación de tipografía interactiva diseñada para la identidad visual del evento TEDxCentralSaintMartins. El proyecto plantea un *logotipo abierto* donde la letra *E* funciona como un contenedor dinámico, permitiendo a los usuarios subir imágenes mediante una interfaz web para modificar colectivamente su apariencia en tiempo real. 
+Emergence es una aplicación de tipografía interactiva diseñada para la identidad visual del evento TEDxCentralSaintMartins. El proyecto plantea un logotipo donde el carácter *E* funciona como un contenedor dinámico, permitiendo a los usuarios subir imágenes mediante una interfaz web para modificar colectivamente su morfología en tiempo real.
 
-Su aportación reside en la implementación de una identidad visual participativa que desjerarquiza el rol del diseñador. El sistema convierte el logotipo en una obra de autoría compartida, donde la morfología de la marca no viene impuesta, sino que emerge de la colaboración constante de la comunidad. 
+La relevancia de esta propuesta reside en la implementación de una identidad visual participativa que redefine la función del diseñador, transformando el logotipo en una obra de autoría compartida cuya morfología emana de la interacción constante de la comunidad.
 
-La relevancia de este proyecto para la investigación estriba en que prefigura el uso de la tipografía interactiva como herramienta de construcción social en el branding, ilustrando cómo la interfaz digital permite transformar la identidad corporativa de un signo estático a un sistema vivo alimentado por el contenido generado por el usuario. Además se trata de un claro precedente de las identidades visuales dinámicas actuales.
+La relevancia para la investigación estriba en que usa la tipografía interactiva como herramienta de construcción social en el *branding*, ilustrando cómo la interfaz digital permite transformar la identidad corporativa de un signo estático a un sistema vivo alimentado por el contenido generado por el usuario. Además se trata de un claro precedente de las identidades visuales dinámicas actuales.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

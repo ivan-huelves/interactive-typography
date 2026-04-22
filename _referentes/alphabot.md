@@ -17,9 +17,9 @@ permalink: /referentes/alphabot/
 
 
 ### Relevancia
-Alphabot es una animación 3D que traslada la tipografía a un espacio tridimensional virtual. El proyecto consiste en 26 robots que se transforman para formar cada una de las letras del alfabeto latino.
+Alphabot es una animación 3D que traslada la tipografía a un espacio tridimensional virtual. El proyecto consiste en 26 robots que se transforman para formar cada uno de los caracteres del alfabeto latino.
 
-Su principal aportación es la concepción de los glifos como entidades maleables y con personalidad propia. Cada carácter posee un *cuerpo* robótico y una animación de transformación única, explorando la tipografía como un conjunto de personajes.
+Su principal aportación es la concepción de los glifos como entidades maleables y con personalidad propia. Cada glifo posee un cuerpo robótico y una animación de transformación, explorando la tipografía como un conjunto de personajes.
 
 La relevancia para esta investigación reside en que muestra cómo la tipografía puede expandirse más allá del plano bidimensional para convertirse en un objeto tridimensional y performativo.
 

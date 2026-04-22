@@ -15,11 +15,11 @@ permalink: /referentes/type-code/
 
 
 ### Relevancia
-TYPE + CODE es un proyecto de investigación experimental dirigido por Yeohyun Ahn que explora la estética de la tipografía generada mediante programación. El proyecto utiliza algoritmos computacionales para reinterpretar las formas tipográficas, permitiendo el descubrimiento de nuevas morfologías visuales complejas.
+TYPE + CODE es un proyecto de investigación experimental dirigido por Yeohyun Ahn que explora la estética de la tipografía generada mediante programación. El proyecto utiliza algoritmos computacionales para reinterpretar los glifos permitiendo el descubrimiento de nuevas morfologías visuales complejas.
 
 Su aportación consiste en establecer un puente metodológico entre el diseño gráfico y las ciencias de la computación, consolidando este enfoque interdisciplinar a través de la publicación de su libro *Type + Code: Processing for Designers*.
 
-La relevancia de este proyecto para la investigación radica en su papel pionero en la introducción del código como medio creativo para el diseño de glifos. A través de sus diversas iteraciones (incluyendo aplicaciones para selfies tipográficos o fabricación 3D) y su labor divulgativa y pedagógica, el proyecto validó el uso de algoritmos no solo como método de producción, sino como un nuevo lenguaje expresivo con sintaxis propia.
+La relevancia de este proyecto para la investigación radica en su papel pionero en la introducción del código como medio creativo para el diseño de glifos. A través de sus diversas iteraciones (incluyendo aplicaciones para *selfies* tipográficos o fabricación 3D) y su labor divulgativa y pedagógica, el proyecto validó el uso de algoritmos no solo como método de producción, sino como un nuevo lenguaje expresivo con sintaxis propia.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

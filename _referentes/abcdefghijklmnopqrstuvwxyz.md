@@ -13,11 +13,11 @@ permalink: /referentes/abcdefghijklmnopqrstuvwxyz/
 
 
 ### Relevancia
-abcdefghijklmnopqrstuvwxyz es una herramienta performativa en la que cada carácter del alfabeto funciona como una “criatura” autónoma. Estos glifos reaccionan a la gravedad, a la colisión con otras letras y a la interacción directa del usuario con la voz.
+abcdefghijklmnopqrstuvwxyz es una herramienta performativa en la que cada carácter del alfabeto funciona como una *criatura* autónoma. Estos tipos reaccionan a la gravedad, a la colisión con otros tipos y a la interacción directa del usuario con la voz.
 
 Su principal aportación es que desplaza la tipografía de su función puramente textual para convertirla en un generador de ritmos y paisajes sonoros. El proyecto, reconocido con menciones honoríficas en Ars Electronica y FILE Prix Lux en 2010, destaca por su innovador cruce entre poesía digital, tipografía interactiva y arte sonoro.
 
-La relevancia para esta investigación es que ejemplifica un modelo donde los caracteres no son símbolos pasivos, sino agentes activos en una simulación audiovisual. Demuestra cómo la tipografía puede ser el elemento central de una performance interactiva y multisensorial.
+La relevancia para esta investigación es que ejemplifica un modelo donde los tipos no son símbolos pasivos, sino agentes activos en una simulación audiovisual. Demuestra cómo la tipografía puede ser el elemento central de una performance interactiva y multisensorial.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

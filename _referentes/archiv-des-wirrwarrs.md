@@ -21,7 +21,7 @@ permalink: /referentes/archiv-des-wirrwarrs/
 ### Relevancia
 El proyecto se define como un sistema tipográfico generativo diseñado para subvertir las nociones tradicionales de orden y legibilidad dentro de un contexto expositivo. 
 
-Su aportación técnica consiste en la integración de librerías de aprendizaje automático (ml5.js) con entornos de código creativo (p5.js) para transformar imágenes de archivo estáticas en flujos tipográficos, los cuales son remodelados en tiempo real mediante el reconocimiento gestual de las manos del visitante. 
+Su aportación técnica consiste en la integración de librerías de aprendizaje automático (ml5.js) con entornos de código creativo (p5.js) para transformar imágenes de archivo estáticas en flujos tipográficos, los cuales son remodelados en tiempo real mediante el reconocimiento gestual de las manos del usuario. 
 
 Para esta investigación, la relevancia del caso reside en la integración de la inteligencia artificial y los gestos para interactuar con la tipografía.
 

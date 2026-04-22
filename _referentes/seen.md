@@ -21,11 +21,11 @@ permalink: /referentes/seen/
 
 
 ### Relevancia
-Seen es una tipografía que reacciona automáticamente al contenido semántico del texto mediante una base de datos preinstalada de palabras clave. El sistema identifica términos monitoreados por agencias de inteligencia como la NSA y en el momento en que el usuario los escribe, la fuente los tacha inmediatamente. Funciona tanto como archivo de fuente instalable como a través de un bookmarklet que escanea y modifica sitios web en tiempo real.
+Seen es una tipografía que reacciona al contenido semántico del texto mediante una base de datos preinstalada de palabras clave. El sistema identifica términos monitoreados por agencias de inteligencia como la NSA y en el momento en que el usuario los escribe, la fuente los tacha. Funciona tanto como archivo de fuente instalable como a través de un *bookmarklet* que escanea y modifica sitios web en tiempo real.
 
 Su principal aportación es la visualización crítica de la vigilancia digital al convertir la tipografía en un agente político activo. El proyecto subvierte la neutralidad de la herramienta de escritura y la transforma en un mecanismo de censura que evidencia la intercepción de datos.
 
-La relevancia para esta investigación reside en la conexión directa que establece entre la semántica de la palabra y el comportamiento morfológico del glifo. Es un ejemplo de interactividad basada en el significado, donde el input textual actúa como detonante de una variación visual específica, demostrando cómo la tipografía puede ejercer funciones narrativas sobre el contenido que representa.
+La relevancia para esta investigación reside en la conexión directa que establece entre la semántica de la palabra y el comportamiento morfológico del glifo. Es un ejemplo de interactividad basada en el significado, donde el *input* textual actúa como detonante de una variación visual, demostrando cómo la tipografía puede ejercer funciones narrativas sobre el contenido que representa.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

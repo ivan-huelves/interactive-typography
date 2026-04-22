@@ -27,7 +27,7 @@ permalink: /referentes/font-remix-project/
 ### Relevancia
 Bigdot es una herramienta que explora la generación tipográfica a través de la combinación algorítmica de fuentes existentes, ofreciendo una nueva forma de interacción para el diseño tipográfico.
 
-Su principal aportación reside en que el usuario no diseña desde cero, sino que actúa como un *remezclador*, seleccionando como ingredientes las tipografías que el sistema combina para crear un resultado nuevo.
+Su principal aportación reside en que el usuario no diseña desde cero, sino que actúa como un remezclador, seleccionando como ingredientes las tipografías que el sistema combina para crear un resultado nuevo.
 
 La relevancia de este proyecto es que demuestra el potencial del código para expandir las posibilidades del diseño tipográfico, convirtiendo la creación de fuentes en un proceso colaborativo entre el diseñador de la herramienta y el usuario final.
 

@@ -87,11 +87,11 @@ permalink: /etiquetas/branding/
 
     <a href="/interactive-typography/referentes/experimentos-ar-women-of-type-y-canal/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/experimentos ar 01.jpg" alt="Imagen de Experimentos AR (Women of Type y CANAL)" loading="lazy">
+        <img src="/interactive-typography/images/referentes/experimentos ar 01.jpg" alt="Imagen de Experimentos AR (Women of Type y Canal)" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Experimentos AR (Women of Type y CANAL)
+            Experimentos AR (Women of Type y Canal)
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Beatriz Lozano

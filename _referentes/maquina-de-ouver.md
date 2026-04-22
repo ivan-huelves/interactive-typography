@@ -15,11 +15,11 @@ permalink: /referentes/maquina-de-ouver/
 
 
 ### Relevancia
-Máquina de Ouver es un sistema que analiza grabaciones de voz para generar representaciones visuales. A diferencia de otros sistemas interactivos, no funciona en tiempo real, sino que procesa un archivo de audio para crear composiciones tipográficas estáticas o animadas. Para ello, utiliza software de análisis sonoro como Praat y scripts que automatizan el diseño en Adobe InDesign y After Effects.
+Máquina de Ouver es un sistema que analiza grabaciones de voz para generar representaciones visuales. A diferencia de otros sistemas interactivos, no funciona en tiempo real, sino que procesa un archivo de audio para crear composiciones tipográficas estáticas o animadas. Para ello, utiliza *software* de análisis sonoro como Praat y *scripts* que automatizan el diseño en Adobe InDesign y After Effects.
 
-Su principal aportación es la creación de un método sistemático y repetible que traduce las características del habla en variables tipográficas. El proceso mide parámetros acústicos de una grabación, como el tono, la intensidad y la duración, y los utiliza para modular automáticamente el aspecto de las letras; por ejemplo, haciendo que una palabra dicha con más fuerza aparezca con un peso mayor.
+Su principal aportación es la creación de un método sistemático y repetible que traduce las características del habla en variables tipográficas. El proceso mide parámetros acústicos de una grabación, como el tono, la intensidad y la duración, y los utiliza para modular automáticamente el aspecto de los glifos.
 
-La relevancia para esta investigación es que establece un modelo riguroso para visualizar la prosodia (el ritmo y la entonación) del habla. El proyecto es un ejemplo claro de la función de *Expresión paralingüística*, convirtiendo el texto final en un reflejo visual de la voz grabada.
+La relevancia para esta investigación es que establece un modelo riguroso para visualizar la prosodia (el ritmo y la entonación) del habla. El proyecto es un ejemplo claro de la función de expresión paralingüística, convirtiendo el texto final en un reflejo visual de la voz grabada.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

@@ -13,11 +13,11 @@ permalink: /referentes/letter-dance/
 
 
 ### Relevancia
-Letter Dance es un experimento de la serie Pliant type que presenta un único carácter, la letra *A*, como un elemento lúdico e interactivo en un espacio tridimensional simple. Al mover el dispositivo de puntero, el usuario hace que la letra se mueva y cambie de forma, aparentando que baila y sonríe. El proyecto aprovecha la apariencia humana de la letra *A*, con sus *dos piernas*, para que el espectador le atribuya características de un ser vivo. 
+Letter Dance es un experimento de la serie Pliant type que presenta un único carácter, la letra *A*, como un elemento lúdico e interactivo en un espacio tridimensional simple. Al mover el puntero, el usuario hace que el tipo se mueva y cambie de forma, aparentando que baila y sonríe. El proyecto aprovecha la apariencia humana de la letra *A*, con sus dos piernas, para que el espectador le atribuya características de un ser vivo. 
 
 Su principal aportación es el método utilizado para lograr la fluidez del movimiento, la cual no se basa en una simulación física compleja, sino en una diferencia temporal programada entre el movimiento del puntero y la actualización de los nodos del glifo.
 
-La relevancia de este proyecto es que investiga la capacidad de la tipografía para transmitir emoción a través del movimiento y la transformación. Es un experimento temprano y fundamental que demuestra cómo un modelo computacional simple, basado en el retardo (lag), puede dotar a un carácter de expresividad.
+La relevancia de este proyecto es que investiga la capacidad de la tipografía para transmitir emoción a través del movimiento y la transformación. Es un experimento temprano que demuestra cómo un modelo computacional simple, basado en el retardo (*lag*), puede dotar a un tipo de expresividad.
 
 ### Clasificación
 * **Década:** [Década de 1990](/interactive-typography/etiquetas/decada-de-1990/)

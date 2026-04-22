@@ -25,7 +25,7 @@ permalink: /referentes/like-beauty-in-flames/
 ### Relevancia
 Este proyecto es una instalación de realidad aumentada de la artista Jenny Holzer que proyecta sus característicos Truisms sobre la arquitectura del Museo Guggenheim Bilbao. Con esta obra, la tipografía se desvincula de un soporte plano y utiliza el propio edificio como un lienzo dinámico.
 
-Su principal aportación es la transformación de la lectura en una experiencia inmersiva y dependiente del punto de vista del espectador. La tecnología de realidad aumentada (AR) permite que los textos fluyan y se adapten a las superficies del edificio, generando una relación efímera entre el lenguaje y el entorno.
+Su principal aportación es la transformación de la lectura en una experiencia inmersiva y dependiente del punto de vista del espectador. La tecnología de realidad aumentada permite que los tipos se adapten a las superficies del edificio, generando una relación entre el lenguaje y el entorno.
 
 La relevancia para esta investigación radica en que explora la interacción del usuario a través de su dispositivo móvil como mediador de la experiencia tipográfica. Demuestra cómo la lectura puede convertirse en un acto performativo y espacial, condicionado por la posición y el movimiento del espectador en un entorno arquitectónico real.
 

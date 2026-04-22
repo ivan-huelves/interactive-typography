@@ -13,11 +13,9 @@ permalink: /referentes/type-sound/
 
 
 ### Relevancia
-Type Sound es una herramienta experimental que utiliza la forma de los glifos como partitura para un secuenciador musical. El sistema emplea Processing para analizar la posición de los caracteres en pantalla y tratarlos como notas en una cuadrícula musical. La altura vertical de la letra define el tono y su posición horizontal el momento en que suena. Estos datos se convierten en señales MIDI  enviadas al sintetizador modular virtual VCV Rack.
+Type Sound es una herramienta experimental que utiliza la forma de los glifos como partitura para un secuenciador musical. El sistema emplea Processing para analizar la posición de los tipos en pantalla y tratarlos como notas en una cuadrícula musical. La altura vertical del glifo define el tono y su posición horizontal el momento en que suena. Estos datos se convierten en señales MIDI enviadas al sintetizador modular virtual VCV Rack.
 
-Su aportación consiste en la reinterpretación del glifo, pasando de ser un elemento puramente visual a un generado sonoro.
-
-La relevancia del proyecto para la investigación radica en el uso de la tipografía como interfaz musical para producir melodías en vez de ser una representación visual de un carácter.
+Su aportación y relevancia para la investigación reside en la reinterpretación del tipo, el cual trasciende su naturaleza estrictamente visual para funcionar como un agente de producción sonora.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

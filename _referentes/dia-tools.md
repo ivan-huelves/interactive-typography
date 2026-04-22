@@ -21,9 +21,9 @@ permalink: /referentes/dia-tools/
 ### Relevancia
 DIA Tools es un archivo digital que recopila herramientas de investigación gráfica desarrolladas internamente por el estudio y puestas a disposición pública. La plataforma permite la interacción en tiempo real con sistemas tipográficos que generan composiciones tridimensionales y cinéticas mediante el uso de código.
 
-Su aportación consiste en la publicación del repositorio de software propio utilizado para la generación de productos gráficos. El proyecto sistematiza el desarrollo de sistemas de diseño tipográfico donde la herramienta personalizada define las reglas de comportamiento y la estética final del proyecto.
+Su aportación consiste en la publicación del repositorio de *software* propio utilizado para la generación de productos gráficos. El proyecto articula el desarrollo de sistemas de diseño tipográfico donde la herramienta personalizada define las reglas de comportamiento y la estética final del proyecto.
 
-La relevancia de esta colección para la investigación radica en que evidencia cómo la programación permite articular lenguajes gráficos propios. Ilustra la capacidad del código para integrar tipografía y espacialidad tridimensional, validando el desarrollo de software a medida como metodología para la creación de identidad visual.
+La relevancia de esta colección para la investigación radica en que evidencia cómo la programación permite articular lenguajes gráficos propios. Ilustra la capacidad del código para integrar tipografía y espacialidad tridimensional, validando el desarrollo de *software* a medida como metodología para la creación de identidades visuales.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

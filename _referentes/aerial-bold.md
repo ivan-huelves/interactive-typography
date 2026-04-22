@@ -15,11 +15,11 @@ permalink: /referentes/aerial-bold/
 
 
 ### Relevancia
-Aerial Bold es una tipografía generada a partir del escaneo sistemático de imágenes satelitales del mundo entero. El proyecto utiliza algoritmos de visión por computadora para rastrear la superficie terrestre, identificando y extrayendo patrones arquitectónicos o naturales que coinciden con caracteres alfanuméricos para articularlos en una herramienta de escritura web.
+Aerial Bold es una tipografía generada a partir del escaneo sistemático de imágenes satelitales del mundo. El proyecto utiliza algoritmos de visión por computadora para rastrear la superficie terrestre, identificando y extrayendo patrones arquitectónicos o naturales que coinciden con caracteres alfanuméricos para articularlos en una herramienta de escritura web.
 
-Su aportación consiste en la construcción automatizada de un alfabeto a partir de imágenes. El sistema transforma el procesamiento de Big Data en recursos tipográficos, demostrando que es posible generar fuentes legibles sin dibujar un solo trazo, simplemente *minando* formas preexistentes en la realidad mediante aprendizaje automático.
+Su aportación consiste en la construcción automatizada de un alfabeto a partir de imágenes. El sistema transforma el procesamiento de *big data* en recursos tipográficos, demostrando que es posible generar fuentes legibles sin dibujar un solo trazo, simplemente minando formas preexistentes en el mundo físico mediante aprendizaje automático.
 
-La relevancia de este proyecto para la investigación radica en que constituye una muestra alternativa de generación interactiva de tipografías. Su valor reside en alejarse del estándar vectorial para proponer una tipografía basada en imágenes, demostrando que la escritura digital puede construirse mediante la recontextualización de fotografía satelital en lugar de depender exclusivamente de trazados geométricos.
+La relevancia de este proyecto para la investigación radica en que constituye una alternativa de generación de fuentes. Su valor reside en alejarse del estándar vectorial para proponer una tipografía basada en imágenes, demostrando que la escritura digital puede construirse mediante la recontextualización de fotografía satelital en lugar de depender exclusivamente de trazados geométricos.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

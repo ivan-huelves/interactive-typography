@@ -15,11 +15,11 @@ permalink: /referentes/generative-typography/
 
 
 ### Relevancia
-GenType es el archivo digital del curso *Generative Typography* dirigido por Zeke Wattles. El sitio recopila decenas de experimentos y herramientas tipográficas desarrolladas por estudiantes de diseño, abarcando desde identidades visuales reactivas hasta micrositios inmersivos. 
+GenType es el archivo digital del curso Generative Typography dirigido por Zeke Wattles. El sitio recopila decenas de experimentos y herramientas tipográficas desarrolladas por estudiantes de diseño, abarcando desde identidades visuales reactivas hasta micrositios inmersivos. 
 
-Su aportación consiste en sistematizar la enseñanza del *Creative Coding* como metodología de diseño tipográfico, estableciendo la programación (específicamente mediante p5.js) como una competencia esencial para que el diseñador contemporáneo genere sistemas de letras vivos, superando la noción de la fuente como archivo estático.
+Su aportación consiste en sistematizar la enseñanza del *creative coding* como metodología de diseño tipográfico, estableciendo la programación (específicamente mediante p5.js) como una competencia esencial para que el diseñador contemporáneo genere sistemas de tipos vivos.
 
-La relevancia de este repositorio para la investigación radica en que documenta el cambio de paradigma en la formación académica. Demuestra cómo una nueva generación de diseñadores está pasando de ser usuarios de software a creadores de software, empleando el código para generar sistemas tipográficos que serían imposibles de concebir mediante herramientas de diseño tradicionales.
+La relevancia de este repositorio para la investigación radica en que documenta el cambio de paradigma en la formación académica. Demuestra cómo una nueva generación de diseñadores está pasando de ser usuarios de *software* a creadores de *software*, empleando el código para generar sistemas tipográficos que serían imposibles de concebir mediante herramientas de diseño tradicionales.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

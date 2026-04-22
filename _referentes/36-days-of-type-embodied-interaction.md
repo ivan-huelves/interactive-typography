@@ -17,9 +17,9 @@ permalink: /referentes/36-days-of-type-embodied-interaction/
 
 
 ### Relevancia
-Este proyecto es una colección de 36 experimentos tipográficos desarrollados para el reto *36 Days of Type*. El sistema utiliza un algoritmo de machine learning (Mediapipe) y p5.js para detectar y rastrear partes del cuerpo del usuario a través de una cámara web, usando esos datos como input para manipular las formas de los glifos.
+Este proyecto es una colección de 36 experimentos tipográficos desarrollados para el reto *36 Days of Type*. El sistema utiliza un algoritmo de *machine learning* (Mediapipe) y p5.js para detectar y rastrear partes del cuerpo del usuario a través de una cámara web, usando esos datos como *input* para manipular las formas de los glifos.
 
-Su principal aportación es la materialización del concepto de *interacción corporeizada* (embodied interaction). A diferencia de otros sistemas, aquí la interfaz convencional desaparece y son los gestos del usuario la herramienta para generar y transformar los caracteres.
+Su principal aportación es la materialización del concepto de interacción corporeizada (*embodied interaction*). A diferencia de otros sistemas, aquí la interfaz convencional desaparece y son los gestos del usuario la herramienta para generar y transformar los tipos.
 
 La relevancia de este proyecto es que demuestra un modelo de interacción alternativo a los periféricos tradicionales como el ratón o el teclado. Al establecer una conexión más directa e intuitiva entre el gesto y la expresión visual del texto, abre nuevas vías para explorar la expresividad en la tipografía interactiva.
 

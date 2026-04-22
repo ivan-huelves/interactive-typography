@@ -21,7 +21,7 @@ LOOK/HEAR explora la sinestesia como estrategia para traducir el sonido en forma
 
 Su principal aportación es el desarrollo de un enfoque metodológico para la visualización de datos sonoros a través de la tipografía. Al utilizar un sistema de capas 3D que reaccionan a diferentes frecuencias o fuentes de sonido, el proyecto materializa el paisaje acústico de un lugar en una forma visual dinámica.
 
-La relevancia para esta investigación es que el proyecto anticipa metodologías para sistemas tipográficos capaces de responder a los datos de un entorno urbano en tiempo real. Establece un precedente para la tipografía como una interfaz sensible al contexto, que no solo muestra información, sino que visualiza las cualidades ambientales de un espacio.
+La relevancia para esta investigación es que el proyecto anticipa metodologías para sistemas tipográficos capaces de responder a los datos en tiempo real. Establece un precedente para la tipografía como una interfaz sensible al contexto, que no solo muestra información, sino que visualiza las cualidades ambientales de un espacio.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

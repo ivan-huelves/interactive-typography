@@ -19,9 +19,9 @@ permalink: /referentes/symphony-in-acid/
 
 
 ### Relevancia
-Symphony in Acid es una pieza audiovisual generativa que funciona simultáneamente como videoclip y como experiencia web interactiva. El sistema utiliza el texto filosófico del *Tractatus Logico-Philosophicus* de Ludwig Wittgenstein como input de texto, mapeando cada sonido de la pista musical compuesta por Max Cooper a la composición tipográfica.
+Symphony in Acid es una pieza audiovisual generativa que funciona simultáneamente como vídeo y como experiencia web interactiva. El sistema utiliza el texto filosófico del *Tractatus Logico-Philosophicus* de Ludwig Wittgenstein como *input* de texto, mapeando cada sonido de la pista musical compuesta por Max Cooper a la composición tipográfica.
 
-Su aportación técnica consiste en la sincronización entre audio y texto en un entorno web: no es un video pre-renderizado, sino código JavaScript ejecutándose en tiempo real que permite al usuario interactuar e incluso *renderizar* su propio rostro utilizando las palabras del filósofo como píxeles (modo selfie). 
+Su aportación técnica reside en la sincronización entre el audio y los tipos dentro de un entorno web a través de código JavaScript ejecutado en tiempo real, lo que permite prescindir de formatos de vídeo pre-renderizado. Este sistema facilita que el usuario interactúe con la obra e incluso logre renderizar su propia cara mediante el uso de glifos que actúan como unidades de composición.
 
 La relevancia del proyecto radica en cómo utiliza la tipografía para generar una experiencia visual y filosófica más allá de su contenido textual. Al convertir el discurso de Wittgenstein en una textura dinámica, la obra trasciende la lectura convencional para visualizar la incapacidad del lenguaje de capturar la realidad, transformando el concepto filosófico en una vivencia sensorial.
 

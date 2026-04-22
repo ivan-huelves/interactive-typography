@@ -17,11 +17,11 @@ permalink: /referentes/dance-writer/
 
 
 ### Relevancia
-Dance Writer es un proyecto que convierte el texto en una coreografía de danza. El sistema funciona a partir de un alfabeto predefinido donde cada carácter del alfabeto latino corresponde a una postura corporal específica, grabada previamente en vídeo por una bailarina.
+Dance Writer es un proyecto que convierte el texto en una coreografía de danza. El sistema funciona a partir de una tipografía donde cada carácter corresponde a una postura corporal específica, grabada previamente en vídeo por una bailarina.
 
-Su principal aportación es que el acto de escribir activa una secuencia de estos vídeos pregrabados, componiendo las palabras letra por letra a través del movimiento de la bailarina. De esta forma, la tipografía se convierte en una performance coreografiada que se reproduce a demanda del usuario.
+Su principal aportación es que el acto de escribir activa una secuencia de vídeos pregrabados, componiendo las palabras carácter por carácter a través del movimiento de la bailarina. De esta forma, la tipografía se convierte en una *performance* coreografiada que se reproduce a demanda del usuario.
 
-La relevancia para esta investigación es que demuestra cómo la escritura digital puede servir como un activador de una performance corporal. El proyecto redefine la relación entre el signo tipográfico y el gesto, convirtiendo la escritura en un acto de composición coreográfica.
+La relevancia para esta investigación es que explora alfabetos y formas de escritura alternativas que redefinen la relación entre el signo tipográfico y el gesto, convirtiendo la escritura en un acto de composición coreográfica.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

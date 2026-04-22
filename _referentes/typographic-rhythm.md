@@ -13,11 +13,9 @@ permalink: /referentes/typographic-rhythm/
 
 
 ### Relevancia
-Typographic Rhythm es un prototipo que explora la tipografía texturizada, recuperando la dimensión gestual de la caligrafía. La herramienta vincula la velocidad de tecleo del usuario con la variación tipográfica, seleccionando de forma automática entre 140 pesos diferentes de una fuente generada para el proyecto.
+Typographic Rhythm es un prototipo que explora la dimensión gestual de la caligrafía a través de la tipografía. La herramienta vincula la velocidad de tecleo del usuario con la variación tipográfica, seleccionando de forma automática entre 140 pesos diferentes.
 
-Su principal aportación es la reintroducción de matices expresivos, propios de la escritura manual y la tipografía tradicional de plomo, en un entorno digital. El proyecto demuestra cómo un input de usuario tan común como el ritmo de tecleo puede convertirse en un parámetro de diseño en tiempo real para enriquecer el texto.
-
-La relevancia para esta investigación es que ejemplifica cómo la velocidad y el ritmo de la interacción humana pueden modular la morfología tipográfica. Ofrece un modelo para dotar al texto digital de una cualidad más orgánica y personal, reflejando el gesto del escritor.
+Su aportación reside en trasladar al entorno digital matices expresivos propios de la escritura manual y los tipos móviles, utilizando el ritmo de tecleo como un parámetro de diseño que enriquece la composición en tiempo real. Este planteamiento resulta relevante al demostrar que la velocidad de la interacción humana puede modular la morfología de los glifos, lo cual permite dotar a la tipografía de una cualidad orgánica que captura el gesto del autor.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

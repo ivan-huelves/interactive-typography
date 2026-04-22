@@ -17,9 +17,9 @@ permalink: /referentes/aterytool/
 ### Relevancia
 AteryTool es una aplicación web de diseño tipográfico paramétrico desarrollada como parte de una tesis sobre procesos generativos. La herramienta analiza archivos de fuentes existentes, rasteriza sus glifos y los reconstruye colocando formas geométricas sobre una retícula, permitiendo exportar el resultado como vectores SVG o fuentes OTF. 
 
-Su aportación consiste en la instrumentalización de la retícula como sistema de composición del glifo. El proyecto automatiza la conversión de tipografías vectoriales en estructuras modulares, permitiendo intercambiar los módulos sin alterar su estructura legible.
+Su aportación consiste en la instrumentalización de la retícula como sistema de composición del glifo. El proyecto automatiza la conversión de fuentes vectoriales en estructuras modulares, permitiendo intercambiar los módulos sin alterar su estructura.
 
-La relevancia de este proyecto para la investigación radica en la implementación de un sistema modular flexible que permite generar variaciones tipográficas intercambiando fácilmente sus módulos y que además puedes descargarte archivos fuente Opentype con los caracteres generados.
+La relevancia de este proyecto para la investigación radica en la implementación de un sistema modular flexible que permite generar variaciones tipográficas intercambiando fácilmente sus módulos y que puedes descargar archivos fuente Opentype con los glifos generados.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

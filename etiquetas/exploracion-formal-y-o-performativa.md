@@ -727,11 +727,11 @@ permalink: /etiquetas/exploracion-formal-y-o-performativa/
 
     <a href="/interactive-typography/referentes/remark/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+        <img src="/interactive-typography/images/referentes/remark 01.jpg" alt="Imagen de Re:Mark" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Re:MARK
+            Re:Mark
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Golan Levin, Zachary Lieberman y Ars Electronica Futurelab
@@ -775,11 +775,11 @@ permalink: /etiquetas/exploracion-formal-y-o-performativa/
 
     <a href="/interactive-typography/referentes/segundo-soneto-meio-barroco/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Imagen de Segundo Soneto Meio Barroco" loading="lazy">
+        <img src="/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Imagen de Segundo soneto meio barroco" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Segundo Soneto Meio Barroco
+            Segundo soneto meio barroco
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Alckmar Luiz dos Santos y Gilbertto Prado

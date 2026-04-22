@@ -13,11 +13,11 @@ permalink: /referentes/typeractive/
 
 
 ### Relevancia
-Typeractive es un experimento de tipografía tridimensional donde el usuario escribe en el teclado y un carácter en primer plano transita de una forma a otra. Mientras la letra principal se transforma, va oscilando lentamente para mostrar su tridimensionalidad. Simultáneamente, el texto que se escribe aparece en formato de mapa de bits en el fondo de la pantalla.
+Typeractive es un experimento de tipografía tridimensional donde el usuario escribe en el teclado y un carácter en primer plano transita de una forma a otra. Mientras el carácter principal se transforma, va oscilando lentamente para mostrar su tridimensionalidad.
 
 Su principal aportación es la exploración pionera de la transición morfológica entre caracteres en un espacio 3D, activada directamente por la escritura del usuario.
 
-La relevancia de este proyecto para la investigación reside en que es una de las primeras aproximaciones a la creación de una tipografía 3D e interactiva. Plantea el reto de diseñar formas que funcionen tanto en tres dimensiones como en su vista bidimensional, un problema fundamental en el diseño de tipografía para entornos virtuales.
+La relevancia de este proyecto para la investigación reside en que es una de las primeras aproximaciones que plantea el reto de diseñar glifos que funcionen tanto en tres dimensiones como en su vista bidimensional, un problema fundamental en el diseño de tipografía para entornos virtuales.
 
 ### Clasificación
 * **Década:** [Década de 1990](/interactive-typography/etiquetas/decada-de-1990/)

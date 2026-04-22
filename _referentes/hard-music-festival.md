@@ -27,11 +27,11 @@ permalink: /referentes/hard-music-festival/
 
 
 ### Relevancia
-Este proyecto consiste en el desarrollo de una tipografía para la identidad visual del HARD Music Festival. El diseño de la fuente responde en tiempo real a parámetros sonoros del entorno, como el volumen, el tono y el ritmo de la música.
+Este proyecto consiste en el desarrollo de una tipografía para la identidad visual del Hard Music Festival. Los tipos responden en tiempo real a parámetros sonoros del entorno, como el volumen, el tono y el ritmo de la música.
 
-Su principal aportación es que la tipografía no solo construye la identidad visual del evento, sino que la convierte en un sistema dinámico y sensible al ambiente musical. De esta manera, la interactividad se integra como una parte esencial de la experiencia de marca.
+Su principal aportación es que la tipografía no solo construye la identidad visual del evento, sino que la convierte en un sistema dinámico y sensible al sonido. De esta manera, la interactividad se integra como una parte esencial de la experiencia de marca.
 
-La relevancia de este proyecto para la investigación es que aplica la tipografía interactiva en un contexto real y comercial de branding. Demuestra cómo la tipografía puede trascender su función estática para convertirse en una interfaz que reacciona y representa el entorno sonoro de un evento.
+La relevancia de este proyecto para la investigación es que aplica la tipografía interactiva en un contexto real y comercial de *branding*. Demuestra cómo la tipografía puede trascender su función estática para convertirse en un agente que reacciona y representa el entorno sonoro de un evento.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

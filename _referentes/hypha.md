@@ -17,9 +17,9 @@ permalink: /referentes/hypha/
 ### Relevancia
 Hypha es un proyecto que utiliza un sistema generativo, inspirado en un proceso biológico, para crear una identidad visual dinámica para una exposición sobre hongos.
 
-Su principal aportación es el desarrollo de una tipografía que no es estática, sino que cada una de sus letras tiene infinitas variaciones. Estas son generadas por un algoritmo que simula el crecimiento de un hongo (Hypha).
+Su principal aportación es el desarrollo de una tipografía en la que cada una de sus glifos tiene infinitas variaciones. Estos son generados por un algoritmo que simula el crecimiento de un hongo (hypha).
 
-La relevancia de este proyecto para la investigación reside en que explora cómo la tipografía puede reflejar conceptualmente el tema de una exposición. De esta forma, el proyecto convierte el texto en un organismo vivo y en constante evolución.
+La relevancia de este proyecto para la investigación reside en que explora cómo la tipografía puede representar el tema de una exposición. De esta forma, el proyecto convierte altipo en un organismo vivo y en constante evolución.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

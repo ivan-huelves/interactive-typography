@@ -19,11 +19,11 @@ permalink: /referentes/the-guide-to-be-seen/
 
 
 ### Relevancia
-Este proyecto consiste en una tipografía con una doble función. Visualmente, sus caracteres están construidos con formas geométricas abstractas, como círculos y líneas discontinuas, inspiradas en los patrones de prueba y las marcas de calibración que utilizan los sistemas de visión por computador (similares a un QR).
+Esta tipografía emplea glifos compuestos por formas geométricas abstractas (círculos y líneas) inspiradas en los patrones de calibración de la visión artificial. Su diseño, similar al código QR, permite que los glifos operen simultáneamente como signos legibles para el ojo humano y como marcadores tecnológicos para entornos digitales.
 
-Su principal aportación es que la propia letra impresa, al ser vista a través de la cámara de un dispositivo, se convierte en el activador que dispara animaciones tridimensionales en realidad aumentada. Estas animaciones expanden la exploración formal de la letra, mostrando versiones volumétricas y dinámicas de los mismos patrones geométricos que componen la versión impresa.
+Su principal aportación es que el glifo, al ser vista a través de la cámara de un dispositivo, se convierte en el activador que dispara animaciones tridimensionales en realidad aumentada. Estas animaciones expanden la forma del glifo, mostrando versiones volumétricas y dinámicas de los mismos patrones geométricos que componen la versión impresa.
 
-La relevancia de este proyecto consiste en que demuestra cómo la tipografía puede ser simultáneamente el mensaje y la interfaz. Une el texto estático con una capa de contenido digital interactivo, y lo hace a través de un lenguaje visual que reflexiona sobre la propia naturaleza de la *visión artificial*.
+La relevancia de este proyecto consiste en que demuestra cómo la tipografía puede ser simultáneamente el mensaje y la interfaz.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

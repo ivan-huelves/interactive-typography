@@ -375,11 +375,11 @@ permalink: /etiquetas/multimodal-no/
 
     <a href="/interactive-typography/referentes/experimentos-ar-women-of-type-y-canal/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/experimentos ar 01.jpg" alt="Imagen de Experimentos AR (Women of Type y CANAL)" loading="lazy">
+        <img src="/interactive-typography/images/referentes/experimentos ar 01.jpg" alt="Imagen de Experimentos AR (Women of Type y Canal)" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Experimentos AR (Women of Type y CANAL)
+            Experimentos AR (Women of Type y Canal)
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Beatriz Lozano
@@ -1047,11 +1047,11 @@ permalink: /etiquetas/multimodal-no/
 
     <a href="/interactive-typography/referentes/no-design-foundry-tools/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/no design foundry 01.png" alt="Imagen de no design foundry Tools" loading="lazy">
+        <img src="/interactive-typography/images/referentes/no design foundry 01.png" alt="Imagen de No Design Foundry Tools" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            no design foundry Tools
+            No Design Foundry Tools
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           no design foundry
@@ -1287,11 +1287,11 @@ permalink: /etiquetas/multimodal-no/
 
     <a href="/interactive-typography/referentes/segundo-soneto-meio-barroco/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Imagen de Segundo Soneto Meio Barroco" loading="lazy">
+        <img src="/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Imagen de Segundo soneto meio barroco" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Segundo Soneto Meio Barroco
+            Segundo soneto meio barroco
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Alckmar Luiz dos Santos y Gilbertto Prado

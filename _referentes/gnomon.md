@@ -13,11 +13,11 @@ permalink: /referentes/gnomon/
 
 
 ### Relevancia
-Gnomon es una tipografía variable que funciona como un sistema de visualización de datos contextual. La fuente simula la sombra que proyectaría el sol sobre los caracteres, calculando su ángulo y longitud en función de la hora y la localización del usuario.
+Gnomon es una tipografía variable que funciona como un sistema de visualización de datos. La tipografía simula la sombra que proyectaría el sol sobre los glifos, calculando su ángulo y longitud en función de la hora y la localización del usuario.
 
-Su principal aportación es la vinculación directa de la morfología de la tipografía con un fenómeno natural en tiempo real. Al convertir la letra en un reloj de sol funcional (un gnomon), el proyecto explora cómo el texto puede reflejar de forma precisa el entorno del usuario.
+Su principal aportación es la vinculación directa de la morfología del glifo con un fenómeno natural en tiempo real. Al convertir el carácter en un reloj de sol funcional, el proyecto explora cómo el texto puede reflejar el entorno del usuario.
 
-La relevancia de este proyecto es que demuestra el potencial de la tipografía como una herramienta para la visualización de datos. Es un ejemplo claro de cómo los ejes de variación de una tipografía variable pueden conectarse a datos externos y en tiempo real, convirtiendo la propia tipografía en la interfaz que visualiza esa información.
+La relevancia de este proyecto es que demuestra el potencial de la tipografía como una herramienta para la visualización de datos. Es un ejemplo claro de cómo los ejes de variación de una fuente variable pueden conectarse a datos externos y en tiempo real, convirtiendo la propia tipografía en la interfaz que visualiza esa información.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

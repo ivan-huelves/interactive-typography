@@ -19,7 +19,7 @@ permalink: /referentes/alphabet-synthesis-machine/
 
 
 ### Relevancia
-Este proyecto explora la generación de sistemas de escritura mediante algoritmos generativos. El sistema permite al usuario dirigir la creación de alfabetos *inventados* a través de un proceso que combina el gesto humano inicial con la autonomía del sistema.
+Este proyecto explora la generación de sistemas de escritura mediante algoritmos generativos. El sistema permite al usuario dirigir la creación de alfabetos a través de un proceso que combina el gesto humano inicial con la autonomía del sistema.
 
 Su principal aportación es el uso de la interactividad no para modificar una fuente existente, sino para crearla desde cero. La obra investiga los límites entre el lenguaje y el gesto, la legibilidad y el caos, convirtiendo al usuario en un co-creador de nuevas formas tipográficas.
 

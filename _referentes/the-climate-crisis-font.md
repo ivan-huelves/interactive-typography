@@ -17,11 +17,11 @@ permalink: /referentes/the-climate-crisis-font/
 
 
 ### Relevancia
-The Climate Crisis Font es una tipografía variable cuyo eje de peso está vinculado a datos históricos y proyecciones futuras sobre el deshielo del Ártico. A medida que el usuario selecciona diferentes años, desde 1979 hasta 2050, el grosor de la fuente disminuye, reflejando visualmente la pérdida de hielo polar.
+The Climate Crisis Font es una tipografía variable cuyo eje de peso está vinculado a datos históricos y proyecciones futuras sobre el deshielo del Ártico. A medida que el usuario selecciona diferentes años, desde 1979 hasta 2050, el grosor del glifo disminuye, reflejando visualmente la pérdida de hielo.
 
-Su principal aportación es la codificación de una narrativa urgente sobre el cambio climático directamente en la morfología de la tipografía. Al vincular el grosor del carácter con datos científicos reales del Centro Nacional de Datos de Nieve y Hielo, la tipografía deja de ser un contenedor neutro de información para convertirse en la propia visualización de la crisis.
+Su principal aportación es la codificación de una narrativa sobre el cambio climático directamente en la morfología del glifo. Al vincular el tipo con datos científicos reales del Centro Nacional de Datos de Nieve y Hielo, la tipografía deja de ser un contenedor neutro de información para convertirse en la propia visualización de la crisis.
 
-La relevancia de este proyecto reside en su uso innovador de la tipografía variable como una herramienta para la visualización de datos y la concienciación social. Es un ejemplo de cómo la tipografía puede comunicar un mensaje a dos niveles: a través del texto que se escribe y a través de su propia forma variable.
+La relevancia de este proyecto reside en su uso innovador de la tipografía variable como una herramienta para la visualización de datos y la concienciación social. Es un ejemplo de cómo la tipografía puede comunicar un mensaje a dos niveles: a través del texto que se escribe y a través de su propia forma.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

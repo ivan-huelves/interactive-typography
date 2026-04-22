@@ -13,11 +13,11 @@ permalink: /referentes/nomad-typeface/
 
 
 ### Relevancia
-Nomad Typeface es una tipografía interactiva donde cada carácter posee un comportamiento animado individual derivado de la superposición de formas circulares. El sistema responde dinámicamente a la escritura del usuario en el teclado, generando en tiempo real las animaciones correspondientes a cada letra.
+Nomad Typeface es una tipografía interactiva donde cada tipo posee un comportamiento animado individual derivado de la superposición de formas circulares. El sistema responde dinámicamente a la escritura del usuario en el teclado, generando en tiempo real las animaciones correspondientes a cada glifo.
 
-Su principal aportación es la investigación de la tipografía como una experiencia interactiva y puramente formal. En lugar de centrarse en la legibilidad o en la transmisión de un mensaje, el proyecto explora el potencial estético y lúdico de los caracteres digitales como formas abstractas en constante movimiento.
+Su principal aportación es la investigación de la tipografía como una experiencia interactiva y formal. En lugar de centrarse en la legibilidad o en la transmisión de un mensaje, el proyecto explora el potencial estético y lúdico de los tipos como formas abstractas en constante movimiento.
 
-La relevancia para esta investigación es que demuestra cómo el input del usuario puede activar comportamientos expresivos en la tipografía, reforzando su cualidad visual y dinámica más allá de su función comunicativa tradicional. Es un claro ejemplo de la función de *Expresión artística y performativa*.
+La relevancia para esta investigación es que demuestra cómo el *input* del usuario puede activar comportamientos expresivos en la tipografía, reforzando su cualidad visual y dinámica más allá de su función comunicativa tradicional. Es un claro ejemplo de la función de expresión artística y performativa.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

@@ -17,11 +17,11 @@ permalink: /referentes/goertek-typeface/
 
 
 ### Relevancia
-Goertek Typeface es un sistema tipográfico sensible al sonido desarrollado para la compañía de audio Goertek. La tipografía reacciona en tiempo real al entorno auditivo, alterando su forma específicamente según las variaciones en el volumen y la frecuencia del sonido ambiente. 
+Goertek Typeface es un sistema tipográfico sensible al sonido desarrollado para la compañía de audio Goertek. El tipo reacciona en tiempo real al entorno auditivo, alterando su forma específicamente según las variaciones en el volumen y la frecuencia del sonido ambiente. 
 
-Su principal aportación es la capacidad de *vibrar* para imitar el movimiento de las ondas sonoras, donde los sonidos más fuertes generan una mayor amplitud visual. Esto permite que la tipografía actúe como una entidad dinámica que visualiza el sonido. 
+Su principal aportación es la capacidad de vibrar para imitar el movimiento de las ondas sonoras, donde los sonidos más fuertes generan una mayor amplitud visual. Esto permite que el tipo actúe como una entidad dinámica que visualiza el sonido. 
 
-La relevancia de este proyecto para la investigación es que ejemplifica la aplicación de la tipografía interactiva en un contexto de branding corporativo. Demuestra cómo los datos externos (sonido) pueden modular la morfología tipográfica para construir una identidad visual viva y coherente con la actividad de la marca.
+La relevancia de este proyecto para la investigación es que ejemplifica la aplicación de la tipografía interactiva en un contexto de *branding* corporativo. Demuestra cómo los datos externos pueden modular la morfología del glifo para construir una identidad visual viva y coherente con la actividad de la marca.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

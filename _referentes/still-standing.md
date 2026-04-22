@@ -19,7 +19,7 @@ Still Standing es una instalación interactiva que invierte la lógica habitual 
 
 Su aportación reside en cómo nos hace reflexionar sobre la importancia de la atención y el detenerse, anticipándose años antes a tendencias actuales como el concepto de economía de la atención.
 
-Para esta investigación su relevancia es histórica al ser uno de los trabajos pioneros en el desarrollo de instalaciones artísticas que emplean interfaces naturales para interactuar con el texto sin necesidad de periféricos tradicionales.
+Para esta investigación su relevancia es histórica al ser uno de los trabajos pioneros en el desarrollo de instalaciones artísticas que emplean interfaces naturales para interactuar con la tipografía sin necesidad de periféricos tradicionales.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

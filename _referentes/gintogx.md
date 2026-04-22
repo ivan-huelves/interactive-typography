@@ -17,7 +17,7 @@ permalink: /referentes/gintogx/
 
 
 ### Relevancia
-El espécimen interactivo de la familia tipográfica Ginto es un laboratorio web que explora de forma exhaustiva las posibilidades de las tipografías variables. A través de distintos inputs, como el movimiento del cursor, la cámara o el micrófono, el proyecto demuestra cómo una tipografía puede transformarse dinámicamente según la interacción del usuario y el contexto.
+El espécimen interactivo de la familia tipográfica Ginto es un laboratorio web que explora las posibilidades de las tipografías variables. A través de distintos *inputs*, como el movimiento del cursor, la cámara o el micrófono, el proyecto evidencia cómo un tipo puede transformarse dinámicamente según la interacción del usuario y el contexto.
 
 El proyecto demuestra de forma práctica cómo los ejes de variación de una fuente pueden conectarse a una amplia gama de interacciones y datos del entorno, superando los controles tradicionales.
 

@@ -103,11 +103,11 @@ permalink: /etiquetas/interaccion-fuerte-o-mutua/
 
     <a href="/interactive-typography/referentes/remark/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/remark 01.jpg" alt="Imagen de Re:MARK" loading="lazy">
+        <img src="/interactive-typography/images/referentes/remark 01.jpg" alt="Imagen de Re:Mark" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Re:MARK
+            Re:Mark
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Golan Levin, Zachary Lieberman y Ars Electronica Futurelab

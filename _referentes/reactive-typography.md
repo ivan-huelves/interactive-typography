@@ -15,9 +15,9 @@ permalink: /referentes/reactive-typography/
 
 
 ### Relevancia
-Typo-Picture es un proyecto que explora la tipografía como un sistema de aprendizaje multisensorial. El sistema se basa en la creación de caracteres compuestos por ilustraciones que representan el significado de la palabra, estableciendo así una asociación visual directa para facilitar el aprendizaje de idiomas.
+Reactive Typography es un proyecto que explora la tipografía como un sistema de aprendizaje multisensorial. El sistema se basa en la creación de glifos compuestos por ilustraciones que representan el significado de la palabra, estableciendo así una asociación visual para facilitar el aprendizaje de idiomas.
 
-Su principal aportación es la investigación de cómo la combinación de estímulos visuales (la forma del carácter y la ilustración) y auditivos (el sonido al que reaccionan las ilustraciones) puede enriquecer el proceso de aprendizaje. El proyecto convierte la letra en una experiencia interactiva y sinestésica.
+Su principal aportación es la investigación de cómo la combinación de estímulos visuales (la forma del glifo y la ilustración) y auditivos (el sonido al que reaccionan las ilustraciones) puede enriquecer el proceso de aprendizaje. El proyecto convierte el tipo en una experiencia interactiva y sinestésica.
 
 La relevancia para esta investigación reside en su enfoque sobre la accesibilidad y la pedagogía. Demuestra un modelo donde la tipografía interactiva no es solo un medio expresivo o estético, sino también una herramienta funcional diseñada para facilitar la comprensión y la memorización a través de la interacción multisensorial.
 

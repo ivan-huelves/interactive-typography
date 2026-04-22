@@ -19,11 +19,11 @@ permalink: /referentes/laika/
 
 
 ### Relevancia
-Laika es una tipografía paramétrica desarrollada en Processing que cuestiona la rigidez de las fuentes estáticas. El sistema permite modificar en tiempo real parámetros como el peso, la inclinación, el contraste o la longitud de las serifas.
+Laika es una tipografía paramétrica desarrollada en processing que cuestiona la rigidez de los tipos estáticos. El sistema permite modificar en tiempo real parámetros como el peso, la inclinación, el contraste o la longitud de las serifas.
 
-Su principal aportación es su capacidad para responder a múltiples y diversos inputs, que incluyen sensores físicos, un micrófono, datos extraídos de internet o controladores físicos, convirtiéndose en un sistema sensible tanto a la interacción del usuario como a datos externos.
+Su principal aportación es su capacidad para responder a múltiples y diversos *inputs*, que incluyen sensores, un micrófono, datos extraídos de internet o controladores físicos, convirtiéndose en un sistema sensible tanto a la interacción del usuario como a datos externos.
 
-La relevancia de este proyecto es que se trata de un hito en la investigación tipográfica digital que anticipa el potencial de las tipografías variables. Demuestra un modelo donde la tipografía no es una forma fija, sino un sistema dinámico y adaptable a su contexto.
+Este proyecto es un hito en la investigación tipográfica interactiva que anticipa el potencial de las fuentes variables. Demuestra un modelo donde el tipo no es una forma fija, sino un sistema dinámico y adaptable a su contexto.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

@@ -17,11 +17,11 @@ permalink: /referentes/sound-type/
 
 
 ### Relevancia
-Sound Type es un proyecto experimental que utiliza ondas de audio manipuladas para dibujar caracteres en la pantalla de un osciloscopio. Los glifos no están dibujados digitalmente por píxeles, sino que son el resultado visual directo de voltajes de sonido específicos moviendo un haz de luz.
+Sound Type es un proyecto experimental que utiliza ondas de audio manipuladas para generar glifos en la pantalla de un osciloscopio. Los glifos no están dibujados digitalmente por píxeles, sino que son el resultado visual directo de voltajes de sonido moviendo un haz de luz.
 
-Su aportación consiste en la utilización de un medio atípico (las ondas sonoras) como input para generar los caracteres. Esta capacidad de innovación ha sido avalada con un premio en los Type Directors Club Awards.
+Su aportación consiste en la utilización de un medio atípico (las ondas sonoras) como *input* para generar los glifos. Esta capacidad de innovación ha sido avalada con un premio en los Type Directors Club Awards.
 
-La relevancia de este proyecto para la investigación destaca por su enfoque experimental para articular nuevos lenguajes tipográficos a partir de inputs no convencionales, demostrando que la forma de la letra puede surgir de la manipulación de señales físicas ajenas a las herramientas de dibujo tradicionales.
+La relevancia de este proyecto para la investigación destaca por su enfoque experimental para articular nuevos lenguajes tipográficos a partir de entradas no convencionales, demostrando que la forma del glifo puede surgir de la manipulación de señales físicas ajenas a las herramientas de diseño tradicionales.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

@@ -15,11 +15,11 @@ permalink: /referentes/emotional-type/
 
 
 ### Relevancia
-Emotional Type es un proyecto de investigación que explora cómo transmitir la intención y el tono de voz en la mensajería digital sin recurrir a emojis. La autora desarrolló una tipografía variable basada en la tipografía San Francisco que se deforma paramétricamente para expresar emociones. Las formas se vuelven más angulares y tensas para denotar negatividad, o más curvas y suaves para la positividad. 
+Emotional Type es un proyecto de investigación que explora cómo transmitir la intención y el tono de voz en la mensajería digital sin recurrir a *emojis*. La autora desarrolló una fuente variable basada en la tipografía San Francisco que se deforma paramétricamente para expresar emociones. Las formas se vuelven más angulares y tensas para denotar negatividad, o más curvas y suaves para la positividad. 
 
-Su aportación consiste en mapear el espectro emocional humano directamente sobre los ejes de interpolación de una tipografía variable. 
+Su aportación consiste en mapear el espectro emocional humano directamente sobre los ejes de interpolación de una fuente variable. 
 
-La relevancia del proyecto radica en proponer la propia morfología de la letra como vehículo de información paralingüística, demostrando que la tipografía variable puede dotar al texto de matices emocionales sutiles como una alternativa a los emoticonos.
+La relevancia del proyecto radica en proponer la propia morfología del glifo como vehículo de información paralingüística, demostrando que la tipografía variable puede dotar al texto de matices emocionales sutiles como una alternativa a los emoticonos.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

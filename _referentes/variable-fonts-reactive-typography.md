@@ -17,11 +17,11 @@ permalink: /referentes/variable-fonts-reactive-typography/
 
 
 ### Relevancia
-Variable Fonts – Reactive Typography es un proyecto de investigación que explora el potencial de las fuentes variables y su interpolación lineal dentro de la profesión del diseño gráfico. La propuesta se materializa como una exhibición interactiva que mezcla medios analógicos y digitales, integrando una publicación impresa, carteles reactivos y el uso de realidad aumentada para fusionar el formato estático con el dinámico.
+Variable Fonts – Reactive Typography es un proyecto de investigación que explora el potencial de las fuentes variables. La propuesta se materializa como una exhibición interactiva que mezcla medios analógicos y digitales, integrando una publicación impresa, carteles reactivos y el uso de realidad aumentada para fusionar el formato estático con el dinámico.
 
-Su principal aportación es la tesis de que las adaptaciones tipográficas actúan como reacciones directas a condiciones internas o externas. Mediante el uso de tecnologías web (HTML, CSS y JavaScript), el sistema vincula datos con los ejes de diseño de la fuente para automatizar estas adaptaciones, logrando que los carteles generen variaciones en movimiento como respuesta directa a la interacción con el espectador.
+Su aportación reside en demostrar que la morfología de los glifos puede interactuar con estímulos del entorno. El sistema emplea tecnologías web (HTML, CSS y JavaScript) para vincular datos externos con los ejes de la fuente variable, lo cual automatiza las variaciones de los tipos en respuesta a la interacción del espectador.
 
-La relevancia de este proyecto para la investigación es que valida la necesidad de utilizar tecnologías web para explotar el potencial de la tipografía variable. Establece un precedente sobre cómo el diseño gráfico puede transportar formatos tradicionales, como el póster, al ámbito digital, demostrando que la tipografía puede comportarse como un sistema automatizado y sensible a la interacción en lugar de ser un elemento fijo.
+La relevancia de este proyecto para la investigación es que emplea tecnologías web para explotar el potencial de la tipografía variable.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

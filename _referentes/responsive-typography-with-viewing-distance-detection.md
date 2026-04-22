@@ -13,11 +13,11 @@ permalink: /referentes/responsive-typography-with-viewing-distance-detection/
 
 
 ### Relevancia
-Este proyecto es un experimento web que ajusta dinámicamente el tamaño de la tipografía en función de la distancia del lector a la pantalla. Utilizando la cámara web para detectar la posición del usuario, el sistema aumenta o disminuye el cuerpo del texto para mantener una legibilidad constante.
+Este proyecto es un experimento web que ajusta dinámicamente el cuerpo del tipo en función de la distancia del lector a la pantalla empleando la cámara web. El sistema aumenta o disminuye el cuerpo del tipo para mantener una legibilidad constante.
 
-Su principal aportación es la implementación de un sistema que responde a un factor ergonómico fundamental para la legibilidad: la distancia. Es una solución práctica que demuestra cómo la tipografía puede adaptarse dinámicamente a la posición del usuario en el espacio.
+Su principal aportación es la implementación de un sistema que responde a un factor ergonómico fundamental para la legibilidad: la distancia. Es una solución práctica que demuestra cómo el tipo puede adaptarse dinámicamente a la posición del usuario en el espacio.
 
-La relevancia de este proyecto para la investigación es que se trata de un precedente claro en el uso de sensores para adaptar la tipografía a las condiciones físicas del lector, anticipando estrategias que posteriormente serían exploradas con tecnologías como la tipografía variable interactiva.
+La relevancia de este proyecto para la investigación es que se trata de un precedente claro en el uso de sensores para adaptar la tipografía a las condiciones físicas del lector, anticipando estrategias que posteriormente serán exploradas con tecnologías como la tipografía variable interactiva.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

@@ -15,7 +15,7 @@ permalink: /referentes/janemail/
 ### Relevancia
 Temporal Typography es una investigación que explora cómo las variaciones de ritmo y forma a lo largo del tiempo pueden transmitir cualidades emocionales y el tono de voz del emisor. El proyecto utiliza el método de Presentación Visual Rápida en Serie (RSVP) no solo como una técnica de lectura, sino como una herramienta para dotar de personalidad y expresión al texto.
 
-Su principal aportación es el estudio sistemático y la caracterización de las formas tipográficas que varían en el tiempo. Wong establece un marco teórico para entender y crear tipografía dinámica, proponiendo un nuevo vocabulario para describir sus propiedades.
+Su principal aportación es el estudio sistemático y la caracterización de los glifos que varían en el tiempo. Wong establece un marco teórico para entender y crear tipografía dinámica, proponiendo un nuevo vocabulario para describir sus propiedades.
 
 La relevancia de esta investigación es que sienta las bases para entender la dimensión temporal como un canal expresivo para la tipografía. Demuestra cómo la animación y la secuencialidad de los caracteres afectan a la interpretación del mensaje, un concepto fundamental para todo el campo de la tipografía interactiva posterior.
 

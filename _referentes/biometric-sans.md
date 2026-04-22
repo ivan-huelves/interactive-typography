@@ -15,11 +15,11 @@ permalink: /referentes/biometric-sans/
 
 
 ### Relevancia
-Biometric Sans, desarrollado por Jonathan Zong, constituye un sistema tipográfico experimental que alarga las formas de los glifos en respuesta a la velocidad de escritura. La instalación funciona como una máquina de escribir digital interactiva donde un software analiza los patrones biométricos de tecleado para visualizar las cadencias temporales del usuario a través de transformaciones tipográficas en tiempo real.
+Biometric Sans, desarrollado por Jonathan Zong, constituye un sistema tipográfico experimental que alarga las formas de los glifos en respuesta a la velocidad de escritura. La instalación funciona como una máquina de escribir digital donde un *software* analiza los patrones biométricos de tecleado para visualizar las cadencias temporales del usuario a través de transformaciones de los tipos en tiempo real.
 
-Su principal aportación reside en la captura del ritmo de escritura como mecanismo para alterar la estructura de los caracteres. El proyecto logra reintroducir la dimensión gestual en el texto digital al criticar la uniformización estética del procesamiento de palabras.
+Su principal aportación reside en la captura del ritmo de escritura como mecanismo para alterar la morfología de los glifos. El proyecto logra reintroducir la dimensión gestual en el texto digital al criticar la uniformización estética de los glifos.
 
-La relevancia para esta investigación radica en demostrar empíricamente cómo el gesto físico del usuario al teclear logra introducir matices paralingüísticos a través de la tipografía interactiva para transmitir información expresiva complementaria al propio mensaje textual.
+La relevancia para esta investigación radica en demostrar cómo el gesto físico del usuario al teclear logra introducir matices paralingüísticos a través de la tipografía interactiva para transmitir información expresiva complementaria al propio mensaje textual.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

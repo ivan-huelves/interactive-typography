@@ -13,7 +13,7 @@ permalink: /referentes/move-me-mm/
 
 
 ### Relevancia
-Move Me MM es una tipografía que utiliza la tecnología Multiple Master de una forma no prevista. Publicado en el número 11 de la revista Fuse, el proyecto permite al usuario controlar animaciones que deforman los glifos, haciéndolos metamorfosearse entre caracteres legibles e iconos gráficos abstractos.
+Move Me MM es una tipografía que utiliza la tecnología Multiple Master de una forma no prevista. Publicado en el número once de la revista Fuse, el proyecto permite al usuario controlar animaciones que deforman los glifos, haciéndolos metamorfosearse entre caracteres legibles e iconos gráficos abstractos.
 
 Su principal aportación es el uso pionero y experimental de la tecnología Multiple Master, forzando sus ejes de variación para generar animación interactiva. Lucas de Groot demostró que la tipografía podía ser un recurso dinámico controlado por el usuario, subvirtiendo el propósito original de la tecnología para la que fue concebida.
 

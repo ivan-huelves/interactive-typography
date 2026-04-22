@@ -15,11 +15,11 @@ permalink: /referentes/funky-mr-salvador-e-isabel-marant/
 
 
 ### Relevancia
-Estos proyectos ejemplifican la investigación basada en la práctica del estudio, donde el desarrollo de herramientas personalizadas se integra en encargos comerciales. La propuesta trasciende el uso del software de diseño estándar para establecer un flujo de trabajo experimental, donde interfaces de control no convencionales (como mandos de videojuegos o pantallas táctiles) definen el resultado formal de la tipografía. 
+Estos proyectos ejemplifican la investigación basada en la práctica del estudio, donde el desarrollo de herramientas personalizadas se integra en encargos comerciales. La propuesta trasciende el uso del *software* de diseño estándar para establecer un flujo de trabajo experimental, donde interfaces de control no convencionales (como mandos de videojuegos o pantallas táctiles) definen el resultado formal del glifo. 
 
 Su aportación técnica más destacada es la sustitución del ratón y el teclado por periféricos lúdicos y gestuales, lo que permite manipular las variables espaciales y morfológicas generando resultados inesperados.
 
-Para esta investigación, la relevancia de ambos casos radica en validar cómo la interfaz de creación determina la estética final del glifo. Demuestran que la incorporación de inputs físicos y gestuales en el proceso de diseño no solo genera resultados gráficos inéditos, sino que encuentra una aplicación práctica en sistemas de identidad.
+Para esta investigación, la relevancia de ambos casos radica en validar cómo la interfaz de creación determina la estética final del glifo. Demuestran que la incorporación de *inputs* físicos y gestuales en el proceso de diseño no solo genera resultados gráficos inéditos, sino que encuentra una aplicación práctica en sistemas de identidad.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

@@ -19,11 +19,11 @@ permalink: /referentes/gt/
 
 
 ### Relevancia
-GT (Generative Typography) son una serie de proyectos que ejemplifican la convergencia entre el pensamiento computacional y el diseño gráfico mediante métodos paramétricos. Se articula como una herramienta programada a medida que permite la manipulación de parámetros en diversos rangos de valores, generando formas tipográficas que evolucionan y se adaptan en tiempo real como respuesta a datos entrantes.
+GT (Generative Typography) son una serie de proyectos que ejemplifican la convergencia entre el pensamiento computacional y el diseño gráfico mediante métodos paramétricos. Se articula como una herramienta programada que permite la manipulación de parámetros en diversos rangos de valores, generando formas tipográficas que evolucionan y se adaptan en tiempo real como respuesta a datos entrantes.
 
-Su principal aportación es el desarrollo de herramientas de software personalizadas que convierten al ordenador en un medio creativo activo, superando su rol tradicional de simple instrumento. El sistema permite traducir la lógica del diseñador en algoritmos computacionales, automatizando la generación de formas con una precisión y velocidad imposibles de alcanzar manualmente.
+Su principal aportación es el desarrollo de herramientas de *software*. El sistema permite traducir la lógica del diseñador en algoritmos computacionales, automatizando la generación de formas con una precisión y velocidad imposibles de alcanzar manualmente.
 
-La relevancia de este proyecto para la investigación reside en que valida el desarrollo de herramientas propias como práctica fundamental en la tipografía interactiva y generativa. Demuestra el potencial del diseño paramétrico para crear sistemas vivos donde la forma tipográfica no es un artefacto estático, sino el resultado dinámico de la interacción entre la lógica del diseñador y el procesamiento de datos.
+La relevancia de este proyecto para la investigación reside en que valida el desarrollo de herramientas propias como práctica fundamental en la tipografía interactiva y generativa. Demuestra el potencial del diseño paramétrico para crear sistemas vivos donde el tipo no es un artefacto estático, sino el resultado dinámico de la interacción entre la lógica del diseñador y el procesamiento de datos.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

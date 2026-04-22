@@ -15,9 +15,9 @@ permalink: /referentes/activetext-project-y-its-alive/
 
 
 ### Relevancia
-El proyecto ActiveText es una iniciativa de investigación que traslada al ámbito digital los principios de la Poesía Concreta mediante el código. Se manifiesta en dos vertientes: It*s Alive!, una herramienta de software definida por el autor como el «hijo mutante de un editor de texto y AfterEffects» que permite aplicar comportamientos autónomos a las palabras; y la instalación ActiveText, donde el público utiliza un teclado MIDI y un ratón para rociar texto en una proyección a gran escala, manipulando su ritmo y apariencia como si fuera un instrumento musical.
+El proyecto ActiveText es una iniciativa de investigación que traslada al ámbito digital los principios de la Poesía Concreta mediante código. Se manifiesta en dos vertientes: It*s Alive!, una herramienta de *software* definida por el autor como el hijo mutante de un editor de texto y AfterEffects que permite aplicar comportamientos autónomos a los caracteres; y la instalación ActiveText, donde el público utiliza un teclado MIDI y un ratón para rociar texto en una proyección a gran escala, manipulando su ritmo y apariencia como si fuera un instrumento musical.
 
-Su aportación técnica se fundamenta en el desarrollo de una librería en C++ con una arquitectura orientada a objetos. Este motor permite manipular simultáneamente el componente ASCII y el componente visual del texto, lo que posibilita que los glifos tengan propiedades interactivas.
+Su aportación técnica se fundamenta en el desarrollo de una librería en C++ con una arquitectura orientada a objetos. Este motor permite manipular simultáneamente el componente ASCII y el componente visual del texto, lo que posibilita que los tipos tengan propiedades interactivas.
 
 Para esta investigación su relevancia es fundacional al establecer la base tecnológica para tratar la tipografía como un organismo vivo, consolidándose como uno de los trabajos pioneros en la materia tras los primeros experimentos de los investigadores del MIT Media Lab.
 

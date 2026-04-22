@@ -15,11 +15,11 @@ permalink: /referentes/iso-type-generator/
 
 
 ### Relevancia
-ISO Type Generator es una herramienta web desarrollada a medida para construir la identidad visual del centro cultural Future Campus Ruhr. El sistema funciona como un traductor gráfico que convierte inputs de texto, dibujo libre o archivos de imagen en estructuras isométricas tridimensionales, permitiendo al usuario definir parámetros como color, perspectiva y animación sobre una retícula. 
+ISO Type Generator es una herramienta web para diseñar la identidad visual del centro cultural Future Campus Ruhr. El sistema funciona como un traductor gráfico que convierte entradas de texto, dibujos o imágenes en estructuras isométricas tridimensionales, permitiendo al usuario definir parámetros como color, perspectiva y animación sobre una retícula. 
 
-Su aportación reside en situar un generador de código en el centro del sistema de identidad corporativa. En lugar de definir normas gráficas estáticas, el proyecto entrega una herramienta de producción que estandariza la creación de activos visuales mediante reglas procedimentales, garantizando coherencia visual a la vez que permite una diversidad formal infinita. 
+Su aportación reside en situar un generador de código en el centro del sistema de identidad corporativa. En lugar de definir normas gráficas estáticas, el proyecto entrega una herramienta de producción que estandariza la creación de activos visuales mediante reglas procedimentales, garantizando coherencia visual a la vez que permite una diversidad formal infinita.
 
-La relevancia de este proyecto para la investigación radica en que ejemplifica la sistematización de la identidad dinámica a través de software generativo. Demuestra cómo una herramienta personalizada evoluciona la manera de conceptualizar una marca, permitiendo la generación estandarizada de recursos gráficos y consolidando la programación creativa como eje central del branding.
+La relevancia de este proyecto para la investigación radica en que ejemplifica la sistematización de la identidad dinámica a través de *software* generativo. Demuestra cómo una herramienta personalizada evoluciona la manera de conceptualizar una marca, permitiendo la generación estandarizada de recursos gráficos personalizados y consolidando la programación creativa tipográfica como eje central del *branding*.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

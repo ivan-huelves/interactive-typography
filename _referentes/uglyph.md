@@ -15,7 +15,7 @@ permalink: /referentes/uglyph/
 
 
 ### Relevancia
-Uglyph es una herramienta web de *mutación vectorial* desarrollada por RETRY Studio. La aplicación funciona como un generador de formas que permite importar archivos SVG o crear texto para someterlos a procesos de colisión, deformación y *glitch* vectorial mediante algoritmos físicos.
+Uglyph es una herramienta web desarrollada por Retry Studio que funciona como un generador de formas que permite importar archivos SVG o crear texto para someterlos a procesos de colisión, deformación y *glitch* vectorial mediante algoritmos físicos.
 
 Su aportación consiste en la sistematización de la estética de la imperfección digital a través de una herramienta de control preciso. El proyecto valida la filosofía del estudio de crear sus propias herramientas para definir un lenguaje visual único, democratizando el acceso a técnicas de distorsión vectorial complejas que normalmente requerirían programación a medida.
 

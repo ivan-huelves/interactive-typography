@@ -19,7 +19,7 @@ Poemas no meio do caminho es una obra de literatura digital que propone una expe
 
 Su principal aportación es la transformación del acto de lectura en una experiencia de exploración espacial. La obra convierte al lector en un sujeto activo que debe recorrer literalmente el camino para que el poema emerja, fusionando la lírica con la navegación inmersiva.
 
-La relevancia para esta investigación reside en su planteamiento de la lectura inmersiva y la relación espacial entre el usuario y la tipografía. Es un referente clave para comprender cómo el texto puede ocupar un entorno tridimensional, demostrando que la interacción no solo afecta a la forma de la letra, sino al modo de acceso de la información.
+La relevancia para esta investigación reside en su planteamiento de la lectura inmersiva y la relación espacial entre el usuario y la tipografía. Es un referente clave para comprender cómo el texto puede ocupar un entorno tridimensional, demostrando que la interacción no solo afecta a la forma del glifo, sino al modo de acceso de la información.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

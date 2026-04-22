@@ -17,7 +17,7 @@ permalink: /referentes/genoma-grotesk/
 ### Relevancia
 Genoma Grotesk es una tipografía variable diseñada para adaptarse a las condiciones lumínicas del entorno. Utilizando el sensor de luz de un dispositivo, la fuente ajusta automáticamente el eje de variación peso para mantener un contraste y una legibilidad óptimos.
 
-Su principal aportación es la conexión directa entre un factor ambiental (la luz) y una variable tipográfica (el peso). De esta forma, materializa el concepto de una tipografía que se ajusta a su contexto para mejorar la experiencia del lector.
+Su principal aportación es la conexión directa entre un factor ambiental y una variable tipográfica. De esta forma, materializa el concepto de un tipo que se ajusta a su contexto para mejorar la experiencia del lector.
 
 La relevancia de este proyecto es que es un claro ejemplo de cómo la tipografía interactiva puede utilizarse para resolver problemas concretos de legibilidad y accesibilidad.
 

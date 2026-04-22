@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Experimentos AR (Women of Type y CANAL)"
+title: "Experimentos AR (Women of Type y Canal)"
 author: "Beatriz Lozano"
 year: "2021"
 thumbnail: "/interactive-typography/images/referentes/experimentos ar 01.jpg"
@@ -8,18 +8,18 @@ permalink: /referentes/experimentos-ar-women-of-type-y-canal/
 ---
 **Beatriz Lozano, 2021**
 
-![Imagen de Experimentos AR (Women of Type y CANAL)](/interactive-typography/images/referentes/experimentos ar 01.jpg)
+![Imagen de Experimentos AR (Women of Type y Canal)](/interactive-typography/images/referentes/experimentos ar 01.jpg)
 
-![Imagen de Experimentos AR (Women of Type y CANAL)](/interactive-typography/images/referentes/experimentos ar 02.jpg)
+![Imagen de Experimentos AR (Women of Type y Canal)](/interactive-typography/images/referentes/experimentos ar 02.jpg)
 
 
 
 ### Relevancia
-Esta entrada reúne dos proyectos donde Beatriz Lozano integra la realidad aumentada en soportes editoriales impresos. En Women of Type, utiliza su tipografía variable Ancho para animar un mensaje de inclusión sobre el libro físico mediante códigos QR, mientras que en CANAL diseña filtros que activan las portadas de la publicación, extendiendo la narrativa visual de la calle Canal de Nueva York al entorno digital. 
+Esta entrada reúne dos proyectos donde Beatriz Lozano integra la realidad aumentada en soportes editoriales impresos. En Women of Type, utiliza la tipografía variable Ancho para animar un mensaje de inclusión sobre el libro físico mediante códigos QR, mientras que en Canal diseña filtros que activan las cubiertas de la publicación, extendiendo la narrativa visual de la calle Canal de Nueva York al entorno digital. 
 
-Su principal aportación es la hibridación efectiva entre el diseño editorial estático y la experiencia digital inmersiva. Lozano demuestra que la tipografía no tiene por qué limitarse a la tinta sobre el papel; mediante la realidad aumentada, convierte la lectura en un acto performativo donde la letra adquiere volumen y movimiento al ser mediada por la cámara. 
+Su principal aportación es la hibridación entre el diseño editorial estático y la experiencia digital inmersiva. Lozano demuestra que la tipografía mediante la realidad aumentada convierte la lectura en un acto performativo donde el glifo adquiere volumen y movimiento al ser mediada por la cámara. 
 
-La relevancia de estos proyectos para la investigación reside en que ilustran la aplicación de la tipografía interactiva como una capa de valor añadido en productos físicos. Aportan modelos claros de cómo la tecnología de realidad aumentada permite a la tipografía expandirse fuera del soporte impreso, transformando proyectos editoriales e identidades en una experiencia espacial e interactiva.
+La relevancia de estos proyectos para la investigación reside en que ilustran la aplicación de la tipografía interactiva como una capa de valor añadido en productos físicos, transformando proyectos editoriales e identidades en una experiencia espacial e interactiva.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

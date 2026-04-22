@@ -17,11 +17,11 @@ permalink: /referentes/typevoice/
 
 
 ### Relevancia
-TypeVoice es un sistema de generación tipográfica interactiva creado para una campaña de comunicación de los Webby Awards. La herramienta traduce las cualidades de la voz del usuario (tono, volumen, ritmo) en atributos de una fuente que se genera en tiempo real, convirtiendo la expresión vocal en una herramienta de diseño.
+TypeVoice es un sistema de generación tipográfica interactiva creado para una campaña de comunicación de los Webby Awards. La herramienta traduce las cualidades de la voz del usuario (tono, volumen, ritmo) en atributos de una tipografía que se genera en tiempo real.
 
-Su principal aportación es la creación de una experiencia de personalización tipográfica a través de una interfaz natural como la voz, permitiendo que cualquier usuario sin conocimientos técnicos pueda generar una fuente única. Su aplicación en un contexto profesional, reconocida con dos Leones de Plata en Cannes Lions 2017, demuestra su viabilidad más allá del ámbito puramente experimental.
+Su principal aportación es la creación de una experiencia de personalización tipográfica a través de una interfaz natural como la voz, permitiendo que cualquier usuario sin conocimientos técnicos pueda generar una tipografía única. Su aplicación en un contexto profesional, reconocida con dos Leones de Plata en Cannes Lions 2017, demuestra su viabilidad más allá del ámbito puramente experimental.
 
-La relevancia de este proyecto para la investigación es que valida el uso de la tipografía interactiva y generativa en campañas de comunicación a gran escala. Destaca por convertir la voz en una herramienta de diseño directa, abriendo nuevas posibilidades para la personalización y la expresividad en el branding.
+La relevancia de este proyecto para la investigación es que valida el uso de la tipografía interactiva y generativa en campañas de comunicación a gran escala. Destaca por convertir la voz en una herramienta de diseño, abriendo nuevas posibilidades para la personalización y la expresividad en el *branding*.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

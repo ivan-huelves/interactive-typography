@@ -15,7 +15,7 @@ permalink: /referentes/in-order-to-control/
 
 
 ### Relevancia
-In Order to Control es una instalación interactiva donde el texto se proyecta directamente sobre el cuerpo del espectador. El sistema adapta la tipografía a la silueta del individuo, utilizando su cuerpo como una superficie de lectura activa y personal.
+In Order to Control es una instalación interactiva donde el texto se proyecta directamente sobre el cuerpo del espectador. El sistema adapta los tipos a la silueta del individuo, utilizando su cuerpo como una superficie de lectura.
 
 Su principal aportación es que el mensaje no se presenta de forma neutra, sino que cada persona lo recibe y visualiza de una manera única, dependiendo de su propia forma y presencia física.
 

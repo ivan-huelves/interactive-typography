@@ -17,9 +17,9 @@ permalink: /referentes/facetype/
 
 
 ### Relevancia
-Facetype es un proyecto experimental que vincula una fuente variable con inteligencia artificial de código abierto (face-api.js) para detectar expresiones faciales en tiempo real. El sistema asocia cinco emociones básicas a estilos tipográficos específicos, transformando la fuente dinámicamente según los gestos del usuario frente a la cámara. 
+Facetype es un proyecto experimental que vincula una fuente variable con inteligencia artificial de código abierto (face-api.js) para detectar expresiones faciales en tiempo real. El sistema asocia cinco emociones básicas a estilos tipográficos específicos, transformando el tipo dinámicamente según los gestos del usuario frente a la cámara. 
 
-Su principal aportación es la creación de una interfaz gestual donde la tipografía actúa como un espejo emocional del emisor. Al conectar la codificación creativa con el diseño de fuentes, propone una forma de recuperar los matices no verbales y la empatía que habitualmente se pierden en la comunicación textual digital. 
+Su principal aportación es la creación de una interfaz gestual donde el tipo actúa como un espejo emocional del emisor. Al conectar la codificación creativa con el diseño de fuentes, propone una forma de recuperar los matices no verbales y la empatía que habitualmente se pierden en la comunicación textual digital. 
 
 La relevancia de este proyecto para la investigación reside en que explora el potencial de las fuentes variables para modular el tono del mensaje automáticamente. Anticipa un futuro donde la tipografía podría integrarse en teclados digitales para responder a la expresión facial, funcionando como una extensión semántica del cuerpo humano.
 

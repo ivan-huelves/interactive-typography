@@ -17,11 +17,11 @@ permalink: /referentes/illuminated-manuscript/
 
 
 ### Relevancia
-Illuminated Manuscript es una instalación interactiva que consiste en un gran libro físico, blanco y sin texto. A medida que el usuario toca o pasa sus páginas, un proyector de vídeo *imprime* virtualmente tipografía sobre su superficie.
+Illuminated Manuscript es una instalación interactiva que consiste en un gran libro físico, blanco y sin texto. A medida que el usuario toca o pasa sus páginas, un proyector de vídeo *imprime* virtualmente tipos sobre su superficie.
 
-Su principal aportación reside en el uso de la gestualidad natural de la lectura (pasar la página, recorrer el texto con la mano) como mecanismo de interacción. El sistema utiliza sensores de sonar para detectar los movimientos de las manos, permitiendo que el lector manipule y combine el texto, explorando así una forma de interacción que trasciende la pantalla.
+Su principal aportación reside en el uso de la gestualidad natural de la lectura (pasar la página, recorrer el texto con la mano) como mecanismo de interacción. El sistema utiliza sensores para detectar los movimientos de las manos, permitiendo que el lector manipule y combine el texto.
 
-La relevancia de este proyecto es que hibrida de manera muy sofisticada un objeto físico tradicional (el libro) con la tipografía interactiva. Convierte el texto en un elemento táctil que habita el mismo espacio físico que el lector, estableciendo un precedente fundamental para las experiencias tipográficas inmersivas y tangibles.
+La relevancia de este proyecto es que hibrida de manera muy sofisticada un objeto físico tradicional con la tipografía interactiva. Convierte el texto en un elemento táctil que habita el mismo espacio físico que el lector, estableciendo un precedente fundamental para las experiencias tipográficas inmersivas y tangibles.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

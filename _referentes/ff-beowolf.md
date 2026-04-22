@@ -23,9 +23,9 @@ permalink: /referentes/ff-beowolf/
 ### Relevancia
 FF Beowolf es un sistema tipográfico pionero que introdujo la aleatoriedad programada en la impresión digital. Mediante la manipulación directa del código PostScript, sustituía los comandos estándar de trazado por una instrucción personalizada (denominada freakto) que alteraba aleatoriamente los contornos de los glifos cada vez que se enviaban al dispositivo de impresión.
 
-Su principal aportación es la ruptura del paradigma de repetición inherente a la imprenta industrial. El proyecto materializa la disociación entre el archivo digital visualizado en pantalla (input) y el resultado impreso (output), demostrando que la forma tipográfica puede comportarse como un organismo vivo y cambiante.
+Su principal aportación es la ruptura del paradigma de repetición inherente a la imprenta industrial. El proyecto materializa la disociación entre el archivo digital visualizado en pantalla y el resultado impreso, demostrando que el tipo puede comportarse como un organismo vivo y cambiante.
 
-La relevancia para esta investigación reside en su condición de precedente histórico fundamental de la tipografía generativa. Establece las bases conceptuales para entender la tipografía no como un elemento estático, sino como un software capaz de ejecutar instrucciones en tiempo real, anticipando la lógica de mutabilidad que hoy define a la tipografía variable interactiva.
+La relevancia para esta investigación reside en su condición de precedente histórico fundamental de la tipografía generativa. Establece las bases conceptuales para entender la tipografía no como un elemento estático, sino como un *software* capaz de ejecutar instrucciones en tiempo real, anticipando la lógica de mutabilidad que hoy define a la tipografía interactiva.
 
 ### Clasificación
 * **Década:** [Década de 1980](/interactive-typography/etiquetas/decada-de-1980/)

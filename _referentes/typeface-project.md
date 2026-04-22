@@ -31,11 +31,11 @@ permalink: /referentes/typeface-project/
 
 
 ### Relevancia
-Typeface Project es un sistema que vincula el reconocimiento facial con la tipografía interactiva. El software captura gestos espontáneos del usuario, como una sonrisa, y los traduce en modificaciones dinámicas de los glifos en tiempo real.
+Typeface Project es un sistema que vincula el reconocimiento facial con la tipografía interactiva. El *software* captura gestos espontáneos del usuario, como una sonrisa, y los traduce en modificaciones dinámicas de los tipos en tiempo real.
 
-Su principal aportación es la exploración de la personalización tipográfica a través de un input biométrico. El proyecto evidencia de forma explícita la tensión que se produce entre la innovación formal, impulsada por la interacción, y la legibilidad tradicional del texto.
+Su principal aportación es la exploración de la personalización tipográfica a través de un *input* biométrico. El proyecto evidencia de forma explícita la tensión que se produce entre la innovación formal, impulsada por la interacción, y la legibilidad tradicional del glifo.
 
-La relevancia para esta investigación es que se trata de un referente temprano de la intersección entre la visión por computador y el diseño tipográfico interactivo. Demuestra un modelo en el que el rostro y la expresión humana se convierten en la interfaz para la manipulación de la forma tipográfica.
+La relevancia para esta investigación es que se trata de un referente temprano de la intersección entre la visión por computador y el diseño tipográfico interactivo.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

@@ -13,11 +13,11 @@ permalink: /referentes/prosodic-font/
 
 
 ### Relevancia
-Prosodic Font es un sistema experimental que traduce los parámetros prosódicos del habla (melodía y ritmo) en transformaciones tipográficas dinámicas. Para lograrlo, cada glifo no se trata como una forma única, sino que se descompone en trazos más básicos como las astas. Estos trazos se modifican en tiempo real en atributos como forma, tamaño, peso y orientación, de acuerdo con las variaciones de la señal de voz.
+Prosodic Font es un sistema experimental que traduce los parámetros prosódicos del habla (melodía y ritmo) en transformaciones tipográficas dinámicas. Para lograrlo, cada glifo no se trata como una forma única, sino que se descompone en trazos más básicos como puede ser un asta. Estos trazos se modifican en tiempo real en atributos como forma, tamaño, peso y orientación, de acuerdo con las variaciones de la señal de voz.
 
-Su principal aportación es la demostración, validada con pruebas de usuario, de que un sistema de transformaciones gráficas puede representar eficazmente las variaciones prosódicas del habla. El proyecto demostró que los usuarios eran capaces de identificar correctamente la correspondencia entre los archivos visuales generados por Prosodic Font y los archivos de audio originales, siendo el ritmo y el acento vocal los factores más determinantes en esta percepción.
+Su principal aportación es la demostración, validada con pruebas de usuario, de que un sistema de variables tipográficas puede representar las variaciones prosódicas del habla. El proyecto demostró que los usuarios eran capaces de identificar correctamente la correspondencia entre los glifos generados por Prosodic Font y los archivos de audio, siendo el ritmo y el acento vocal los factores más determinantes en esta percepción.
 
-La relevancia para esta investigación es que se trata de un ejemplo fundacional de la función de *Expresión paralingüística*. El proyecto prueba que la tipografía interactiva puede capturar y transmitir las cualidades temporales y dinámicas del habla, enriqueciendo el texto con la expresividad de la voz humana.
+La relevancia para esta investigación es que se trata de un ejemplo fundacional de la función de expresión paralingüística. El proyecto prueba que la tipografía interactiva puede capturar y transmitir las cualidades temporales y dinámicas del habla, enriqueciendo el texto con la expresividad de la voz humana.
 
 ### Clasificación
 * **Década:** [Década de 1990](/interactive-typography/etiquetas/decada-de-1990/)

@@ -13,11 +13,11 @@ permalink: /referentes/physarum-type-tool/
 
 
 ### Relevancia
-Physarum Type Tool es un software de código abierto que simula comportamientos biológicos de crecimiento sobre la estructura tipográfica. El sistema genera ramificaciones orgánicas (inspiradas en el patrón del moho Physarum) a partir de los glifos, funcionando como un proceso autónomo. 
+Physarum Type Tool es un *software* de código abierto que simula comportamientos biológicos de crecimiento sobre la estructura de los glifos. El sistema genera ramificaciones orgánicas (inspiradas en el patrón del moho physarum) funcionando como un proceso autónomo. 
 
-Su aportación consiste en introducir la biomímesis y la imprevisibilidad natural en el diseño digital. 
+Su aportación consiste en introducir la biomímesis y la imprevisibilidad natural en el diseño  de tipos.
 
-La relevancia de este proyecto para la investigación radica en que cuestiona el control absoluto del diseñador sobre la forma final. Propone un modelo de *co-autoría con el algoritmo*, donde la tipografía se trata como un organismo vivo que evoluciona en tiempo real, transformando la escritura en un cultivo digital dinámico.
+La relevancia de este proyecto para la investigación radica en que cuestiona el control absoluto del diseñador sobre la forma final. Propone un modelo de coautoría con el algoritmo, donde la tipografía se trata como un organismo vivo que evoluciona en tiempo real, transformando la escritura en un cultivo digital dinámico.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

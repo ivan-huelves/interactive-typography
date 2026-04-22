@@ -13,11 +13,11 @@ permalink: /referentes/speak-dont-speak/
 
 
 ### Relevancia
-Speak Don*t Speak es una pieza web interactiva que sustituye el ratón y el teclado por el rostro del usuario como dispositivo de entrada. Utilizando la webcam, el sistema detecta la apertura de la boca del usuario. Al abrirla o cerrarla, la tipografía en pantalla cambia dinámicamente entre los estados *Speak* y *Don*t Speak*, modificando su tamaño y disposición.
+Speak Don*t Speak es una sitio web interactivo que sustituye el ratón y el teclado por el rostro del usuario como dispositivo de entrada. Utilizando la *webcam*, el sistema detecta la apertura de la boca del usuario. Al abrirla o cerrarla, el tipo cambia dinámicamente entre los estados *Speak* y *Don*t Speak*, modificando su cuerpo y disposición.
 
-Su aportación técnica consiste en vincular directamente la fisiología humana del habla con la expresión formal de la tipografía. 
+Su aportación técnica consiste en vincular directamente la fisiología humana del habla con la expresión formal del glifo. 
 
-La relevancia del proyecto radica en su crítica a las interfaces estandarizadas al obligar al usuario a gesticular físicamente para escribir en la pantalla. De esta forma, transforma la escritura digital en una performance corporal, devolviendo la consciencia física a un entorno digital.
+La relevancia del proyecto radica en su crítica a las interfaces estandarizadas al obligar al usuario a gesticular físicamente para escribir en la pantalla. De esta forma, transforma la escritura digital en una *performance* corporal, devolviendo la consciencia física a un entorno digital.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

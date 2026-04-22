@@ -17,11 +17,11 @@ permalink: /referentes/laser-letters/
 
 
 ### Relevancia
-Laser Letters es una instalación interactiva que proyecta caracteres tipográficos sobre una superficie. Estos caracteres se comportan como objetos con propiedades físicas dentro de la proyección digital.
+Laser Letters es una instalación interactiva que proyecta tipos sobre una superficie. Estos tipos se comportan como objetos con propiedades físicas dentro de la proyección digital.
 
-Su principal aportación consiste en el uso de un puntero láser como una interfaz gestual. Esta interfaz permite al usuario *tocar* y *romper* las letras proyectadas, las cuales reaccionan de forma realista gracias a una simulación física.
+Su principal aportación consiste en el uso de un puntero láser como una interfaz gestual. Esta interfaz permite al usuario tocar y romper los tipos proyectados, los cuales reaccionan de forma realista gracias a una simulación física.
 
-La relevancia de este proyecto para la investigación reside en el tratamiento de los caracteres tipográficos como objetos físicos dentro de un entorno digital. Demuestra un modelo de interacción tangible y directa donde un gesto (el puntero láser) tiene consecuencias físicas simuladas sobre la tipografía.
+La relevancia del proyecto para esta investigación reside en evidenciar cómo el movimiento humano genera alteraciones estructurales directas sobre el glifo, superando su tradicional concepción estática.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

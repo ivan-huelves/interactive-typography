@@ -17,11 +17,11 @@ permalink: /referentes/vave/
 
 
 ### Relevancia
-La herramienta tipográfica web diseñada para Vave actúa como eje central de la identidad visual de la compañía financiera. El proyecto trasciende la lógica del manual de identidad tradicional para establecer un nuevo modelo basado en el diseño de sistemas generativos, lo cual permite la producción de activos tipográficos estáticos y animados según las necesidades del usuario.
+La herramienta tipográfica web diseñada para Vave actúa como eje central de la identidad visual de la compañía financiera. El proyecto trasciende la lógica de identidad tradicional para establecer un nuevo modelo basado en el diseño de sistemas generativos, lo cual permite la producción de tipos estáticos y animados según las necesidades del usuario.
 
-Su aportación técnica más destacada es la gestión fluida de múltiples sistemas de escritura complejos (Latín, Árabe, Coreano y Chino) dentro del mismo entorno generativo, resolviendo problemas de dirección de lectura y morfología.
+Su aportación técnica más destacada es la gestión fluida de múltiples sistemas de escritura (latín, árabe, coreano y chino) dentro del mismo entorno generativo, resolviendo problemas de dirección de lectura y morfología.
 
-Para esta investigación, la relevancia del caso radica en validar la capacidad de la tipografía interactiva para erigirse como el sistema vertebrador de una identidad visual. Asimismo, demuestra que la investigación experimental con herramientas propias desarrollada por Schultzschultz no se limita al ámbito teórico, sino que encuentra una aplicación práctica y efectiva en proyectos comerciales de alta complejidad.
+Para esta investigación, la relevancia del caso radica en validar la capacidad de la tipografía interactiva para convertirse en el sistema vertebrador de una identidad visual. Asimismo, demuestra que la investigación experimental con herramientas propias desarrollada por Schultzschultz no se limita al ámbito teórico, sino que encuentra una aplicación práctica y efectiva en proyectos comerciales de alta complejidad.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

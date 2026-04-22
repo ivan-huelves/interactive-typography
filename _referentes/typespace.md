@@ -17,9 +17,9 @@ permalink: /referentes/typespace/
 ### Relevancia
 Typespace se autodefine como la primera tipografía variable diseñada específicamente para realidad aumentada. A diferencia de las fuentes tradicionales extruidas, esta tipografía está construida mediante una matriz de cubos 3D para optimizar el rendimiento de procesamiento en tiempo real. 
 
-Su aportación técnica consiste en democratizar el diseño espacial al funcionar como una herramienta de creación rápida que permite a cualquier diseñador generar composiciones tipográficas en AR sin necesidad de conocimientos de modelado 3D o programación. 
+Su aportación técnica consiste en ofrecer una herramienta de creación rápida que permite a cualquier diseñador generar composiciones tipográficas en realiad aumentada sin necesidad de conocimientos de modelado 3D o programación. 
 
-La relevancia del proyecto para la investigación radica en cómo, al facilitar la integración de la tipografía en el espacio tridimensional, le otorga nuevas cualidades y significaciones. Al liberar a los glifos de las dos dimensiones, estos interactúan con el entorno, transformando la lectura en una experiencia espacial e inmersiva.
+La relevancia del proyecto para la investigación radica en cómo, al facilitar la integración de la tipografía en el espacio tridimensional, le otorga nuevas cualidades y significaciones. Al liberar a los tipos de las dos dimensiones, estos interactúan con el entorno, transformando la lectura en una experiencia espacial e inmersiva.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

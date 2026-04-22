@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Segundo Soneto Meio Barroco"
+title: "Segundo soneto meio barroco"
 author: "Alckmar Luiz dos Santos y Gilbertto Prado"
 year: "2000"
 thumbnail: "/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg"
@@ -8,14 +8,14 @@ permalink: /referentes/segundo-soneto-meio-barroco/
 ---
 **Alckmar Luiz dos Santos y Gilbertto Prado, 2000**
 
-![Imagen de Segundo Soneto Meio Barroco](/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg)
+![Imagen de Segundo soneto meio barroco](/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg)
 
 
 
 ### Relevancia
-Este proyecto explora la lectura de un poema dentro de un entorno tridimensional inmersivo, donde la tipografía se integra en el propio espacio virtual. Para su construcción se emplea la tecnología VRML, que permite que los caracteres adquieran volumen y profundidad.
+Este proyecto explora la lectura de un poema dentro de un entorno tridimensional inmersivo, donde la tipografía se integra en el propio espacio virtual. Para su construcción se emplea la tecnología VRML (*Virtual Reality Modeling Language*), que permite que los glifos adquieran volumen.
 
-Su principal aportación es el uso de la navegación del usuario como el input que revela y permite recorrer las estrofas. Esto transforma el acto de leer en una experiencia espacial y gestual, superando la bidimensionalidad del soporte impreso y de la mayoría de soportes digitales.
+Su principal aportación es el uso de la navegación del usuario como el *input* que revela y permite recorrer las estrofas. Esto transforma el acto de leer en una experiencia espacial y gestual, superando la bidimensionalidad tradicional de soporte impreso y digital.
 
 La relevancia de este proyecto para la investigación radica en que desafía las concepciones tradicionales de la lectura. Al situar el poema en un entorno volumétrico explorable, la legibilidad deja de ser estática y pasa a depender de la posición y el movimiento del lector en el espacio.
 

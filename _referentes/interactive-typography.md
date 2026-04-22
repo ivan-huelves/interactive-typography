@@ -13,11 +13,11 @@ permalink: /referentes/interactive-typography/
 
 
 ### Relevancia
-InteractiveTypography es un prototipo para una aplicación móvil que explora cómo la tipografía puede reaccionar a su entorno. El proyecto propone tres modos de interacción que utilizan los sensores del dispositivo: *Luz*, donde el grosor de la fuente se ajusta a la luminosidad ambiental; *Sonido*, donde la tipografía reacciona a los niveles de ruido; y *Movimiento*, donde se transforma según el movimiento del dispositivo.
+InteractiveTypography es un prototipo para una aplicación móvil que explora cómo la tipografía puede reaccionar a su entorno. El proyecto propone tres modos de interacción que utilizan los sensores del dispositivo: luz, donde el grosor del glifo se ajusta a la luminosidad ambiental; sonido, donde el tipo reacciona a los niveles de ruido; y movimiento, donde se transforma según el movimiento del dispositivo.
 
-Su principal aportación es la exploración de una tipografía sensible al contexto, presentando funcionalidades concretas para la adaptación de los glifos a variables del entorno, como la condición lumínica.
+Su principal aportación es la exploración de una tipografía sensible al contexto, presentando funcionalidades concretas para la adaptación de los tipos a variables del entorno.
 
-La relevancia de este proyecto para la investigación es que se trata de un precursor conceptual de funcionalidades que se están desarrollando en la actualidad con la tipografía interactiva, como la adaptación a las condiciones ambientales para mejorar la legibilidad o la expresividad.
+La relevancia de este proyecto para la investigación es que se trata de un precursor conceptual de funcionalidades que se están desarrollando en la actualidad con la tipografía interactiva, como la adaptación a las condiciones ambientales para mejorar la legibilidad.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

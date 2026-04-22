@@ -13,11 +13,11 @@ permalink: /referentes/kinetic-instant-messenger/
 
 
 ### Relevancia
-Kinetic Instant Messenger es un sistema de mensajería instantánea que incorpora tipografía para enriquecer la expresividad del texto. El sistema permitía aplicar efectos tipográficos animados en tiempo real para añadir matices emocionales a la conversación, superando las limitaciones expresivas de los emoticonos.
+Kinetic Instant Messenger es un sistema de mensajería instantánea que emplea la tipografía para enriquecer la expresividad del texto. El sistema permitía aplicar efectos tipográficos animados en tiempo real para añadir matices emocionales a la conversación, superando las limitaciones expresivas de los emoticonos.
 
-Su principal aportación fue la implementación de un sistema de atajos de teclado para aplicar los efectos cinéticos. Esta solución abordó una de las limitaciones clave de usabilidad en este tipo de sistemas, haciendo la aplicación de la tipografía expresiva más directa y funcional para el usuario.
+Su principal aportación fue la implementación de un sistema de atajos de teclado para aplicar los efectos cinéticos. Esta solución abordó una de las limitaciones clave de usabilidad en este tipo de sistemas, haciendo su uso más funcional para el usuario.
 
-La relevancia para esta investigación es que el proyecto marcó un precedente en la exploración de la tipografía como medio para expresar emociones en entornos de chat. Abrió una línea de investigación sobre la integración de la tipografía en la comunicación digital cotidiana.
+La relevancia para esta investigación es que el proyecto marcó un precedente en la exploración de la tipografía como medio para expresar emociones en entornos de mensajería.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

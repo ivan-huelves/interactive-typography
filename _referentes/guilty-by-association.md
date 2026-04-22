@@ -19,9 +19,9 @@ permalink: /referentes/guilty-by-association/
 
 
 ### Relevancia
-La identidad visual de Guilty By Association se centra en un logotipo generativo que nunca se repite para representar la diversidad de una comunidad de artistas marginados sin imponer la estética subjetiva de un solo diseñador. Talia Cotton desarrolló un algoritmo personalizado que dibuja las siglas simulando la imperfección y variedad de la caligrafía humana sin la intervención directa de una persona.
+La identidad visual de Guilty By Association se centra en un logotipo generativo que nunca se repite para representar la diversidad de una comunidad de artistas sin imponer la estética subjetiva de un solo diseñador. Talia Cotton desarrolló un algoritmo que dibuja las siglas simulando la imperfección y variedad de la caligrafía humana sin la intervención directa de una persona.
 
-Su aportación técnica consiste en programar la personalidad del trazo mediante un sistema que construye vectorialmente cada letra en tiempo real con variaciones basadas en varios parámetros como grosor, capas, etc., en lugar de elegir entre archivos pre-diseñados.
+Su aportación consiste en programar la personalidad del trazo mediante un sistema que construye cada glifo en tiempo real con variaciones basadas en parámetros como grosor, capas, etc., en lugar de elegir entre archivos prediseñados.
 
 La relevancia del proyecto para la investigación radica en demostrar que la tipografía puede erigirse como el elemento central de una identidad visual dinámica al convertirse en un componente interactivo y generativo capaz de sostener todo el peso de la marca.
 

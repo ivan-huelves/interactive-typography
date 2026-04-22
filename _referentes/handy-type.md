@@ -15,11 +15,11 @@ permalink: /referentes/handy-type/
 
 
 ### Relevancia
-Handy Type es un sistema que permite a cualquier usuario diseñar tipografía a través de gestos manuales. Mediante un sistema a medida que integra captura de movimiento e inteligencia artificial, los datos de las manos se traducen directamente en formas de carácter, convirtiendo la creación tipográfica en una experiencia accesible, lúdica y personalizada.
+Handy Type es un sistema que permite a cualquier usuario diseñar una tipografía a través de gestos manuales. Mediante un sistema a medida que integra captura de movimiento e inteligencia artificial, los datos de las manos se traducen directamente en las formas de los glifos convirtiendo la creación tipográfica en una experiencia accesible, lúdica y personalizada.
 
-Su principal aportación es que desplaza el proceso de diseño desde la figura del tipógrafo experto hacia la participación activa del usuario. La innovación radical del proyecto es el uso de datos corporales (gestos) como parámetros directos de diseño. Su carácter pionero ha sido reconocido con prestigiosos premios, incluyendo el Best Typeface Design de PRINT, el Typeface of the Year del Tokyo TDC y un Merit Award del ADC.
+Su principal aportación es el uso de datos corporales (gestos) como parámetros directos de diseño tipográfico. Su carácter pionero ha sido reconocido con prestigiosos premios, incluyendo el Best Typeface Design de PRINT, el Typeface of the Year del Tokyo TDC y un Merit Award del ADC.
 
-La relevancia para esta investigación reside en que es un ejemplo claro de cómo los datos gestuales pueden alimentar un sistema tipográfico generativo. Demuestra una vía para crear tipografías participativas, donde el cuerpo del usuario se convierte en la principal herramienta de diseño.
+La relevancia para esta investigación reside en que es un ejemplo de cómo los datos gestuales pueden alimentar un sistema tipográfico generativo. Abre una vía para crear tipografías donde el cuerpo del usuario se convierte en la principal herramienta de diseño.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

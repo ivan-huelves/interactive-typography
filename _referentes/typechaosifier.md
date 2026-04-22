@@ -19,9 +19,9 @@ permalink: /referentes/typechaosifier/
 ### Relevancia
 typeChaosifier es un generador web desarrollado en p5.js que permite la manipulación tipográfica mediante la simulación de fenómenos naturales. El sistema articula ocho entornos visuales distintos (como estructuras fractales o movimientos de enjambre) donde el usuario interviene en las variables de control para transitar entre estados de orden y caos en tiempo real. 
 
-Su principal aportación es la hibridación entre el diseño gráfico y las ciencias naturales, utilizando el código para dotar a la letra de propiedades casi biológicas. El proyecto transforma el lienzo digital en un espacio interactivo donde la legibilidad no es un estado fijo, sino una cualidad que emerge o se disuelve según la intensidad de las fuerzas aplicadas por el usuario. 
+Su principal aportación es la hibridación entre el diseño gráfico y las ciencias naturales, utilizando el código para dotar al tipo de propiedades casi biológicas. El proyecto transforma el lienzo digital en un espacio interactivo donde la legibilidad no es un estado fijo, sino una cualidad que emerge o se disuelve según la intensidad de las fuerzas aplicadas por el usuario. 
 
-La relevancia para esta investigación radica en el uso de la simulación algorítmica como método de diseño. Ejemplifica cómo la programación creativa permite superar la noción de animación lineal, proponiendo en su lugar un sistema de tipografía procedimental donde la forma responde de manera orgánica.
+La relevancia para esta investigación radica en el uso de la simulación algorítmica como método de diseño. Ejemplifica cómo la programación creativa permite superar la noción de animación lineal, proponiendo en su lugar un sistema de tipografía procedimental donde el tipo responde de manera orgánica.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

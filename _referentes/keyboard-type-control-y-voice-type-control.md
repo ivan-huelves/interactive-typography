@@ -15,9 +15,9 @@ permalink: /referentes/keyboard-type-control-y-voice-type-control/
 
 
 ### Relevancia
-La investigación *Expressive Typography* explora la creación de tipografía interactiva a través de una serie de experimentos con interfaces de control no convencionales. En Keyboard Type Control, se manipulan los glifos directamente al tocar un instrumento musical. En Voice Type Control, se vincula el volumen con el cuerpo de la tipografía.
+La investigación Expressive Typography explora la creación de tipografía interactiva a través de una serie de experimentos con interfaces de control no convencionales. En Keyboard Type Control, se manipulan los tipos directamente al tocar un instrumento musical. En Voice Type Control, se vincula el volumen con el cuerpo del glifo.
 
-Su principal aportación es el establecimiento de un modelo donde el input sensorial determina la morfología de los caracteres, convirtiendo la tipografía en una *performance* que incorpora la dimensión temporal.
+Su principal aportación es el establecimiento de un modelo donde el *input* sensorial determina la morfología de los glifos, convirtiendo la tipografía en una *performance* que incorpora la dimensión temporal.
 
 La relevancia de estos proyectos es que son precedentes fundamentales que sentaron las bases de la tipografía interactiva. Al explorar interfaces como la voz y los teclados MIDI, demostraron que la tipografía podía funcionar como un sistema interactivo, abriendo la vía a futuras investigaciones sobre la relación entre el sonido, la prosodia y la morfología del glifo.
 

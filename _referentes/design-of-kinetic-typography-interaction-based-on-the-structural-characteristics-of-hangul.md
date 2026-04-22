@@ -13,11 +13,11 @@ permalink: /referentes/design-of-kinetic-typography-interaction-based-on-the-str
 
 
 ### Relevancia
-El proyecto se define como una instalación de arte interactiva que utiliza sensores kinect para capturar la gestualidad del usuario y vincularla con la morfología del sistema de escritura Hangul. El sistema traduce el esqueleto del usuario en una estructura gráfica dinámica. Para ello emplea las coordenadas de las articulaciones con el fin de construir y deformar los módulos tipográficos en tiempo real, permitiendo que el texto imite la postura y la presencia física de la persona en la sala.
+La propuesta se configura como una instalación artística interactiva que integra sensores *kinect* para capturar la gestualidad del usuario y establecer un vínculo con la morfología del sistema de escritura hangul. Mediante la traducción del esquema corporal en una estructura gráfica dinámica, el sistema procesa las coordenadas de las articulaciones de la persona para construir y deformar los tipos en tiempo real, permitiendo que el glifo mimetice la postura y la presencia física del sujeto en el espacio.
 
-Su aportación técnica consiste en el mapeo directo de 15 articulaciones corporales a los trazos geométricos del glifo.
+Su aportación técnica consiste en el mapeo directo de quince articulaciones corporales a los trazos geométricos del glifo.
 
-Su relevancia radica en mostrar cómo la tipografía puede articular instalaciones artísticas y lúdicas. Al permitir que el usuario controle los glifos con su cuerpo, el proyecto convierte el texto en un juego interactivo, validando su potencial para el entretenimiento más allá de su función textual.
+Su relevancia radica en mostrar cómo la tipografía puede articular instalaciones artísticas y lúdicas. Al permitir que el usuario controle los tipos con su cuerpo, el proyecto convierte el texto en un juego interactivo, validando su potencial para el entretenimiento más allá de su función textual.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

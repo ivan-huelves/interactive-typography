@@ -15,7 +15,7 @@ permalink: /referentes/type-as-tone/
 
 
 ### Relevancia
-Type as Tone explora cómo las características emocionales del habla pueden traducirse visualmente a la forma de los glifos. El sistema se basa en tres categorías expresivas principales (felicidad, tristeza y enfado) para modular la apariencia de la tipografía y reflejar el tono de voz del emisor.
+Type as Tone explora cómo las características emocionales del habla pueden traducirse visualmente a la forma de los glifos. El sistema se basa en tres categorías expresivas principales (felicidad, tristeza y enfado) para modular la apariencia del tipo y reflejar el tono de voz del emisor.
 
 Su principal aportación es la creación de un sistema visual que busca reintroducir los matices paralingüísticos en la comunicación escrita. El proyecto propone una vía para enriquecer los mensajes digitales, donde a menudo se pierde la entonación y el gesto, asignando a cada estado emocional un conjunto de transformaciones morfológicas específicas.
 

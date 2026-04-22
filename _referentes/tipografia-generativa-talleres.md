@@ -15,11 +15,11 @@ permalink: /referentes/tipografia-generativa-talleres/
 
 
 ### Relevancia
-Esta investigación se presenta como una serie de talleres y exploraciones sobre la creación de alfabetos mediante código, principalmente con Processing. El trabajo se centra en un enfoque donde el diseñador define un sistema de reglas y parámetros que permiten generar infinidad de variaciones formales de los caracteres.
+Esta investigación se presenta como una serie de talleres sobre la creación de tipografías mediante código, principalmente con Processing. El trabajo se centra en un enfoque donde el diseñador define un sistema de reglas y parámetros que permiten generar infinidad de variaciones formales de los glifos.
 
 La principal aportación de estos experimentos es eminentemente metodológica. Investiga la tipografía no como un objeto estático y cerrado, sino como un sistema dinámico y generativo, cuyo resultado visual emerge de las reglas establecidas en el código.
 
-Aunque se trata de una serie de talleres, su relevancia reside en la figura de Anna Carreras, una de las pioneras clave del arte generativo y el diseño interactivo en España. Su trabajo demuestra un modelo de diseño donde la autoría se desplaza de la creación de la forma final a la creación del sistema que la genera.
+Aunque se trata de una serie de talleres, su relevancia reside en la figura de Anna Carreras, una de las pioneras del arte generativo y el diseño interactivo en España. Su trabajo demuestra un modelo de diseño donde la autoría se desplaza de la creación de la forma final a la creación del sistema que la genera.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

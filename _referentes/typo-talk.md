@@ -13,11 +13,11 @@ permalink: /referentes/typo-talk/
 
 
 ### Relevancia
-Typo Talk es un sistema de mensajería en red, similar a un chat, que utiliza la tipografía como medio principal de comunicación. El usuario escribe un mensaje, selecciona una plantilla de estilo general y el sistema la aplica a cada palabra. Adicionalmente, el sistema consulta un diccionario para asignar plantillas tipográficas más específicas a términos concretos, automatizando así la generación del diseño en tiempo casi real.
+Typo Talk es un sistema de mensajería en red que utiliza la tipografía como medio principal de comunicación. El usuario escribe un mensaje, selecciona una plantilla de estilo y el sistema la aplica a cada palabra. Adicionalmente, el sistema consulta un diccionario para asignar plantillas tipográficas a términos concretos.
 
-Su principal aportación es ser uno de los primeros sistemas funcionales que automatiza la generación de tipografía expresiva para un sistema de comunicación. La innovación clave es su sistema de *plantillas inteligentes* que, a través de un diccionario, permite que el contenido semántico del mensaje influya directamente en la forma visual del texto.
+Su principal aportación es ser uno de los primeros sistemas funcionales que automatiza la generación de tipografía expresiva para un sistema de comunicación.
 
-La relevancia para esta investigación es que el proyecto anticipa los sistemas contemporáneos de procesamiento de lenguaje natural aplicados al diseño, donde el significado del texto genera transformaciones morfológicas. Continúa la línea de investigación sobre mensajes expresivos de Yin Yin Wong, sirviendo de puente hacia desarrollos posteriores en tipografía interactiva.
+La relevancia para esta investigación es que el proyecto anticipa los sistemas contemporáneos de procesamiento de lenguaje natural aplicados al diseño, donde el significado del texto genera transformaciones morfológicas en los tipos. Continúa la línea de investigación sobre mensajes expresivos de Yin Yin Wong, sirviendo de puente hacia desarrollos posteriores en tipografía interactiva.
 
 ### Clasificación
 * **Década:** [Década de 1990](/interactive-typography/etiquetas/decada-de-1990/)

@@ -17,11 +17,9 @@ permalink: /referentes/type-tools/
 
 
 ### Relevancia
-Type Tools es una herramienta generativa web que permite la manipulación paramétrica de la tipografía mediante filtros gráficos específicos (como Blur, Dither, Line o Slice). El sistema habilita al usuario para redactar textos y modificar sus atributos visuales en tiempo real a través de controles deslizantes que alteran la forma y textura del glifo.
+Type Tools funciona como una interfaz generativa web orientada a la manipulación paramétrica de la tipografía mediante filtros gráficos (Blur, Dither, Line o Slice). El sistema facilita la composición y el ajuste de la morfología y textura de los glifos en tiempo real a través de controles deslizantes, lo cual permite realizar ediciones complejas sin requerir conocimientos técnicos de programación.
 
-Su aportación consiste en permitir la edición morfológica de la tipografía mediante un sistema de filtros prediseñados, eliminando la necesidad de conocimientos de programación para manipular la estructura gráfica del texto.
-
-La relevancia de este proyecto para la investigación radica en que demuestra la viabilidad de herramientas web para la experimentación morfológica de la tipografía. Ilustra cómo la programación creativa permite generar sistemas de diseño donde la intervención del usuario sobre los parámetros define la apariencia final del texto.
+Su relevancia reside en el empleo de la programación creativa para desarrollar sistemas de diseño donde la apariencia final de los glifos se define exclusivamente mediante la gestión de parámetros por parte del usuario.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

@@ -17,9 +17,9 @@ permalink: /referentes/a-font-is-a-percussion-instrument/
 ### Relevancia
 Este trabajo se centra en el desarrollo de Coldtype, una librería de código abierto en Python para la composición y animación tipográfica mediante programación. El sistema está diseñado para explorar la relación entre la tipografía y la música.
 
-Su principal aportación es la creación de una herramienta especializada que permite definir con código las relaciones entre parámetros sonoros (como datos MIDI) y los ejes de variación de una fuente. Esto posibilita que las letras funcionen, en palabras de su creador, como *instrumentos de percusión*.
+Su principal aportación es la creación de una herramienta especializada que permite definir con código las relaciones entre parámetros sonoros (como datos MIDI) y los ejes de variación de una fuente. Esto posibilita que los tipos funcionen, en palabras de su creador, como *instrumentos de percusión*.
 
-La relevancia de este proyecto es tanto técnica como conceptual, al proporcionar una metodología y un software específico para investigar las correspondencias entre la tipografía y el sonido, estableciendo un nuevo modelo para la creación de identidades sonoras y visuales interactivas.
+La relevancia de este proyecto es tanto técnica como conceptual, al proporcionar una metodología y un *software* específico para investigar las correspondencias entre la tipografía y el sonido, estableciendo un nuevo modelo para la creación de identidades sonoras y visuales interactivas.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

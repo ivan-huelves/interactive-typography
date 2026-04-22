@@ -13,11 +13,11 @@ permalink: /referentes/timed-type/
 
 
 ### Relevancia
-Timed Type es una aplicación experimental desarrollada en Processing que vincula la morfología tipográfica con el tiempo. El sistema modifica la estructura de los glifos en tiempo real sincronizándose con los datos del reloj del sistema, provocando que la anatomía de la letra mute progresivamente según avanza el tiempo. 
+Timed Type es una aplicación experimental desarrollada en Processing que vincula la forma del glifo con el tiempo. El sistema modifica la estructura de los tipos en tiempo real sincronizándose con los datos del reloj del sistema, provocando que la anatomía del tipo mute progresivamente según avanza el tiempo. 
 
 Su aportación consiste en explorar la dimensión temporal como una variable de la tipografía, proponiendo un modelo donde la forma no es fija sino dependiente de un ciclo de datos continuo. 
 
-La relevancia de este proyecto para la investigación radica en que constituye un antecedente de la tipografía interactiva donde el input son datos en tiempo real.
+La relevancia de este proyecto para la investigación radica en que constituye un antecedente de la tipografía interactiva donde el *input* son datos en tiempo real.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

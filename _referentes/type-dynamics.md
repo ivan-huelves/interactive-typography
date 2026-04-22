@@ -21,11 +21,11 @@ permalink: /referentes/type-dynamics/
 
 
 ### Relevancia
-Type Dynamics es una instalación inmersiva donde se proyecta tipografía sobre las paredes, mostrando noticias en tiempo real. El sistema identifica lugares del mundo que son noticia en ese momento, extrae imágenes de Google Street View de esos sitios, las convierte en una retícula abstracta y la rellena con los titulares correspondientes.
+Type Dynamics es una instalación inmersiva donde se proyectan tipos sobre las paredes, mostrando noticias en tiempo real. El sistema identifica lugares del mundo que son noticia en ese momento, extrae imágenes de Google Street View de esos sitios, las convierte en una retícula abstracta y la rellena con los titulares correspondientes.
 
-Su principal aportación es que el entorno reacciona a los visitantes. El texto cambia según la posición y el movimiento del público, y cuando dos personas se acercan, el sistema lo detecta y genera nuevas formas visuales que reflejan su encuentro.
+Su principal aportación es que el entorno reacciona a los visitantes. Los tipos cambian según la posición y el movimiento del público, y cuando dos personas se acercan, el sistema lo detecta y genera nuevas formas visuales que reflejan su encuentro.
 
-La relevancia de este proyecto es que convierte el flujo de datos informativos en un paisaje físico y explorable. Demuestra cómo una instalación tipográfica ha sido diseñada para reaccionar a la propia dinámica social de la audiencia, convirtiendo a los visitantes en co-creadores de la experiencia visual.
+La relevancia de este proyecto es que convierte el flujo de datos informativos en un paisaje físico y explorable. Demuestra cómo una instalación tipográfica ha sido diseñada para interactuar con la dinámica social de la audiencia, convirtiendo a los visitantes en cocreadores de la experiencia visual.
 
 ### Clasificación
 * **Década:** [Década de 2010](/interactive-typography/etiquetas/decada-de-2010/)

@@ -13,11 +13,11 @@ permalink: /referentes/stream-of-consciousness/
 
 
 ### Relevancia
-Stream of Consciousness es una instalación descrita como un *jardín poético interactivo*. La obra consiste en una fuente física por la que fluye agua, sobre la cual se proyecta un *torrente de palabras*. Estas palabras flotan en la superficie del agua como si fueran hojas, creando una fusión entre el entorno físico y la tipografía digital.
+Stream of Consciousness es una instalación descrita como un jardín poético interactivo. La obra consiste en una fuente física por la que fluye agua, sobre la cual se proyecta un torrente de palabras. Estas palabras flotan en la superficie del agua como si fueran hojas, creando una fusión entre el entorno físico y la tipografía digital.
 
-Su principal aportación es el desarrollo y la implementación de una interfaz háptica líquida. Esta tecnología permite al usuario manipular gestualmente las palabras proyectadas. Puede detener el flujo del texto, tocar y agitar las palabras, o redirigir su curso, tratando los caracteres como si fueran objetos con propiedades físicas.
+Su principal aportación es el desarrollo y la implementación de una interfaz háptica. Esta tecnología permite al usuario manipular gestualmente los tipos proyectados deteniendo, agitando o redirigiendo el flujo del texto, tratando los tipos como si fueran objetos con propiedades físicas.
 
-La relevancia de este proyecto es que consolida la investigación de Small sobre la tipografía en espacios tridimensionales con comportamientos físicos. Explora la metáfora del *flujo de conciencia* de una manera artística, estableciendo un precedente fundamental para las interfaces tangibles y las experiencias tipográficas inmersivas que van más allá de la pantalla.
+La relevancia de este proyecto es que consolida la investigación de Small sobre la tipografía en espacios tridimensionales con comportamientos físicos. Explora la metáfora del flujo de conciencia de una manera artística, estableciendo un precedente fundamental para las interfaces tangibles y las experiencias tipográficas inmersivas que van más allá de la pantalla.
 
 ### Clasificación
 * **Década:** [Década de 1990](/interactive-typography/etiquetas/decada-de-1990/)

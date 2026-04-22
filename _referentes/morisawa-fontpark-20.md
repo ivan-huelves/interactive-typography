@@ -15,11 +15,11 @@ permalink: /referentes/morisawa-fontpark-20/
 
 
 ### Relevancia
-Morisawa Fontpark 2.0 es una herramienta web experimental diseñada por Yugo Nakamura que invita a los usuarios a *jugar* con la biblioteca de fuentes de la fundición Morisawa. La aplicación permite descomponer, rotar y reorganizar los glifos para crear composiciones gráficas o ilustraciones, tratando la tipografía no solo como caracteres. 
+Morisawa Fontpark 2.0 es una herramienta web diseñada por Yugo Nakamura que invita a los usuarios a experimentar con la biblioteca de tipografías de la fundición Morisawa. La aplicación permite descomponer, rotar y reorganizar los glifos para crear composiciones gráficas o ilustraciones, tratando la tipografía como un elemento gráfico. 
 
-Su aportación reside en la descontextualización de la función semántica de la letra para priorizar su valor plástico. El proyecto transforma el catálogo tipográfico en una herramienta de dibujo, donde el usuario explora la anatomía del carácter al fragmentarlo en trazos abstractos. 
+Su aportación reside en la descontextualización de la función semántica del tipo para priorizar su valor plástico. El proyecto transforma el catálogo tipográfico en una herramienta de dibujo, donde el usuario explora la anatomía del glifo al fragmentarlo en trazos abstractos. 
 
-La relevancia de este proyecto para la investigación reside en que establece un referente fundacional de los sistemas generativos de formas gráficas en la web. Demuestra cómo la interactividad permite disolver la frontera entre escritura e imagen, validando el uso del glifo digital como un elemento gráfico modular.
+La relevancia de este proyecto para la investigación reside en que establece un referente fundacional de los sistemas generativos de formas gráficas en la web. Demuestra cómo la interactividad permite disolver la frontera entre escritura e imagen, validando el uso del glifo como un elemento gráfico modular.
 
 ### Clasificación
 * **Década:** [Década de 2000](/interactive-typography/etiquetas/decada-de-2000/)

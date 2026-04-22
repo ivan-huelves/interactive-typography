@@ -19,11 +19,11 @@ permalink: /referentes/emotxt/
 
 
 ### Relevancia
-EMOTXT se define como un sistema tipográfico generativo diseñado para reintroducir la expresividad humana en la comunicación digital, actuando como un puente entre la escritura manual y el texto mecanizado. 
+Emotxt se define como un sistema tipográfico generativo diseñado para reintroducir la expresividad humana en la comunicación digital, actuando como un puente entre la escritura manual y el texto mecanizado. 
 
-Su aportación técnica consiste en el uso de algoritmos de aprendizaje automático que analizan la expresión facial del usuario en tiempo real para modular la morfología de la letra. La tristeza genera formas rígidas y rectangulares, mientras que la alegría produce trazos redondeados.
+Su aportación técnica consiste en el uso de algoritmos de aprendizaje automático que analizan la expresión facial del usuario en tiempo real para modular la morfología de los glifos. La tristeza genera formas rígidas y rectangulares, mientras que la alegría produce trazos redondeados.
 
-Para esta investigación, su relevancia radica en demostrar cómo la interacción se emplea para enriquecer la morfología de los caracteres y ampliar su capacidad de significación. El proyecto valida el reconocimiento facial no como herramienta de control, sino como un recurso expresivo que dota a la tipografía de matices emocionales.
+Para esta investigación, su relevancia radica en demostrar cómo la interacción se puede emplear para enriquecer la morfología de los glifos y ampliar su capacidad de significación.
 
 ### Clasificación
 * **Década:** [Década de 2020](/interactive-typography/etiquetas/decada-de-2020/)

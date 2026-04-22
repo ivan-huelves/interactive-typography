@@ -135,11 +135,11 @@ permalink: /etiquetas/producto-digital/
 
     <a href="/interactive-typography/referentes/no-design-foundry-tools/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/no design foundry 01.png" alt="Imagen de no design foundry Tools" loading="lazy">
+        <img src="/interactive-typography/images/referentes/no design foundry 01.png" alt="Imagen de No Design Foundry Tools" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            no design foundry Tools
+            No Design Foundry Tools
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           no design foundry
@@ -183,11 +183,11 @@ permalink: /etiquetas/producto-digital/
 
     <a href="/interactive-typography/referentes/segundo-soneto-meio-barroco/" class="project-card">
       <div class="card-image">
-        <img src="/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Imagen de Segundo Soneto Meio Barroco" loading="lazy">
+        <img src="/interactive-typography/images/referentes/Segundo Soneto Meio Barroco.jpeg" alt="Imagen de Segundo soneto meio barroco" loading="lazy">
       </div>
       <div class="card-content">
         <span class="card-title" style="display:block; font-weight:bold; margin-bottom:0.5rem;">
-            Segundo Soneto Meio Barroco
+            Segundo soneto meio barroco
         </span>
         <div class="card-meta" style="font-size: 0.9em; color: #666;">
           Alckmar Luiz dos Santos y Gilbertto Prado

@@ -13,11 +13,11 @@ permalink: /referentes/type-me-type-me-not/
 
 
 ### Relevancia
-Type Me, Type Me Not es un proyecto compuesto por tres experimentos que exploran la transición entre letras, la vinculación del sonido con la forma y la creación de glifos a partir de una cuadrícula.
+Type Me, Type Me Not es un proyecto compuesto por tres experimentos que exploran la transición entre caracteres, la vinculación del sonido con la forma y la creación de glifos a partir de una cuadrícula.
 
-Su principal aportación es demostrar que las tipografías pueden concebirse como sistemas paramétricos y no solo como formas completas. Esta aproximación pionera, que anticipa dinámicas hoy habituales en la tipografía variable e interactiva, fue reconocida con el Gold Award en la I.D. Magazine Interactive Media Review de 1998.
+Su principal aportación es demostrar que las tipografías pueden concebirse como sistemas paramétricos y no solo como formas completas. Esta aproximación pionera, que anticipa dinámicas hoy habituales en la tipografía variable, fue reconocida con el Gold Award en la I.D. Magazine Interactive Media Review de 1998.
 
-La relevancia para esta investigación es que constituye un antecedente fundamental de la tipografía interactiva. Establece un modelo para la investigación del comportamiento tipográfico digital, donde la forma no es fija, sino el resultado de un sistema de parámetros.
+La relevancia para esta investigación es que constituye un antecedente fundamental de la tipografía interactiva. Establece un modelo para la investigación del comportamiento del tipo, donde la forma no es fija, sino el resultado de un sistema paramétrico.
 
 ### Clasificación
 * **Década:** [Década de 1990](/interactive-typography/etiquetas/decada-de-1990/)
