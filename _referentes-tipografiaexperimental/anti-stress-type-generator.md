@@ -31,7 +31,7 @@ Aunque Anti-Stress Type Generator (galardonado con un premio Laus por su excelen
 * **Función:** [Sistema de diseño tipográfico](/interactive-typography/etiquetas-tipografiaexperimental/sistema-de-diseno-tipografico/)
 * **Contexto:** Investigación / Experimental
 * **Institución:** Escuela Superior de Diseño de Madrid
-* **Grado de interactividad:** Generativo
+* **Grado de interactividad:** [Interacción generativa](/interactive-typography/etiquetas-tipografiaexperimental/interaccion-generativa/)
 * **Input multimodal:** [No](/interactive-typography/etiquetas-tipografiaexperimental/multimodal-no/)
 * **Tipo de input:** [Algoritmo](/interactive-typography/etiquetas-tipografiaexperimental/algoritmo/)
 * **Tipo de output:** Generación tipográfica
