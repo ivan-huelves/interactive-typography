@@ -44,4 +44,4 @@ A partir de esta premisa queda en evidencia el potencial de la tipografía inter
 
 En el plano técnico, el desarrollo de este sistema evidencia que la correspondencia entre los valores de entrada y la variación tipográfica carece de una formulación matemática universal. La traducción de los datos exige supeditarse siempre a las particularidades de cada proyecto. En este caso concreto, factores tangibles como el tamaño de la pantalla o la presencia de retroiluminación determinan directamente si la progresión requiere un cálculo lineal o exponencial. Este hallazgo fundamenta la arquitectura del modelo al demostrar la necesidad de incorporar una fase de calibración previa donde el diseñador evalúe y ajuste los parámetros a las condiciones específicas y al contexto tecnológico de su propuesta.
 
-<a href="https://github.com/ivan-huelves/Sensor-Variable-Font_iluminacion" target="_blank" rel="noopener noreferrer">Más información en Github</a>
+<a href="https://github.com/ivan-huelves/interactive-typography-prototypes/tree/main/sensor-variable-font_iluminacion" target="_blank" rel="noopener noreferrer">Más información en Github</a>

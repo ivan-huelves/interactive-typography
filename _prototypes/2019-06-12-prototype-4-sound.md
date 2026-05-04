@@ -40,4 +40,4 @@ El análisis de este cuarto prototipo establece una base práctica para el futur
 
 En segundo lugar, el desarrollo técnico de esta animación en tiempo real confirma una nueva dimensión de escalabilidad para el sistema. Se constata empíricamente que una única fuente de entrada de datos, referida en este caso a la amplitud sonora, posee la capacidad de modificar varios ejes de variación de manera simultánea. Esta evidencia aporta un requisito arquitectónico clave al establecer que el futuro modelo deberá soportar relaciones múltiples donde un *input* modifique varios parámetros de variación al mismo tiempo.
 
-<a href="https://github.com/ivan-huelves/Sensor-Variable-Font_sonido" target="_blank" rel="noopener noreferrer">Más información en Github</a>
+<a href="https://github.com/ivan-huelves/interactive-typography-prototypes/tree/main/sensor-variable-font_sonido" target="_blank" rel="noopener noreferrer">Más información en Github</a>
