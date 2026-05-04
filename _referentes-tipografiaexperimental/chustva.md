@@ -3,14 +3,14 @@ layout: page
 title: "Chustva"
 author: "Sofía Barón Heranz"
 year: "2020"
-thumbnail: "/interactive-typography/images/referentes-tipografiaexperimental/cap06_10_Sofía Barón Heranz 01.jpg"
+thumbnail: "/interactive-typography/images/referentes-tipografiaexperimental/cap06_10_Sofía Barón Heranz 02.jpg"
 permalink: /referentes-tipografiaexperimental/chustva/
 ---
 **Sofía Barón Heranz, 2020**
 
-![Imagen de Chustva](/interactive-typography/images/referentes-tipografiaexperimental/cap06_10_Sofía Barón Heranz 01.jpg)
-
 ![Imagen de Chustva](/interactive-typography/images/referentes-tipografiaexperimental/cap06_10_Sofía Barón Heranz 02.jpg)
+
+![Imagen de Chustva](/interactive-typography/images/referentes-tipografiaexperimental/cap06_10_Sofía Barón Heranz 01.jpg)
 
 
 
