@@ -26,7 +26,7 @@ Análisis de los proyectos realizados por los estudiantes
 <p>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/interaccion-debil-o-reactiva/">Débil o reactiva</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/interaccion-fuerte-o-mutua/">Fuerte o mutua</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/generativo/">Generativa</a>
+<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/interaccion-generativa/">Generativa</a>
 </p>
 </div>
 
