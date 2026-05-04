@@ -14,7 +14,7 @@ Análisis de los proyectos realizados por los estudiantes
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/accesibilidad/">Accesibilidad</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/exploracion-formal-y-o-performativa/">Exploración formal y/o performativa</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/expresion-paralinguistica/">Expresión paralingüística</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/identidad-visual/">Identidad visual</a>
+<!-- <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/identidad-visual/">Identidad visual</a> -->
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/narrativa-social/">Narrativa social</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/sistema-de-diseno-tipografico/">Sistemas de diseño</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/visualizacion-de-datos/">Visualización de datos</a>
@@ -26,7 +26,7 @@ Análisis de los proyectos realizados por los estudiantes
 <p>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/interaccion-debil-o-reactiva/">Débil o reactiva</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/interaccion-fuerte-o-mutua/">Fuerte o mutua</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/interaccion-generativa/">Generativa</a>
+<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/generativo/">Generativa</a>
 </p>
 </div>
 
@@ -34,7 +34,7 @@ Análisis de los proyectos realizados por los estudiantes
 <div class="nav-links">
 <p>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/algoritmo/">Algoritmo</a>
-<a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/controlador-fisico/">Controlador físico</a>
+<!-- <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/controlador-fisico/">Controlador físico</a> -->
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/datos-externos/">Datos externos</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/gestual/">Gestual</a>
 <a href="{{ site.baseurl }}/etiquetas-tipografiaexperimental/perifericos-convencionales/">Periféricos convencionales</a>
