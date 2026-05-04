@@ -47,4 +47,4 @@ En este prototipo el diseño maestro intermedio se desplaza hacia un valor avanz
 
 Finalmente, el uso de la *Web Serial API* permite al navegador comunicarse directamente con el *hardware* prescindiendo de programas intermedios. Al eliminar el servidor utilizado en pruebas anteriores, el sistema consigue que los datos lleguen de forma más rápida y que el montaje resulte considerablemente más sencillo. Se concluye por tanto que el futuro modelo requiere apostar por estas conexiones directas para reducir los errores técnicos y facilitar la creación de sistemas tipográficos interactivos en el entorno web.
 
-<a href="https://ivan-huelves.github.io/Interactive-Typography-Prototypes/collective-typography/" target="_blank" rel="noopener noreferrer">Ver prototipo en funcionamiento</a>
+<a href="https://ivan-huelves.github.io/interactive-typography-prototypes/collective-typography/" target="_blank" rel="noopener noreferrer">Ver prototipo en funcionamiento</a>
