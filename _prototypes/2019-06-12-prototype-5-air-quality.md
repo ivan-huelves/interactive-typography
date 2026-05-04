@@ -45,4 +45,4 @@ En paralelo, este prototipo aporta una directriz fundamental sobre la relación 
 
 Finalmente, este prototipo confirma el potencial del modelo conceptual para el desarrollo de identidades visuales dinámicas. Se demuestra empíricamente que la alteración de la morfología del logotipo en función de datos externos permite alinear la forma gráfica con el propósito comunicativo de la entidad. Este planteamiento evidencia que la tipografía interactiva proporciona a las marcas la capacidad de operar como elementos paramétricos vivos capaces de reaccionar en tiempo real a su contexto.
 
-<a href="{{ site.baseurl }}/prototypes/brand-clean-air/" target="_blank" rel="noopener noreferrer">Ver prototipo en funcionamiento</a>
+<a href="[{{ site.baseurl }}/prototypes/brand-clean-air/](https://ivan-huelves.github.io/Interactive-Typography-Prototypes/brand-clean-air/)" target="_blank" rel="noopener noreferrer">Ver prototipo en funcionamiento</a>
