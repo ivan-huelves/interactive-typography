@@ -39,4 +39,4 @@ El análisis de este sexto prototipo supone una expansión conceptual para el fu
 
 Por otro lado, este prototipo aporta una dinámica nueva al convertir el mensaje escrito en el desencadenante de su propia transformación. El sistema otorga al texto una doble función al utilizarlo como contenido de lectura y como *input* de datos, de modo que el significado semántico del mensaje altera directamente la forma de los glifos. Esta característica demuestra que el mecanismo de significación del futuro modelo poseerá la capacidad de aumentar las capas semánticas del texto, revelando de forma visual información implícita.
 
-<a href="{{ site.baseurl }}/prototypes/echo-hate/" target="_blank" rel="noopener noreferrer">Ver prototipo en funcionamiento</a>
+<a href="https://ivan-huelves.github.io/Interactive-Typography-Prototypes/echo-hate/" target="_blank" rel="noopener noreferrer">Ver prototipo en funcionamiento</a>
