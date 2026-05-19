@@ -26,7 +26,7 @@ La relevancia para esta investigación es que el proyecto anticipa los sistemas 
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
 * **Input multimodal:** [No](/interactive-typography/etiquetas/multimodal-no/)
 * **Tipo de input:** [Periféricos convencionales](/interactive-typography/etiquetas/perifericos-convencionales/)
-* **Tipo de output:** Transformación morfológica, Transformación cromática
+* **Tipo de output:** Transformación morfológica, Transformación superficial
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** N. C.

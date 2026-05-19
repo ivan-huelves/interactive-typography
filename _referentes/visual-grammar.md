@@ -28,7 +28,7 @@ La relevancia de este proyecto para la investigación es que resulta clave para 
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
 * **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Datos externos](/interactive-typography/etiquetas/datos-externos/), [Sonido](/interactive-typography/etiquetas/sonido/)
-* **Tipo de output:** Transformación morfológica, Transformación cromática
+* **Tipo de output:** Transformación morfológica, Transformación superficial
 * **Tecnología empleada:** Tipografía variable
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [Sí](/interactive-typography/etiquetas/codificacion-textual-si/)

@@ -38,7 +38,7 @@ La relevancia de este proyecto para la investigación reside en que es un refere
 * **Grado de interactividad:** [Interacción débil o reactiva](/interactive-typography/etiquetas/interaccion-debil-o-reactiva/)
 * **Input multimodal:** [Sí](/interactive-typography/etiquetas/multimodal-si/)
 * **Tipo de input:** [Sonido](/interactive-typography/etiquetas/sonido/), [Controlador físico](/interactive-typography/etiquetas/controlador-fisico/)
-* **Tipo de output:** Transformación morfológica, Transformación cromática, Transformación espacial
+* **Tipo de output:** Transformación morfológica, Transformación superficial, Transformación espacial
 * **Tecnología empleada:** Desarrollo a medida
 * **Alfanumérica:** Sí
 * **Mantiene codificación textual:** [No](/interactive-typography/etiquetas/codificacion-textual-no/)
